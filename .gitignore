@@ -219,3 +219,5 @@ __marimo__/
 
 models/*.pkl
 models/*.joblib
+.DS_Store
+data/*.csv
