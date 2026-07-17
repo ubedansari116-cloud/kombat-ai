@@ -1,0 +1,29 @@
+Fighter Profile: Dustin Neace
+
+Identity
+Name: Dustin Neace
+Nickname: The Beast
+Professional Record: 25-21-1
+Stance: Unknown
+Date of Birth: Sep 12, 1986
+
+Physical Attributes
+Height: 175.26 cm
+Weight: 65.77 kg
+Reach: 175.26 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 2.08
+Significant Striking Accuracy: 32.0%
+Significant Strikes Absorbed per Minute: 2.66
+Significant Strike Defence: 56.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 0.00
+Takedown Accuracy: 0.0%
+Takedown Defence: 0.0%
+Average Submission Attempts per 15 Minutes: 1.70
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

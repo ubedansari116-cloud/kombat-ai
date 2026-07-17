@@ -1,0 +1,29 @@
+Fighter Profile: TJ Waldburger
+
+Identity
+Name: TJ Waldburger
+Nickname: None listed
+Professional Record: 16-9-0
+Stance: Orthodox
+Date of Birth: Apr 25, 1988
+
+Physical Attributes
+Height: 180.34 cm
+Weight: 77.11 kg
+Reach: 190.50 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 2.02
+Significant Striking Accuracy: 51.0%
+Significant Strikes Absorbed per Minute: 2.39
+Significant Strike Defence: 40.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 3.03
+Takedown Accuracy: 46.0%
+Takedown Defence: 40.0%
+Average Submission Attempts per 15 Minutes: 4.80
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

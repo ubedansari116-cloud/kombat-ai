@@ -1,0 +1,29 @@
+Fighter Profile: Alex Perez
+
+Identity
+Name: Alex Perez
+Nickname: None listed
+Professional Record: 25-9-0
+Stance: Orthodox
+Date of Birth: Mar 21, 1992
+
+Physical Attributes
+Height: 167.64 cm
+Weight: 56.70 kg
+Reach: 165.10 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 4.19
+Significant Striking Accuracy: 46.0%
+Significant Strikes Absorbed per Minute: 3.20
+Significant Strike Defence: 58.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 2.04
+Takedown Accuracy: 46.0%
+Takedown Defence: 77.0%
+Average Submission Attempts per 15 Minutes: 0.80
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

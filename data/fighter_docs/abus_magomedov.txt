@@ -1,0 +1,29 @@
+Fighter Profile: Abus Magomedov
+
+Identity
+Name: Abus Magomedov
+Nickname: None listed
+Professional Record: 28-6-1
+Stance: Orthodox
+Date of Birth: Sep 02, 1990
+
+Physical Attributes
+Height: 187.96 cm
+Weight: 83.91 kg
+Reach: 198.12 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 3.21
+Significant Striking Accuracy: 48.0%
+Significant Strikes Absorbed per Minute: 3.68
+Significant Strike Defence: 56.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 2.65
+Takedown Accuracy: 57.0%
+Takedown Defence: 100.0%
+Average Submission Attempts per 15 Minutes: 0.20
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

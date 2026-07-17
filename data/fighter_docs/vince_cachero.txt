@@ -1,0 +1,29 @@
+Fighter Profile: Vince Cachero
+
+Identity
+Name: Vince Cachero
+Nickname: The Anomaly
+Professional Record: 7-4-0
+Stance: Orthodox
+Date of Birth: Nov 07, 1989
+
+Physical Attributes
+Height: 167.64 cm
+Weight: 65.77 kg
+Reach: 172.72 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 3.29
+Significant Striking Accuracy: 45.0%
+Significant Strikes Absorbed per Minute: 6.51
+Significant Strike Defence: 43.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 0.00
+Takedown Accuracy: 0.0%
+Takedown Defence: 18.0%
+Average Submission Attempts per 15 Minutes: 0.50
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

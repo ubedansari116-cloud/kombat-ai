@@ -1,0 +1,29 @@
+Fighter Profile: Gregor Gillespie
+
+Identity
+Name: Gregor Gillespie
+Nickname: The Gift
+Professional Record: 14-1-0
+Stance: Orthodox
+Date of Birth: Nov 13, 1986
+
+Physical Attributes
+Height: 170.18 cm
+Weight: 70.31 kg
+Reach: 180.34 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 3.74
+Significant Striking Accuracy: 52.0%
+Significant Strikes Absorbed per Minute: 2.30
+Significant Strike Defence: 57.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 6.86
+Takedown Accuracy: 48.0%
+Takedown Defence: 100.0%
+Average Submission Attempts per 15 Minutes: 0.80
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

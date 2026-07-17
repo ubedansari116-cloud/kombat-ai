@@ -1,0 +1,29 @@
+Fighter Profile: Murilo Bustamante
+
+Identity
+Name: Murilo Bustamante
+Nickname: None listed
+Professional Record: 15-8-1
+Stance: Orthodox
+Date of Birth: Jul 30, 1966
+
+Physical Attributes
+Height: 187.96 cm
+Weight: 83.01 kg
+Reach: Unknown cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 1.33
+Significant Striking Accuracy: 32.0%
+Significant Strikes Absorbed per Minute: 1.90
+Significant Strike Defence: 60.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 2.46
+Takedown Accuracy: 33.0%
+Takedown Defence: 54.0%
+Average Submission Attempts per 15 Minutes: 1.20
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

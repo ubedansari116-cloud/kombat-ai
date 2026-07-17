@@ -1,0 +1,29 @@
+Fighter Profile: Duda Santana
+
+Identity
+Name: Duda Santana
+Nickname: Cowboyzinha
+Professional Record: 3-1-0
+Stance: Orthodox
+Date of Birth: Jan 10, 1996
+
+Physical Attributes
+Height: 170.18 cm
+Weight: 65.77 kg
+Reach: 185.42 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 6.01
+Significant Striking Accuracy: 39.0%
+Significant Strikes Absorbed per Minute: 2.72
+Significant Strike Defence: 73.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 6.44
+Takedown Accuracy: 60.0%
+Takedown Defence: 0.0%
+Average Submission Attempts per 15 Minutes: 0.00
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

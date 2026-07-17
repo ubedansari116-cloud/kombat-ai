@@ -1,0 +1,29 @@
+Fighter Profile: Karlos Vemola
+
+Identity
+Name: Karlos Vemola
+Nickname: None listed
+Professional Record: 17-5-0
+Stance: Orthodox
+Date of Birth: Jul 03, 1985
+
+Physical Attributes
+Height: 182.88 cm
+Weight: 83.91 kg
+Reach: 190.50 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 1.67
+Significant Striking Accuracy: 44.0%
+Significant Strikes Absorbed per Minute: 2.13
+Significant Strike Defence: 37.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 1.93
+Takedown Accuracy: 25.0%
+Takedown Defence: 31.0%
+Average Submission Attempts per 15 Minutes: 1.70
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

@@ -1,0 +1,29 @@
+Fighter Profile: Shamil Abdurakhimov
+
+Identity
+Name: Shamil Abdurakhimov
+Nickname: Abrek
+Professional Record: 20-8-0
+Stance: Orthodox
+Date of Birth: Sep 02, 1981
+
+Physical Attributes
+Height: 190.50 cm
+Weight: 106.59 kg
+Reach: 193.04 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 2.41
+Significant Striking Accuracy: 44.0%
+Significant Strikes Absorbed per Minute: 3.02
+Significant Strike Defence: 55.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 1.01
+Takedown Accuracy: 23.0%
+Takedown Defence: 45.0%
+Average Submission Attempts per 15 Minutes: 0.10
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

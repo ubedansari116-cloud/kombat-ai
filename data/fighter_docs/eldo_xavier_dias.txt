@@ -1,0 +1,29 @@
+Fighter Profile: Eldo Xavier Dias
+
+Identity
+Name: Eldo Xavier Dias
+Nickname: None listed
+Professional Record: 0-1-0
+Stance: Unknown
+Date of Birth: Jul 16, 1964
+
+Physical Attributes
+Height: 180.34 cm
+Weight: 81.65 kg
+Reach: Unknown cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 0.00
+Significant Striking Accuracy: 0.0%
+Significant Strikes Absorbed per Minute: 0.00
+Significant Strike Defence: 0.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 0.00
+Takedown Accuracy: 0.0%
+Takedown Defence: 0.0%
+Average Submission Attempts per 15 Minutes: 0.00
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

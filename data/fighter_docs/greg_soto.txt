@@ -1,0 +1,29 @@
+Fighter Profile: Greg Soto
+
+Identity
+Name: Greg Soto
+Nickname: None listed
+Professional Record: 9-4-0
+Stance: Orthodox
+Date of Birth: Jun 03, 1986
+
+Physical Attributes
+Height: 180.34 cm
+Weight: 77.11 kg
+Reach: 185.42 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 3.21
+Significant Striking Accuracy: 63.0%
+Significant Strikes Absorbed per Minute: 2.61
+Significant Strike Defence: 52.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 1.49
+Takedown Accuracy: 27.0%
+Takedown Defence: 44.0%
+Average Submission Attempts per 15 Minutes: 1.00
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

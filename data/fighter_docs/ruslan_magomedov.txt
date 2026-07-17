@@ -1,0 +1,29 @@
+Fighter Profile: Ruslan Magomedov
+
+Identity
+Name: Ruslan Magomedov
+Nickname: Leopard
+Professional Record: 14-1-0
+Stance: Orthodox
+Date of Birth: Nov 26, 1986
+
+Physical Attributes
+Height: 190.50 cm
+Weight: 109.77 kg
+Reach: 198.12 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 4.02
+Significant Striking Accuracy: 47.0%
+Significant Strikes Absorbed per Minute: 1.47
+Significant Strike Defence: 66.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 0.33
+Takedown Accuracy: 100.0%
+Takedown Defence: 88.0%
+Average Submission Attempts per 15 Minutes: 0.00
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

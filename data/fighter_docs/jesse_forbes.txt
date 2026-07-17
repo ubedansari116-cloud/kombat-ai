@@ -1,0 +1,29 @@
+Fighter Profile: Jesse Forbes
+
+Identity
+Name: Jesse Forbes
+Nickname: Kid Hercules
+Professional Record: 15-5-0
+Stance: Southpaw
+Date of Birth: Oct 24, 1984
+
+Physical Attributes
+Height: 187.96 cm
+Weight: 83.91 kg
+Reach: 190.50 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 2.11
+Significant Striking Accuracy: 24.0%
+Significant Strikes Absorbed per Minute: 4.06
+Significant Strike Defence: 53.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 1.79
+Takedown Accuracy: 75.0%
+Takedown Defence: 66.0%
+Average Submission Attempts per 15 Minutes: 1.20
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

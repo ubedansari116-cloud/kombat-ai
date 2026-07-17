@@ -1,0 +1,29 @@
+Fighter Profile: Keith Jardine
+
+Identity
+Name: Keith Jardine
+Nickname: The Dean of Mean
+Professional Record: 17-11-2
+Stance: Orthodox
+Date of Birth: Oct 31, 1975
+
+Physical Attributes
+Height: 187.96 cm
+Weight: 83.91 kg
+Reach: 193.04 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 3.25
+Significant Striking Accuracy: 36.0%
+Significant Strikes Absorbed per Minute: 2.98
+Significant Strike Defence: 59.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 1.18
+Takedown Accuracy: 45.0%
+Takedown Defence: 62.0%
+Average Submission Attempts per 15 Minutes: 0.70
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

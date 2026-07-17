@@ -1,0 +1,29 @@
+Fighter Profile: Magnus Cedenblad
+
+Identity
+Name: Magnus Cedenblad
+Nickname: Jycken
+Professional Record: 14-5-0
+Stance: Orthodox
+Date of Birth: Apr 10, 1982
+
+Physical Attributes
+Height: 195.58 cm
+Weight: 83.91 kg
+Reach: 200.66 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 2.38
+Significant Striking Accuracy: 51.0%
+Significant Strikes Absorbed per Minute: 3.02
+Significant Strike Defence: 40.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 2.87
+Takedown Accuracy: 64.0%
+Takedown Defence: 66.0%
+Average Submission Attempts per 15 Minutes: 1.00
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.

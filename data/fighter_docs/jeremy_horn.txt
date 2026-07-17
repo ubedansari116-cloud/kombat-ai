@@ -1,0 +1,29 @@
+Fighter Profile: Jeremy Horn
+
+Identity
+Name: Jeremy Horn
+Nickname: Gumby
+Professional Record: 91-22-5
+Stance: Orthodox
+Date of Birth: Aug 25, 1975
+
+Physical Attributes
+Height: 185.42 cm
+Weight: 83.91 kg
+Reach: 187.96 cm
+
+Striking Statistics
+Significant Strikes Landed per Minute: 1.19
+Significant Striking Accuracy: 39.0%
+Significant Strikes Absorbed per Minute: 1.99
+Significant Strike Defence: 55.0%
+
+Grappling Statistics
+Average Takedowns Landed per 15 Minutes: 1.83
+Takedown Accuracy: 38.0%
+Takedown Defence: 29.0%
+Average Submission Attempts per 15 Minutes: 1.10
+
+Data Note
+This profile is generated from structured historical fighter statistics.
+The statistics describe recorded performance and should not be treated as a complete account of current form, strategy, injuries, or recent development.
