@@ -1,0 +1,11 @@
+matchup,retrieval_ok,retrieved_fighter_one,retrieved_fighter_two,predicted_winner,Islam Makhachev_probability,Charles Oliveira_probability,reverse_order_probability_for_first_fighter,order_difference,order_consistent_within_5_points,extreme_probability_90_plus,manual_eye_test,notes,Ilia Topuria_probability,Jon Jones_probability,Tom Aspinall_probability,Dricus du Plessis_probability,Khamzat Chimaev_probability,Merab Dvalishvili_probability,Sean O'Malley_probability,Alexander Volkanovski_probability,Belal Muhammad_probability,Leon Edwards_probability,Petr Yan_probability,Umar Nurmagomedov_probability,Alex Pereira_probability,Arman Tsarukyan_probability
+Islam Makhachev vs Charles Oliveira,True,Islam Makhachev,Charles Oliveira,Islam Makhachev,67.09,32.91,65.2,1.89,True,False,,,,,,,,,,,,,,,,
+Islam Makhachev vs Ilia Topuria,True,Islam Makhachev,Ilia Topuria,Islam Makhachev,65.07,,68.37,3.3,True,False,,,34.93,,,,,,,,,,,,,
+Jon Jones vs Tom Aspinall,True,Jon Jones,Tom Aspinall,Tom Aspinall,,,46.37,1.17,True,False,,,,45.2,54.8,,,,,,,,,,,
+Dricus du Plessis vs Khamzat Chimaev,False,Dricus Du Plessis,Khamzat Chimaev,Khamzat Chimaev,,,,,False,False,,,,,,,62.74,,,,,,,,,
+Merab Dvalishvili vs Sean O'Malley,True,Merab Dvalishvili,Sean O'Malley,Merab Dvalishvili,,,65.68,0.12,True,False,,,,,,,,65.8,34.2,,,,,,,
+Alexander Volkanovski vs Ilia Topuria,True,Alexander Volkanovski,Ilia Topuria,Alexander Volkanovski,,,56.56,0.51,True,False,,,43.95,,,,,,,56.05,,,,,,
+Belal Muhammad vs Leon Edwards,True,Belal Muhammad,Leon Edwards,Belal Muhammad,,,65.01,0.53,True,False,,,,,,,,,,,64.48,35.52,,,,
+Petr Yan vs Umar Nurmagomedov,True,Petr Yan,Umar Nurmagomedov,Umar Nurmagomedov,,,34.1,0.72,True,False,,,,,,,,,,,,,34.82,65.18,,
+Alex Pereira vs Tom Aspinall,True,Alex Pereira,Tom Aspinall,Tom Aspinall,,,10.33,1.17,True,True,,,,,90.84,,,,,,,,,,9.16,
+Charles Oliveira vs Arman Tsarukyan,True,Charles Oliveira,Arman Tsarukyan,Arman Tsarukyan,,35.39,37.58,2.19,True,False,,,,,,,,,,,,,,,,64.61
