@@ -3,6 +3,7 @@ Fighter Profile: Mike Wessel
 Identity
 Name: Mike Wessel
 Nickname: Juggernaut
+Division: heavyweight
 Professional Record: 15-8-0
 Stance: Orthodox
 Date of Birth: Dec 02, 1977

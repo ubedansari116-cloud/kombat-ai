@@ -3,6 +3,7 @@ Fighter Profile: Jose Medina
 Identity
 Name: Jose Medina
 Nickname: Chicho
+Division: middleweight
 Professional Record: 11-5-0
 Stance: Orthodox
 Date of Birth: May 17, 1991

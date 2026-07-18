@@ -3,6 +3,7 @@ Fighter Profile: Darrel Gholar
 Identity
 Name: Darrel Gholar
 Nickname: None listed
+Division: middleweight
 Professional Record: 5-6-0
 Stance: Orthodox
 Date of Birth: Unknown

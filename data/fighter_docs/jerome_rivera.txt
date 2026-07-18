@@ -3,6 +3,7 @@ Fighter Profile: Jerome Rivera
 Identity
 Name: Jerome Rivera
 Nickname: Renegade
+Division: flyweight
 Professional Record: 10-6-0
 Stance: Southpaw
 Date of Birth: Apr 22, 1995

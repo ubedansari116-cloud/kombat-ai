@@ -3,6 +3,7 @@ Fighter Profile: Tucker Lutz
 Identity
 Name: Tucker Lutz
 Nickname: Top Gun
+Division: featherweight
 Professional Record: 12-4-0
 Stance: Orthodox
 Date of Birth: Jul 12, 1994

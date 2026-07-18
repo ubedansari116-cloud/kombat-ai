@@ -3,6 +3,7 @@ Fighter Profile: Aljamain Sterling
 Identity
 Name: Aljamain Sterling
 Nickname: Funk Master
+Division: catch weight
 Professional Record: 25-5-0
 Stance: Orthodox
 Date of Birth: Jul 31, 1989

@@ -3,6 +3,7 @@ Fighter Profile: Rinat Fakhretdinov
 Identity
 Name: Rinat Fakhretdinov
 Nickname: Gladiator
+Division: welterweight
 Professional Record: 24-1-1
 Stance: Orthodox
 Date of Birth: Sep 28, 1991

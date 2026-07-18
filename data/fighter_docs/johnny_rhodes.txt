@@ -3,6 +3,7 @@ Fighter Profile: Johnny Rhodes
 Identity
 Name: Johnny Rhodes
 Nickname: None listed
+Division: open weight
 Professional Record: 2-1-0
 Stance: Orthodox
 Date of Birth: Unknown

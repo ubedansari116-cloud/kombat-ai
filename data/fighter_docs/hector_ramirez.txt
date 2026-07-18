@@ -3,6 +3,7 @@ Fighter Profile: Hector Ramirez
 Identity
 Name: Hector Ramirez
 Nickname: Sick Dog
+Division: light heavyweight
 Professional Record: 10-6-1
 Stance: Orthodox
 Date of Birth: Mar 28, 1976

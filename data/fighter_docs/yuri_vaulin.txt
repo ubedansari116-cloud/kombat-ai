@@ -3,6 +3,7 @@ Fighter Profile: Yuri Vaulin
 Identity
 Name: Yuri Vaulin
 Nickname: None listed
+Division: lightweight
 Professional Record: 0-1-0
 Stance: Southpaw
 Date of Birth: Unknown

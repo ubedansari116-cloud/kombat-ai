@@ -3,6 +3,7 @@ Fighter Profile: Alvaro Herrera Mendoza
 Identity
 Name: Alvaro Herrera Mendoza
 Nickname: Chango
+Division: lightweight
 Professional Record: 9-6-0
 Stance: Orthodox
 Date of Birth: May 14, 1990

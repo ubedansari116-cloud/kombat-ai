@@ -3,6 +3,7 @@ Fighter Profile: Cole Miller
 Identity
 Name: Cole Miller
 Nickname: Magrinho
+Division: featherweight
 Professional Record: 21-11-0
 Stance: Orthodox
 Date of Birth: Apr 26, 1984

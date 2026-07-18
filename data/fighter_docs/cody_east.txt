@@ -3,6 +3,7 @@ Fighter Profile: Cody East
 Identity
 Name: Cody East
 Nickname: The Freight Train
+Division: heavyweight
 Professional Record: 12-3-0
 Stance: Orthodox
 Date of Birth: Jun 29, 1988

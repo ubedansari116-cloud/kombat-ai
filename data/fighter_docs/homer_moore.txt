@@ -3,6 +3,7 @@ Fighter Profile: Homer Moore
 Identity
 Name: Homer Moore
 Nickname: The Rock
+Division: light heavyweight
 Professional Record: 26-9-2
 Stance: Orthodox
 Date of Birth: Nov 27, 1971

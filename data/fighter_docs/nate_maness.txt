@@ -3,6 +3,7 @@ Fighter Profile: Nate Maness
 Identity
 Name: Nate Maness
 Nickname: Mayhem
+Division: flyweight
 Professional Record: 16-3-0
 Stance: Orthodox
 Date of Birth: Jun 27, 1991

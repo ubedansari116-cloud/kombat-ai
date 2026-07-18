@@ -3,6 +3,7 @@ Fighter Profile: Boston Salmon
 Identity
 Name: Boston Salmon
 Nickname: Boom Boom
+Division: bantamweight
 Professional Record: 6-3-0
 Stance: Southpaw
 Date of Birth: Nov 20, 1990

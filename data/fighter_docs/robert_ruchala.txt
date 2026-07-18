@@ -3,6 +3,7 @@ Fighter Profile: Robert Ruchala
 Identity
 Name: Robert Ruchala
 Nickname: Faker
+Division: featherweight
 Professional Record: 11-2-0
 Stance: Switch
 Date of Birth: May 15, 1998

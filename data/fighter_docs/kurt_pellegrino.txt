@@ -3,6 +3,7 @@ Fighter Profile: Kurt Pellegrino
 Identity
 Name: Kurt Pellegrino
 Nickname: Batman
+Division: lightweight
 Professional Record: 16-7-0
 Stance: Orthodox
 Date of Birth: May 07, 1979

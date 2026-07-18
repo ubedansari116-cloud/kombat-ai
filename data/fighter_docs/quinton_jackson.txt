@@ -3,6 +3,7 @@ Fighter Profile: Quinton Jackson
 Identity
 Name: Quinton Jackson
 Nickname: Rampage
+Division: catch weight
 Professional Record: 37-12-0
 Stance: Orthodox
 Date of Birth: Jun 20, 1978

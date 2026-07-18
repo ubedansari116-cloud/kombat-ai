@@ -3,6 +3,7 @@ Fighter Profile: Crafton Wallace
 Identity
 Name: Crafton Wallace
 Nickname: Blaze
+Division: middleweight
 Professional Record: 18-6-1
 Stance: Orthodox
 Date of Birth: Nov 10, 1975

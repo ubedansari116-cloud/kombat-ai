@@ -3,6 +3,7 @@ Fighter Profile: Francisco Figueiredo
 Identity
 Name: Francisco Figueiredo
 Nickname: Sniper
+Division: flyweight
 Professional Record: 13-5-1
 Stance: Southpaw
 Date of Birth: Oct 23, 1989

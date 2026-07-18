@@ -3,6 +3,7 @@ Fighter Profile: Preston Parsons
 Identity
 Name: Preston Parsons
 Nickname: Pressure
+Division: welterweight
 Professional Record: 11-6-0
 Stance: Orthodox
 Date of Birth: Jul 15, 1995

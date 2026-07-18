@@ -3,6 +3,7 @@ Fighter Profile: Brad Imes
 Identity
 Name: Brad Imes
 Nickname: Hillbilly Heartthrob
+Division: heavyweight
 Professional Record: 13-7-0
 Stance: Orthodox
 Date of Birth: Mar 13, 1977

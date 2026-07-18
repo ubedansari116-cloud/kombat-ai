@@ -3,6 +3,7 @@ Fighter Profile: Cole Williams
 Identity
 Name: Cole Williams
 Nickname: Havoc
+Division: welterweight
 Professional Record: 11-3-0
 Stance: Orthodox
 Date of Birth: Dec 15, 1983

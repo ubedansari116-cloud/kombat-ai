@@ -3,6 +3,7 @@ Fighter Profile: Charles Byrd
 Identity
 Name: Charles Byrd
 Nickname: Kid Dynamite
+Division: middleweight
 Professional Record: 10-7-0
 Stance: Orthodox
 Date of Birth: Oct 11, 1983

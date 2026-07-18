@@ -3,6 +3,7 @@ Fighter Profile: Shane Carwin
 Identity
 Name: Shane Carwin
 Nickname: The Engineer
+Division: heavyweight
 Professional Record: 12-2-0
 Stance: Orthodox
 Date of Birth: Jan 04, 1975

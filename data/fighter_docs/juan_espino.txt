@@ -3,6 +3,7 @@ Fighter Profile: Juan Espino
 Identity
 Name: Juan Espino
 Nickname: El Guapo
+Division: heavyweight
 Professional Record: 11-2-0
 Stance: Orthodox
 Date of Birth: Oct 09, 1980

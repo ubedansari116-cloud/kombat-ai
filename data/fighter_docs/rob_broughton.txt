@@ -3,6 +3,7 @@ Fighter Profile: Rob Broughton
 Identity
 Name: Rob Broughton
 Nickname: The Bear
+Division: heavyweight
 Professional Record: 16-7-1
 Stance: Orthodox
 Date of Birth: Mar 03, 1983

@@ -3,6 +3,7 @@ Fighter Profile: Alex Torres
 Identity
 Name: Alex Torres
 Nickname: Rolo
+Division: featherweight
 Professional Record: 5-4-0
 Stance: Orthodox
 Date of Birth: May 29, 1988

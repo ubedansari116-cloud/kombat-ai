@@ -3,6 +3,7 @@ Fighter Profile: Forrest Griffin
 Identity
 Name: Forrest Griffin
 Nickname: None listed
+Division: light heavyweight
 Professional Record: 19-7-0
 Stance: Orthodox
 Date of Birth: Mar 16, 1979

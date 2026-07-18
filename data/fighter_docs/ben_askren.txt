@@ -3,6 +3,7 @@ Fighter Profile: Ben Askren
 Identity
 Name: Ben Askren
 Nickname: Funky
+Division: welterweight
 Professional Record: 19-2-0
 Stance: Orthodox
 Date of Birth: Jul 18, 1984

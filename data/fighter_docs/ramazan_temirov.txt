@@ -3,6 +3,7 @@ Fighter Profile: Ramazan Temirov
 Identity
 Name: Ramazan Temirov
 Nickname: Temurlan
+Division: flyweight
 Professional Record: 19-3-0
 Stance: Orthodox
 Date of Birth: Jan 31, 1997

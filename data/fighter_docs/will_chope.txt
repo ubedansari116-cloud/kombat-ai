@@ -3,6 +3,7 @@ Fighter Profile: Will Chope
 Identity
 Name: Will Chope
 Nickname: The Kill
+Division: featherweight
 Professional Record: 34-13-0
 Stance: Switch
 Date of Birth: Sep 08, 1990

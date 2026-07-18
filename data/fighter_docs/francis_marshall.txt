@@ -3,6 +3,7 @@ Fighter Profile: Francis Marshall
 Identity
 Name: Francis Marshall
 Nickname: Fire
+Division: featherweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Mar 03, 1999

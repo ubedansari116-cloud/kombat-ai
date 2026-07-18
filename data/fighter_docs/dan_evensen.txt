@@ -3,6 +3,7 @@ Fighter Profile: Dan Evensen
 Identity
 Name: Dan Evensen
 Nickname: The Viking
+Division: heavyweight
 Professional Record: 11-4-0
 Stance: Orthodox
 Date of Birth: Jun 01, 1974

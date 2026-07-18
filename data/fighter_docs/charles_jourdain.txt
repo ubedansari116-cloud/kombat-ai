@@ -3,6 +3,7 @@ Fighter Profile: Charles Jourdain
 Identity
 Name: Charles Jourdain
 Nickname: Air
+Division: bantamweight
 Professional Record: 16-8-1
 Stance: Switch
 Date of Birth: Nov 27, 1995

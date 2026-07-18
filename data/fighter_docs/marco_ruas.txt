@@ -3,6 +3,7 @@ Fighter Profile: Marco Ruas
 Identity
 Name: Marco Ruas
 Nickname: King of the Streets
+Division: heavyweight
 Professional Record: 9-4-2
 Stance: Orthodox
 Date of Birth: Jan 23, 1961

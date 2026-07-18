@@ -3,6 +3,7 @@ Fighter Profile: Alex Hunter
 Identity
 Name: Alex Hunter
 Nickname: None listed
+Division: heavyweight
 Professional Record: 2-0-0
 Stance: Orthodox
 Date of Birth: Unknown

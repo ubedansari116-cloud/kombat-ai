@@ -3,6 +3,7 @@ Fighter Profile: Dmitrii Smoliakov
 Identity
 Name: Dmitrii Smoliakov
 Nickname: The Lifeguard
+Division: heavyweight
 Professional Record: 9-3-0
 Stance: Switch
 Date of Birth: Aug 05, 1982

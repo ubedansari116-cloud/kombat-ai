@@ -3,6 +3,7 @@ Fighter Profile: Jake Collier
 Identity
 Name: Jake Collier
 Nickname: The Prototype
+Division: heavyweight
 Professional Record: 13-10-0
 Stance: Orthodox
 Date of Birth: Oct 25, 1988

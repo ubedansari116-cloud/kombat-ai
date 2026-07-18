@@ -3,6 +3,7 @@ Fighter Profile: Gray Maynard
 Identity
 Name: Gray Maynard
 Nickname: None listed
+Division: lightweight
 Professional Record: 13-7-1
 Stance: Orthodox
 Date of Birth: May 09, 1979

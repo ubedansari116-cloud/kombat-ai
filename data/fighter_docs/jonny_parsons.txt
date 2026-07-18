@@ -3,6 +3,7 @@ Fighter Profile: Jonny Parsons
 Identity
 Name: Jonny Parsons
 Nickname: The Sluggernaut
+Division: welterweight
 Professional Record: 9-3-0
 Stance: Orthodox
 Date of Birth: Sep 06, 1991

@@ -3,6 +3,7 @@ Fighter Profile: Ryan Benoit
 Identity
 Name: Ryan Benoit
 Nickname: Baby Face
+Division: flyweight
 Professional Record: 10-8-0
 Stance: Orthodox
 Date of Birth: Aug 25, 1989

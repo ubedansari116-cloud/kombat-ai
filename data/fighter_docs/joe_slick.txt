@@ -3,6 +3,7 @@ Fighter Profile: Joe Slick
 Identity
 Name: Joe Slick
 Nickname: None listed
+Division: middleweight
 Professional Record: 16-5-3
 Stance: Orthodox
 Date of Birth: Oct 17, 1977

@@ -3,6 +3,7 @@ Fighter Profile: Malcolm Wellmaker
 Identity
 Name: Malcolm Wellmaker
 Nickname: The Machine
+Division: bantamweight
 Professional Record: 10-0-0
 Stance: Switch
 Date of Birth: Jun 04, 1994

@@ -3,6 +3,7 @@ Fighter Profile: Joe Vedepo
 Identity
 Name: Joe Vedepo
 Nickname: The Doctor
+Division: middleweight
 Professional Record: 18-9-0
 Stance: Orthodox
 Date of Birth: Unknown

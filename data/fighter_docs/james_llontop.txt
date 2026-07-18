@@ -3,6 +3,7 @@ Fighter Profile: James Llontop
 Identity
 Name: James Llontop
 Nickname: Goku
+Division: catch weight
 Professional Record: 14-5-0
 Stance: Orthodox
 Date of Birth: Aug 02, 1999

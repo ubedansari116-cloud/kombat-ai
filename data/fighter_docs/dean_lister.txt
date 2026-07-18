@@ -3,6 +3,7 @@ Fighter Profile: Dean Lister
 Identity
 Name: Dean Lister
 Nickname: The Boogeyman
+Division: middleweight
 Professional Record: 13-7-0
 Stance: Orthodox
 Date of Birth: Feb 13, 1976

@@ -3,6 +3,7 @@ Fighter Profile: Frank Trigg
 Identity
 Name: Frank Trigg
 Nickname: Twinkle Toes
+Division: welterweight
 Professional Record: 21-9-0
 Stance: Southpaw
 Date of Birth: May 07, 1972

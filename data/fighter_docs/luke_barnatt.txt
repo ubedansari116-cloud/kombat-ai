@@ -3,6 +3,7 @@ Fighter Profile: Luke Barnatt
 Identity
 Name: Luke Barnatt
 Nickname: The Bigslow
+Division: middleweight
 Professional Record: 13-4-0
 Stance: Orthodox
 Date of Birth: Apr 13, 1988

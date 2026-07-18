@@ -3,6 +3,7 @@ Fighter Profile: Marcos Vinicius
 Identity
 Name: Marcos Vinicius
 Nickname: Vina
+Division: flyweight
 Professional Record: 23-11-1
 Stance: Orthodox
 Date of Birth: Dec 05, 1979

@@ -3,6 +3,7 @@ Fighter Profile: Zane Frazier
 Identity
 Name: Zane Frazier
 Nickname: Nasty
+Division: open weight
 Professional Record: 4-11-0
 Stance: Orthodox
 Date of Birth: Unknown

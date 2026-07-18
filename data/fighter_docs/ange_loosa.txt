@@ -3,6 +3,7 @@ Fighter Profile: Ange Loosa
 Identity
 Name: Ange Loosa
 Nickname: The Last Ninja
+Division: welterweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: Mar 18, 1993

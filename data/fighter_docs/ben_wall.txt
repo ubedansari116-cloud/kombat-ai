@@ -3,6 +3,7 @@ Fighter Profile: Ben Wall
 Identity
 Name: Ben Wall
 Nickname: Manimal
+Division: lightweight
 Professional Record: 8-7-1
 Stance: Orthodox
 Date of Birth: Mar 25, 1989

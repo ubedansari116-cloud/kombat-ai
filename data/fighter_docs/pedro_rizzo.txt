@@ -3,6 +3,7 @@ Fighter Profile: Pedro Rizzo
 Identity
 Name: Pedro Rizzo
 Nickname: The Rock
+Division: heavyweight
 Professional Record: 20-11-0
 Stance: Orthodox
 Date of Birth: May 03, 1974

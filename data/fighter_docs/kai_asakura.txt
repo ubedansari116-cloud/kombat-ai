@@ -3,6 +3,7 @@ Fighter Profile: Kai Asakura
 Identity
 Name: Kai Asakura
 Nickname: None listed
+Division: flyweight
 Professional Record: 21-6-0
 Stance: Orthodox
 Date of Birth: Oct 31, 1993

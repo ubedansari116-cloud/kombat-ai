@@ -3,6 +3,7 @@ Fighter Profile: Paul Buentello
 Identity
 Name: Paul Buentello
 Nickname: The Headhunter
+Division: heavyweight
 Professional Record: 35-17-0
 Stance: Orthodox
 Date of Birth: Jan 16, 1974

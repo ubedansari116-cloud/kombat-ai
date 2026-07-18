@@ -3,6 +3,7 @@ Fighter Profile: Alan Baudot
 Identity
 Name: Alan Baudot
 Nickname: The Black Samourai
+Division: heavyweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Feb 01, 1988

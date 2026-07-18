@@ -3,6 +3,7 @@ Fighter Profile: Tim Lajcik
 Identity
 Name: Tim Lajcik
 Nickname: The Bohemian
+Division: heavyweight
 Professional Record: 7-6-1
 Stance: Orthodox
 Date of Birth: Jun 21, 1965

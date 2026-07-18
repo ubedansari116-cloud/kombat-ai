@@ -3,6 +3,7 @@ Fighter Profile: Roy Nelson
 Identity
 Name: Roy Nelson
 Nickname: Big Country
+Division: heavyweight
 Professional Record: 22-14-0
 Stance: Orthodox
 Date of Birth: Jun 20, 1976

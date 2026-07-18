@@ -3,6 +3,7 @@ Fighter Profile: Luke Sanders
 Identity
 Name: Luke Sanders
 Nickname: Cool Hand
+Division: featherweight
 Professional Record: 13-5-0
 Stance: Southpaw
 Date of Birth: Dec 12, 1985

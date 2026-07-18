@@ -3,6 +3,7 @@ Fighter Profile: Ricco Rodriguez
 Identity
 Name: Ricco Rodriguez
 Nickname: Suave
+Division: heavyweight
 Professional Record: 53-25-0
 Stance: Orthodox
 Date of Birth: Aug 19, 1977

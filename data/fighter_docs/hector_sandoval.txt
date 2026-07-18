@@ -3,6 +3,7 @@ Fighter Profile: Hector Sandoval
 Identity
 Name: Hector Sandoval
 Nickname: Kid Alex
+Division: flyweight
 Professional Record: 14-4-0
 Stance: Orthodox
 Date of Birth: Jul 19, 1986

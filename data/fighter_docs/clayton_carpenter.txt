@@ -3,6 +3,7 @@ Fighter Profile: Clayton Carpenter
 Identity
 Name: Clayton Carpenter
 Nickname: None listed
+Division: flyweight
 Professional Record: 8-1-0
 Stance: Orthodox
 Date of Birth: Jun 09, 1996

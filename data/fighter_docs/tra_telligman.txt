@@ -3,6 +3,7 @@ Fighter Profile: Tra Telligman
 Identity
 Name: Tra Telligman
 Nickname: Trauma
+Division: heavyweight
 Professional Record: 7-5-1
 Stance: Orthodox
 Date of Birth: Feb 07, 1965

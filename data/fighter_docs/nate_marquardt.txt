@@ -3,6 +3,7 @@ Fighter Profile: Nate Marquardt
 Identity
 Name: Nate Marquardt
 Nickname: The Great
+Division: middleweight
 Professional Record: 35-19-2
 Stance: Orthodox
 Date of Birth: Apr 20, 1979

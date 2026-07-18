@@ -3,6 +3,7 @@ Fighter Profile: Shannon Ross
 Identity
 Name: Shannon Ross
 Nickname: The Turkish Delight
+Division: flyweight
 Professional Record: 13-9-0
 Stance: Switch
 Date of Birth: May 12, 1989

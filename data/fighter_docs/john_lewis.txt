@@ -3,6 +3,7 @@ Fighter Profile: John Lewis
 Identity
 Name: John Lewis
 Nickname: None listed
+Division: lightweight
 Professional Record: 3-4-3
 Stance: Southpaw
 Date of Birth: Unknown

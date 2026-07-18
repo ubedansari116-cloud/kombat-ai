@@ -3,6 +3,7 @@ Fighter Profile: Cody Durden
 Identity
 Name: Cody Durden
 Nickname: Custom Made
+Division: flyweight
 Professional Record: 17-8-1
 Stance: Southpaw
 Date of Birth: Mar 29, 1991

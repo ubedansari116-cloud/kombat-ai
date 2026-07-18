@@ -3,6 +3,7 @@ Fighter Profile: Wesley Correira
 Identity
 Name: Wesley Correira
 Nickname: Cabbage
+Division: heavyweight
 Professional Record: 20-16-0
 Stance: Orthodox
 Date of Birth: Nov 11, 1978

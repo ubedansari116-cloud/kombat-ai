@@ -3,6 +3,7 @@ Fighter Profile: Igor Severino
 Identity
 Name: Igor Severino
 Nickname: None listed
+Division: flyweight
 Professional Record: 8-1-0
 Stance: Orthodox
 Date of Birth: Apr 21, 2003

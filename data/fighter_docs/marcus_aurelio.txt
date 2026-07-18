@@ -3,6 +3,7 @@ Fighter Profile: Marcus Aurelio
 Identity
 Name: Marcus Aurelio
 Nickname: Maximus
+Division: lightweight
 Professional Record: 22-10-0
 Stance: Orthodox
 Date of Birth: Aug 18, 1973

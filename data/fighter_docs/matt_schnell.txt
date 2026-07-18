@@ -3,6 +3,7 @@ Fighter Profile: Matt Schnell
 Identity
 Name: Matt Schnell
 Nickname: Danger
+Division: flyweight
 Professional Record: 17-9-0
 Stance: Orthodox
 Date of Birth: Jan 15, 1990

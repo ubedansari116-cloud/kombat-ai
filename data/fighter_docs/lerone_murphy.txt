@@ -3,6 +3,7 @@ Fighter Profile: Lerone Murphy
 Identity
 Name: Lerone Murphy
 Nickname: The Miracle
+Division: featherweight
 Professional Record: 17-0-1
 Stance: Orthodox
 Date of Birth: Jul 22, 1991

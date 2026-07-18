@@ -3,6 +3,7 @@ Fighter Profile: Felipe Bunes
 Identity
 Name: Felipe Bunes
 Nickname: Felipinho
+Division: flyweight
 Professional Record: 14-8-0
 Stance: Orthodox
 Date of Birth: Oct 29, 1989

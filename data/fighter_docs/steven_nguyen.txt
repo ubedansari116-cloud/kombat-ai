@@ -3,6 +3,7 @@ Fighter Profile: Steven Nguyen
 Identity
 Name: Steven Nguyen
 Nickname: The Ninja
+Division: featherweight
 Professional Record: 10-2-0
 Stance: Switch
 Date of Birth: May 19, 1993

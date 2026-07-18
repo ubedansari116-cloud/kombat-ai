@@ -3,6 +3,7 @@ Fighter Profile: Royce Alger
 Identity
 Name: Royce Alger
 Nickname: None listed
+Division: middleweight
 Professional Record: 3-2-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Stefan Struve
 Identity
 Name: Stefan Struve
 Nickname: Skyscraper
+Division: heavyweight
 Professional Record: 33-13-0
 Stance: Orthodox
 Date of Birth: Feb 18, 1988

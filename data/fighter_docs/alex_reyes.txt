@@ -3,6 +3,7 @@ Fighter Profile: Alex Reyes
 Identity
 Name: Alex Reyes
 Nickname: The Executioner
+Division: lightweight
 Professional Record: 13-5-0
 Stance: Orthodox
 Date of Birth: Oct 02, 1986

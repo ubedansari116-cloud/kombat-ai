@@ -3,6 +3,7 @@ Fighter Profile: Tyrone Roberts
 Identity
 Name: Tyrone Roberts
 Nickname: Native Warrior
+Division: middleweight
 Professional Record: 43-12-1
 Stance: Orthodox
 Date of Birth: Unknown

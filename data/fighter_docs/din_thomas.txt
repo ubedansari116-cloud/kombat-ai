@@ -3,6 +3,7 @@ Fighter Profile: Din Thomas
 Identity
 Name: Din Thomas
 Nickname: Dinyero
+Division: lightweight
 Professional Record: 26-9-0
 Stance: Orthodox
 Date of Birth: Sep 28, 1976

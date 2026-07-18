@@ -3,6 +3,7 @@ Fighter Profile: Blagoy Ivanov
 Identity
 Name: Blagoy Ivanov
 Nickname: Baga
+Division: heavyweight
 Professional Record: 19-6-0
 Stance: Southpaw
 Date of Birth: Oct 09, 1986

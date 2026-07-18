@@ -3,6 +3,7 @@ Fighter Profile: Marco Beltran
 Identity
 Name: Marco Beltran
 Nickname: Psycho
+Division: flyweight
 Professional Record: 8-6-0
 Stance: Orthodox
 Date of Birth: May 18, 1986

@@ -3,6 +3,7 @@ Fighter Profile: Muhammad Mokaev
 Identity
 Name: Muhammad Mokaev
 Nickname: The Punisher
+Division: flyweight
 Professional Record: 13-0-0
 Stance: Orthodox
 Date of Birth: Jul 30, 2000

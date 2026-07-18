@@ -3,6 +3,7 @@ Fighter Profile: Michel Quinones
 Identity
 Name: Michel Quinones
 Nickname: El Capo
+Division: lightweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Dec 22, 1984

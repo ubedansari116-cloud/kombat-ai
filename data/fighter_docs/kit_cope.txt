@@ -3,6 +3,7 @@ Fighter Profile: Kit Cope
 Identity
 Name: Kit Cope
 Nickname: Havoc
+Division: welterweight
 Professional Record: 6-7-0
 Stance: Orthodox
 Date of Birth: Mar 17, 1977

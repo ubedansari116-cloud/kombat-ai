@@ -3,6 +3,7 @@ Fighter Profile: Kajan Johnson
 Identity
 Name: Kajan Johnson
 Nickname: Ragin'
+Division: lightweight
 Professional Record: 23-13-1
 Stance: Orthodox
 Date of Birth: Apr 21, 1984

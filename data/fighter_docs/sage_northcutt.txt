@@ -3,6 +3,7 @@ Fighter Profile: Sage Northcutt
 Identity
 Name: Sage Northcutt
 Nickname: Super
+Division: welterweight
 Professional Record: 11-2-0
 Stance: Orthodox
 Date of Birth: Mar 01, 1996

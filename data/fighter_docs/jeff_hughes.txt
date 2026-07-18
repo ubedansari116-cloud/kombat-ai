@@ -3,6 +3,7 @@ Fighter Profile: Jeff Hughes
 Identity
 Name: Jeff Hughes
 Nickname: Lights Out
+Division: heavyweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: May 17, 1988

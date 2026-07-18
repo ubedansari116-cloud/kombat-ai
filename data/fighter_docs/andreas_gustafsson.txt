@@ -3,6 +3,7 @@ Fighter Profile: Andreas Gustafsson
 Identity
 Name: Andreas Gustafsson
 Nickname: Bane
+Division: welterweight
 Professional Record: 12-3-0
 Stance: Orthodox
 Date of Birth: Feb 20, 1991

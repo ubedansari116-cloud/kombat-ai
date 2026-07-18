@@ -3,6 +3,7 @@ Fighter Profile: Ode Osbourne
 Identity
 Name: Ode Osbourne
 Nickname: The Jamaican Sensation
+Division: bantamweight
 Professional Record: 13-9-0
 Stance: Southpaw
 Date of Birth: Jan 09, 1992

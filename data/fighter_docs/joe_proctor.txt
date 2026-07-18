@@ -3,6 +3,7 @@ Fighter Profile: Joe Proctor
 Identity
 Name: Joe Proctor
 Nickname: None listed
+Division: welterweight
 Professional Record: 11-5-0
 Stance: Orthodox
 Date of Birth: Aug 10, 1985

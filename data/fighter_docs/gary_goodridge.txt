@@ -3,6 +3,7 @@ Fighter Profile: Gary Goodridge
 Identity
 Name: Gary Goodridge
 Nickname: Big Daddy
+Division: heavyweight
 Professional Record: 23-22-1
 Stance: Orthodox
 Date of Birth: Jan 17, 1966

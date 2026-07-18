@@ -3,6 +3,7 @@ Fighter Profile: Edwin DeWees
 Identity
 Name: Edwin DeWees
 Nickname: Babyface
+Division: middleweight
 Professional Record: 38-17-0
 Stance: Orthodox
 Date of Birth: Aug 07, 1982

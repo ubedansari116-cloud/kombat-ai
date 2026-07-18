@@ -3,6 +3,7 @@ Fighter Profile: Jesse Ronson
 Identity
 Name: Jesse Ronson
 Nickname: The Body Snatcher
+Division: lightweight
 Professional Record: 21-12-0
 Stance: Southpaw
 Date of Birth: Dec 24, 1985

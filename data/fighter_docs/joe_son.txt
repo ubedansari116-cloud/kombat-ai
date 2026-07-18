@@ -3,6 +3,7 @@ Fighter Profile: Joe Son
 Identity
 Name: Joe Son
 Nickname: None listed
+Division: open weight
 Professional Record: 0-4-0
 Stance: Orthodox
 Date of Birth: Nov 22, 1970

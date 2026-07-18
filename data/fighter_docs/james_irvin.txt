@@ -3,6 +3,7 @@ Fighter Profile: James Irvin
 Identity
 Name: James Irvin
 Nickname: The Sandman
+Division: light heavyweight
 Professional Record: 17-10-0
 Stance: Orthodox
 Date of Birth: Sep 12, 1978

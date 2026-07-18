@@ -3,6 +3,7 @@ Fighter Profile: Valmir Lazaro
 Identity
 Name: Valmir Lazaro
 Nickname: Bidu
+Division: lightweight
 Professional Record: 15-5-0
 Stance: Orthodox
 Date of Birth: Aug 15, 1985

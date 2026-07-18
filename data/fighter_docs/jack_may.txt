@@ -3,6 +3,7 @@ Fighter Profile: Jack May
 Identity
 Name: Jack May
 Nickname: The Outlaw
+Division: heavyweight
 Professional Record: 9-3-0
 Stance: Switch
 Date of Birth: Apr 14, 1981

@@ -3,6 +3,7 @@ Fighter Profile: Maximo Blanco
 Identity
 Name: Maximo Blanco
 Nickname: Maxi
+Division: featherweight
 Professional Record: 12-8-1
 Stance: Orthodox
 Date of Birth: Oct 16, 1983

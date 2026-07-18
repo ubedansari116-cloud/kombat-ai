@@ -3,6 +3,7 @@ Fighter Profile: Dan Hooker
 Identity
 Name: Dan Hooker
 Nickname: The Hangman
+Division: lightweight
 Professional Record: 24-12-0
 Stance: Switch
 Date of Birth: Feb 13, 1990

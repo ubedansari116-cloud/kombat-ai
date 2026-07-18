@@ -3,6 +3,7 @@ Fighter Profile: Jeremy Jackson
 Identity
 Name: Jeremy Jackson
 Nickname: Scorpion
+Division: welterweight
 Professional Record: 9-5-0
 Stance: Orthodox
 Date of Birth: Sep 19, 1982

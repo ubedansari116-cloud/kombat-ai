@@ -3,6 +3,7 @@ Fighter Profile: Victor Rodriguez
 Identity
 Name: Victor Rodriguez
 Nickname: Vicious
+Division: flyweight
 Professional Record: 7-4-0
 Stance: Switch
 Date of Birth: Sep 05, 1992

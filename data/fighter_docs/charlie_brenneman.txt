@@ -3,6 +3,7 @@ Fighter Profile: Charlie Brenneman
 Identity
 Name: Charlie Brenneman
 Nickname: The Spaniard
+Division: lightweight
 Professional Record: 19-8-0
 Stance: Orthodox
 Date of Birth: Feb 09, 1981

@@ -3,6 +3,7 @@ Fighter Profile: Brian Stann
 Identity
 Name: Brian Stann
 Nickname: All American
+Division: light heavyweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Sep 24, 1980

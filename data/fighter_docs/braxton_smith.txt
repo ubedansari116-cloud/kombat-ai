@@ -3,6 +3,7 @@ Fighter Profile: Braxton Smith
 Identity
 Name: Braxton Smith
 Nickname: The Beautiful Monster
+Division: heavyweight
 Professional Record: 5-2-0
 Stance: Orthodox
 Date of Birth: Jan 01, 1990

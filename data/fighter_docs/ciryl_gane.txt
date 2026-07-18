@@ -3,6 +3,7 @@ Fighter Profile: Ciryl Gane
 Identity
 Name: Ciryl Gane
 Nickname: Bon Gamin
+Division: heavyweight
 Professional Record: 13-2-0
 Stance: Orthodox
 Date of Birth: Apr 12, 1990

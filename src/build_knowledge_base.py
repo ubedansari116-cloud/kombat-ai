@@ -5,6 +5,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 INPUT_FILE = PROJECT_ROOT / "data" / "fighter_details.csv"
+UFC_FILE = PROJECT_ROOT / "data" / "UFC.csv"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "fighter_docs"
 
 
@@ -29,11 +30,18 @@ def format_number(value, decimals=2):
     return f"{float(value):.{decimals}f}"
 
 
-def build_fighter_document(row):
+def build_fighter_document(
+    row,
+    division_lookup,
+):
     name = safe_value(row["name"])
     nickname = safe_value(row["nick_name"], fallback="None listed")
     stance = safe_value(row["stance"])
     date_of_birth = safe_value(row["dob"])
+    division = division_lookup.get(
+        row["name"],
+        "Unknown",
+)
 
     record = (
         f"{int(row['wins'])}-{int(row['losses'])}-{int(row['draws'])}"
@@ -47,6 +55,7 @@ Fighter Profile: {name}
 Identity
 Name: {name}
 Nickname: {nickname}
+Division: {division}
 Professional Record: {record}
 Stance: {stance}
 Date of Birth: {date_of_birth}
@@ -93,6 +102,21 @@ def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     fighters = pd.read_csv(INPUT_FILE)
+    ufc = pd.read_csv(UFC_FILE) 
+    
+    division_lookup = {}
+    for _, fight in ufc.iterrows():
+        if pd.notna(fight["r_name"]):
+            division_lookup.setdefault(
+            fight["r_name"],
+            fight["division"],
+        )
+        
+        if pd.notna(fight["b_name"]):
+            division_lookup.setdefault(
+            fight["b_name"],
+            fight["division"],
+        )
 
     required_columns = {
         "name",
@@ -130,7 +154,10 @@ def main():
         if pd.isna(name):
             continue
 
-        document = build_fighter_document(fighter)
+        document = build_fighter_document(
+            fighter,
+            division_lookup,
+)
         output_path = OUTPUT_DIR / make_filename(str(name))
         output_path.write_text(document, encoding="utf-8")
         created += 1

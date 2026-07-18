@@ -3,6 +3,7 @@ Fighter Profile: Chepe Mariscal
 Identity
 Name: Chepe Mariscal
 Nickname: Machine Gun
+Division: featherweight
 Professional Record: 18-6-0
 Stance: Orthodox
 Date of Birth: Oct 27, 1992

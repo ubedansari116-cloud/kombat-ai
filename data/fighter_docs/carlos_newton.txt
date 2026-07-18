@@ -3,6 +3,7 @@ Fighter Profile: Carlos Newton
 Identity
 Name: Carlos Newton
 Nickname: The Ronin
+Division: welterweight
 Professional Record: 16-14-0
 Stance: Orthodox
 Date of Birth: Aug 17, 1976

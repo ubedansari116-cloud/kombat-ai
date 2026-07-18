@@ -3,6 +3,7 @@ Fighter Profile: Harry Moskowitz
 Identity
 Name: Harry Moskowitz
 Nickname: Dirty
+Division: heavyweight
 Professional Record: 6-12-0
 Stance: Orthodox
 Date of Birth: Unknown

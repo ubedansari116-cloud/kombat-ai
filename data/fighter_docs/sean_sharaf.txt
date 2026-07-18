@@ -3,6 +3,7 @@ Fighter Profile: Sean Sharaf
 Identity
 Name: Sean Sharaf
 Nickname: The Smoke
+Division: heavyweight
 Professional Record: 4-1-0
 Stance: Orthodox
 Date of Birth: Jul 11, 1993

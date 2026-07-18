@@ -3,6 +3,7 @@ Fighter Profile: Isaac Dulgarian
 Identity
 Name: Isaac Dulgarian
 Nickname: The Midwest Choppa
+Division: featherweight
 Professional Record: 7-1-0
 Stance: Orthodox
 Date of Birth: Jul 04, 1996

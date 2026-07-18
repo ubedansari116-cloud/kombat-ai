@@ -3,6 +3,7 @@ Fighter Profile: Steve Judson
 Identity
 Name: Steve Judson
 Nickname: None listed
+Division: heavyweight
 Professional Record: 0-2-0
 Stance: Orthodox
 Date of Birth: Unknown

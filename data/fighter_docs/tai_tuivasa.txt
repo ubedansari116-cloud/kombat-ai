@@ -3,6 +3,7 @@ Fighter Profile: Tai Tuivasa
 Identity
 Name: Tai Tuivasa
 Nickname: Bam Bam
+Division: heavyweight
 Professional Record: 15-8-0
 Stance: Southpaw
 Date of Birth: Mar 16, 1993

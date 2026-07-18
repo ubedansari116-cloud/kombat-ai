@@ -3,6 +3,7 @@ Fighter Profile: Connor Matthews
 Identity
 Name: Connor Matthews
 Nickname: The Controller
+Division: featherweight
 Professional Record: 7-4-0
 Stance: Switch
 Date of Birth: May 31, 1992

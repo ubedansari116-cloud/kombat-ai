@@ -3,6 +3,7 @@ Fighter Profile: Justin Jaynes
 Identity
 Name: Justin Jaynes
 Nickname: The Guitar Hero
+Division: featherweight
 Professional Record: 16-8-0
 Stance: Orthodox
 Date of Birth: Aug 10, 1989

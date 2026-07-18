@@ -3,6 +3,7 @@ Fighter Profile: Paul Rodriguez
 Identity
 Name: Paul Rodriguez
 Nickname: None listed
+Division: welterweight
 Professional Record: 10-9-2
 Stance: Orthodox
 Date of Birth: Unknown

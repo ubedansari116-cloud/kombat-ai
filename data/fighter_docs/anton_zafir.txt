@@ -3,6 +3,7 @@ Fighter Profile: Anton Zafir
 Identity
 Name: Anton Zafir
 Nickname: The Professor
+Division: welterweight
 Professional Record: 7-3-0
 Stance: Orthodox
 Date of Birth: May 10, 1987

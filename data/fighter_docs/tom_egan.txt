@@ -3,6 +3,7 @@ Fighter Profile: Tom Egan
 Identity
 Name: Tom Egan
 Nickname: None listed
+Division: welterweight
 Professional Record: 7-5-0
 Stance: Orthodox
 Date of Birth: Unknown

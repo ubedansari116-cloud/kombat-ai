@@ -3,6 +3,7 @@ Fighter Profile: Rob Yundt
 Identity
 Name: Rob Yundt
 Nickname: Monster
+Division: middleweight
 Professional Record: 9-5-0
 Stance: Orthodox
 Date of Birth: May 05, 1980

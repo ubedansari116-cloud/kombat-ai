@@ -3,6 +3,7 @@ Fighter Profile: Jack Marshman
 Identity
 Name: Jack Marshman
 Nickname: The Hammer
+Division: middleweight
 Professional Record: 23-10-0
 Stance: Orthodox
 Date of Birth: Dec 19, 1989

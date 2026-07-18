@@ -3,6 +3,7 @@ Fighter Profile: Carlton Minus
 Identity
 Name: Carlton Minus
 Nickname: Clutch
+Division: catch weight
 Professional Record: 10-3-0
 Stance: Orthodox
 Date of Birth: Apr 26, 1993

@@ -3,6 +3,7 @@ Fighter Profile: Jason Lambert
 Identity
 Name: Jason Lambert
 Nickname: The Punisher
+Division: middleweight
 Professional Record: 26-13-0
 Stance: Orthodox
 Date of Birth: Jun 03, 1975

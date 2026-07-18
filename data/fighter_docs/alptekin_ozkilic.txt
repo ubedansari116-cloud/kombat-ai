@@ -3,6 +3,7 @@ Fighter Profile: Alptekin Ozkilic
 Identity
 Name: Alptekin Ozkilic
 Nickname: The Turkish Delight
+Division: flyweight
 Professional Record: 9-5-0
 Stance: Orthodox
 Date of Birth: Mar 27, 1986

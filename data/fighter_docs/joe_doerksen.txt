@@ -3,6 +3,7 @@ Fighter Profile: Joe Doerksen
 Identity
 Name: Joe Doerksen
 Nickname: El Dirte
+Division: middleweight
 Professional Record: 51-16-0
 Stance: Orthodox
 Date of Birth: Oct 09, 1977

@@ -3,6 +3,7 @@ Fighter Profile: Jack Jenkins
 Identity
 Name: Jack Jenkins
 Nickname: Phar
+Division: featherweight
 Professional Record: 13-4-0
 Stance: Switch
 Date of Birth: Nov 03, 1993

@@ -3,6 +3,7 @@ Fighter Profile: Nathaniel Wood
 Identity
 Name: Nathaniel Wood
 Nickname: The Prospect
+Division: featherweight
 Professional Record: 21-6-0
 Stance: Orthodox
 Date of Birth: May 08, 1993

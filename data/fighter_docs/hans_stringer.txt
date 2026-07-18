@@ -3,6 +3,7 @@ Fighter Profile: Hans Stringer
 Identity
 Name: Hans Stringer
 Nickname: None listed
+Division: light heavyweight
 Professional Record: 22-8-3
 Stance: Orthodox
 Date of Birth: Jul 06, 1987

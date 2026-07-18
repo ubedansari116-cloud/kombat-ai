@@ -3,6 +3,7 @@ Fighter Profile: Jason Witt
 Identity
 Name: Jason Witt
 Nickname: The Vanilla Gorilla
+Division: catch weight
 Professional Record: 19-9-0
 Stance: Orthodox
 Date of Birth: Nov 07, 1986

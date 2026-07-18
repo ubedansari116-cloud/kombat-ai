@@ -3,6 +3,7 @@ Fighter Profile: Louis Gaudinot
 Identity
 Name: Louis Gaudinot
 Nickname: Goodnight
+Division: flyweight
 Professional Record: 8-4-0
 Stance: Orthodox
 Date of Birth: Aug 28, 1984

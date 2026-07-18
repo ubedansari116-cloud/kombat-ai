@@ -3,6 +3,7 @@ Fighter Profile: Tyson Nam
 Identity
 Name: Tyson Nam
 Nickname: None listed
+Division: flyweight
 Professional Record: 21-14-1
 Stance: Orthodox
 Date of Birth: Oct 06, 1983

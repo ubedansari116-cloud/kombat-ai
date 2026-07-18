@@ -3,6 +3,7 @@ Fighter Profile: Davey Grant
 Identity
 Name: Davey Grant
 Nickname: Dangerous
+Division: bantamweight
 Professional Record: 17-7-0
 Stance: Orthodox
 Date of Birth: Dec 18, 1985

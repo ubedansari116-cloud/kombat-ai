@@ -3,6 +3,7 @@ Fighter Profile: Marcus Bossett
 Identity
 Name: Marcus Bossett
 Nickname: The Grasshopper
+Division: open weight
 Professional Record: 1-3-0
 Stance: Orthodox
 Date of Birth: Unknown

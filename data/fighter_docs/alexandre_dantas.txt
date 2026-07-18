@@ -3,6 +3,7 @@ Fighter Profile: Alexandre Dantas
 Identity
 Name: Alexandre Dantas
 Nickname: Cafe
+Division: heavyweight
 Professional Record: 0-3-0
 Stance: Orthodox
 Date of Birth: Mar 01, 1979

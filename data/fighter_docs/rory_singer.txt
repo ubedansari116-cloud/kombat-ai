@@ -3,6 +3,7 @@ Fighter Profile: Rory Singer
 Identity
 Name: Rory Singer
 Nickname: Outburst
+Division: middleweight
 Professional Record: 11-9-0
 Stance: Orthodox
 Date of Birth: May 28, 1976

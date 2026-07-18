@@ -3,6 +3,7 @@ Fighter Profile: Townsend Saunders
 Identity
 Name: Townsend Saunders
 Nickname: None listed
+Division: lightweight
 Professional Record: 0-2-0
 Stance: Orthodox
 Date of Birth: Unknown

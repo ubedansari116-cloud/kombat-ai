@@ -3,6 +3,7 @@ Fighter Profile: Bob Cook
 Identity
 Name: Bob Cook
 Nickname: Crazy
+Division: lightweight
 Professional Record: 5-0-0
 Stance: Orthodox
 Date of Birth: Unknown

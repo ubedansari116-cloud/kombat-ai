@@ -3,6 +3,7 @@ Fighter Profile: Court McGee
 Identity
 Name: Court McGee
 Nickname: The Crusher
+Division: welterweight
 Professional Record: 23-14-0
 Stance: Orthodox
 Date of Birth: Dec 12, 1984

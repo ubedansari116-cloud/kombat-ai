@@ -3,6 +3,7 @@ Fighter Profile: Colin Robinson
 Identity
 Name: Colin Robinson
 Nickname: Big C
+Division: heavyweight
 Professional Record: 10-12-0
 Stance: Orthodox
 Date of Birth: Nov 27, 1968

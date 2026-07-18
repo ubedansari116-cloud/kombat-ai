@@ -3,6 +3,7 @@ Fighter Profile: Rob MacDonald
 Identity
 Name: Rob MacDonald
 Nickname: Maximus
+Division: light heavyweight
 Professional Record: 5-4-0
 Stance: Orthodox
 Date of Birth: Sep 05, 1978

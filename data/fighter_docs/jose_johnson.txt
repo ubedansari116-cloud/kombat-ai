@@ -3,6 +3,7 @@ Fighter Profile: Jose Johnson
 Identity
 Name: Jose Johnson
 Nickname: Zhakwarius
+Division: flyweight
 Professional Record: 16-10-0
 Stance: Orthodox
 Date of Birth: May 20, 1995

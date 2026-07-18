@@ -3,6 +3,7 @@ Fighter Profile: Robert Sanchez
 Identity
 Name: Robert Sanchez
 Nickname: Littlefury
+Division: flyweight
 Professional Record: 8-2-0
 Stance: Orthodox
 Date of Birth: Mar 05, 1986

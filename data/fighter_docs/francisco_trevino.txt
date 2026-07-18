@@ -3,6 +3,7 @@ Fighter Profile: Francisco Trevino
 Identity
 Name: Francisco Trevino
 Nickname: Sitkayan
+Division: lightweight
 Professional Record: 13-3-0
 Stance: Orthodox
 Date of Birth: Dec 17, 1981

@@ -3,6 +3,7 @@ Fighter Profile: Royce Gracie
 Identity
 Name: Royce Gracie
 Nickname: None listed
+Division: catch weight
 Professional Record: 15-2-3
 Stance: Southpaw
 Date of Birth: Dec 12, 1966

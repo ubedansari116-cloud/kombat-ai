@@ -3,6 +3,7 @@ Fighter Profile: Bruno Santos
 Identity
 Name: Bruno Santos
 Nickname: Carioca
+Division: middleweight
 Professional Record: 15-2-0
 Stance: Orthodox
 Date of Birth: Jul 17, 1987

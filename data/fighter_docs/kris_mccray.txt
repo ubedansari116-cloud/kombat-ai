@@ -3,6 +3,7 @@ Fighter Profile: Kris McCray
 Identity
 Name: Kris McCray
 Nickname: Savage
+Division: welterweight
 Professional Record: 8-5-0
 Stance: Orthodox
 Date of Birth: Sep 24, 1981

@@ -3,6 +3,7 @@ Fighter Profile: Josh Emmett
 Identity
 Name: Josh Emmett
 Nickname: CC0
+Division: featherweight
 Professional Record: 19-5-0
 Stance: Orthodox
 Date of Birth: Mar 04, 1985

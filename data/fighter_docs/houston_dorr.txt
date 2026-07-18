@@ -3,6 +3,7 @@ Fighter Profile: Houston Dorr
 Identity
 Name: Houston Dorr
 Nickname: None listed
+Division: heavyweight
 Professional Record: 1-2-0
 Stance: Orthodox
 Date of Birth: Unknown

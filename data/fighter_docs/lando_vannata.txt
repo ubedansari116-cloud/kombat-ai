@@ -3,6 +3,7 @@ Fighter Profile: Lando Vannata
 Identity
 Name: Lando Vannata
 Nickname: Groovy
+Division: lightweight
 Professional Record: 12-7-2
 Stance: Orthodox
 Date of Birth: Mar 14, 1992

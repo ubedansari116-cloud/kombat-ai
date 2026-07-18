@@ -3,6 +3,7 @@ Fighter Profile: Nissen Osterneck
 Identity
 Name: Nissen Osterneck
 Nickname: None listed
+Division: middleweight
 Professional Record: 12-4-0
 Stance: Orthodox
 Date of Birth: May 01, 1981

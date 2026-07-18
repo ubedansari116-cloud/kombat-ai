@@ -3,6 +3,7 @@ Fighter Profile: Wes Sims
 Identity
 Name: Wes Sims
 Nickname: The Project
+Division: heavyweight
 Professional Record: 24-14-1
 Stance: Orthodox
 Date of Birth: Aug 04, 1979

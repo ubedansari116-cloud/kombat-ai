@@ -3,6 +3,7 @@ Fighter Profile: Kamal Shalorus
 Identity
 Name: Kamal Shalorus
 Nickname: Prince of Persia
+Division: lightweight
 Professional Record: 9-5-2
 Stance: Orthodox
 Date of Birth: Aug 27, 1972

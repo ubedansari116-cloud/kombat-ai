@@ -3,6 +3,7 @@ Fighter Profile: Felipe dos Santos
 Identity
 Name: Felipe dos Santos
 Nickname: Lipe Detona
+Division: flyweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Sep 11, 2000

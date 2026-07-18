@@ -3,6 +3,7 @@ Fighter Profile: Chas Skelly
 Identity
 Name: Chas Skelly
 Nickname: The Scrapper
+Division: featherweight
 Professional Record: 19-3-0
 Stance: Orthodox
 Date of Birth: May 11, 1985

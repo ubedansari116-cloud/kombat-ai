@@ -3,6 +3,7 @@ Fighter Profile: Mike Kyle
 Identity
 Name: Mike Kyle
 Nickname: MAK
+Division: heavyweight
 Professional Record: 22-14-1
 Stance: Orthodox
 Date of Birth: Mar 31, 1980

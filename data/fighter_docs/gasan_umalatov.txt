@@ -3,6 +3,7 @@ Fighter Profile: Gasan Umalatov
 Identity
 Name: Gasan Umalatov
 Nickname: Cobra
+Division: welterweight
 Professional Record: 17-4-2
 Stance: Orthodox
 Date of Birth: Sep 11, 1982

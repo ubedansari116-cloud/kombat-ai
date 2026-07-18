@@ -3,6 +3,7 @@ Fighter Profile: Joe Pardo
 Identity
 Name: Joe Pardo
 Nickname: None listed
+Division: heavyweight
 Professional Record: 4-6-0
 Stance: Southpaw
 Date of Birth: Unknown

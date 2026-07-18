@@ -3,6 +3,7 @@ Fighter Profile: John Polakowski
 Identity
 Name: John Polakowski
 Nickname: Buckets of Blood
+Division: lightweight
 Professional Record: 2-2-0
 Stance: Orthodox
 Date of Birth: Jun 21, 1981

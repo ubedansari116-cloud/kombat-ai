@@ -3,6 +3,7 @@ Fighter Profile: Dwight Grant
 Identity
 Name: Dwight Grant
 Nickname: The Body Snatcher
+Division: middleweight
 Professional Record: 11-6-0
 Stance: Switch
 Date of Birth: Sep 14, 1984

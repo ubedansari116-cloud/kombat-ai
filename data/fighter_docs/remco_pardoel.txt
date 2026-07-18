@@ -3,6 +3,7 @@ Fighter Profile: Remco Pardoel
 Identity
 Name: Remco Pardoel
 Nickname: Grizzly
+Division: open weight
 Professional Record: 9-6-1
 Stance: Southpaw
 Date of Birth: Unknown

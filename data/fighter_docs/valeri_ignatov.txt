@@ -3,6 +3,7 @@ Fighter Profile: Valeri Ignatov
 Identity
 Name: Valeri Ignatov
 Nickname: None listed
+Division: lightweight
 Professional Record: 1-2-0
 Stance: Orthodox
 Date of Birth: Unknown

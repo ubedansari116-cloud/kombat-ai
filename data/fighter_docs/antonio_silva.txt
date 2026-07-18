@@ -3,6 +3,7 @@ Fighter Profile: Antonio Silva
 Identity
 Name: Antonio Silva
 Nickname: Bigfoot
+Division: heavyweight
 Professional Record: 19-12-1
 Stance: Orthodox
 Date of Birth: Sep 14, 1979

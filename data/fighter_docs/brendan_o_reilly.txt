@@ -3,6 +3,7 @@ Fighter Profile: Brendan O'Reilly
 Identity
 Name: Brendan O'Reilly
 Nickname: Badger
+Division: lightweight
 Professional Record: 6-3-0
 Stance: Orthodox
 Date of Birth: Jun 24, 1987

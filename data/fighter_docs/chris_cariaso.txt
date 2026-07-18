@@ -3,6 +3,7 @@ Fighter Profile: Chris Cariaso
 Identity
 Name: Chris Cariaso
 Nickname: Kamikaze
+Division: flyweight
 Professional Record: 17-8-0
 Stance: Southpaw
 Date of Birth: May 27, 1981

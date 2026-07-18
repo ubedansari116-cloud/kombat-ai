@@ -3,6 +3,7 @@ Fighter Profile: Jim Wallhead
 Identity
 Name: Jim Wallhead
 Nickname: Judo
+Division: welterweight
 Professional Record: 29-11-0
 Stance: Orthodox
 Date of Birth: Mar 14, 1984

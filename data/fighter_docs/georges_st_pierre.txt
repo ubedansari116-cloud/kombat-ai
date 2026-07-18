@@ -3,6 +3,7 @@ Fighter Profile: Georges St-Pierre
 Identity
 Name: Georges St-Pierre
 Nickname: Rush
+Division: middleweight
 Professional Record: 26-2-0
 Stance: Orthodox
 Date of Birth: May 19, 1981

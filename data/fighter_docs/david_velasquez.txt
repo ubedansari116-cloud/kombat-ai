@@ -3,6 +3,7 @@ Fighter Profile: David Velasquez
 Identity
 Name: David Velasquez
 Nickname: Little
+Division: lightweight
 Professional Record: 10-10-0
 Stance: Orthodox
 Date of Birth: Unknown

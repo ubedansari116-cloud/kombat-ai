@@ -3,6 +3,7 @@ Fighter Profile: Brock Jardine
 Identity
 Name: Brock Jardine
 Nickname: The Machine
+Division: welterweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Jul 10, 1985

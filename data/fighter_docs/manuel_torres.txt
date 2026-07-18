@@ -3,6 +3,7 @@ Fighter Profile: Manuel Torres
 Identity
 Name: Manuel Torres
 Nickname: El Loco
+Division: lightweight
 Professional Record: 16-3-0
 Stance: Switch
 Date of Birth: Mar 25, 1995

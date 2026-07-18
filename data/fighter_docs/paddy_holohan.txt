@@ -3,6 +3,7 @@ Fighter Profile: Paddy Holohan
 Identity
 Name: Paddy Holohan
 Nickname: The Hooligan
+Division: flyweight
 Professional Record: 12-2-1
 Stance: Orthodox
 Date of Birth: May 03, 1988

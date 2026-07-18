@@ -3,6 +3,7 @@ Fighter Profile: Wes Albritton
 Identity
 Name: Wes Albritton
 Nickname: None listed
+Division: lightweight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Unknown

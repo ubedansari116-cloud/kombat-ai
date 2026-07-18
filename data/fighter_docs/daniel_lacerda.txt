@@ -3,6 +3,7 @@ Fighter Profile: Daniel Lacerda
 Identity
 Name: Daniel Lacerda
 Nickname: Miojo
+Division: flyweight
 Professional Record: 11-6-0
 Stance: Switch
 Date of Birth: Jun 05, 1996

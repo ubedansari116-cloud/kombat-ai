@@ -3,6 +3,7 @@ Fighter Profile: Luigi Vendramini
 Identity
 Name: Luigi Vendramini
 Nickname: The Italian Stallion
+Division: lightweight
 Professional Record: 9-3-0
 Stance: Orthodox
 Date of Birth: Jan 16, 1996

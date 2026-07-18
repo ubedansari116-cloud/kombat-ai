@@ -3,6 +3,7 @@ Fighter Profile: Yorgan De Castro
 Identity
 Name: Yorgan De Castro
 Nickname: The Mad Titan
+Division: heavyweight
 Professional Record: 6-3-0
 Stance: Orthodox
 Date of Birth: Dec 19, 1986

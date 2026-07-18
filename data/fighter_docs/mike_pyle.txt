@@ -3,6 +3,7 @@ Fighter Profile: Mike Pyle
 Identity
 Name: Mike Pyle
 Nickname: Quicksand
+Division: welterweight
 Professional Record: 27-14-1
 Stance: Orthodox
 Date of Birth: Sep 18, 1975

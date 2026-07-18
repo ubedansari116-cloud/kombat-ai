@@ -3,6 +3,7 @@ Fighter Profile: Joe Brammer
 Identity
 Name: Joe Brammer
 Nickname: The South Side Strangler
+Division: lightweight
 Professional Record: 7-3-1
 Stance: Orthodox
 Date of Birth: Aug 23, 1983

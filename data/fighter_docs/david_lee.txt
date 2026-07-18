@@ -3,6 +3,7 @@ Fighter Profile: David Lee
 Identity
 Name: David Lee
 Nickname: None listed
+Division: lightweight
 Professional Record: 12-10-0
 Stance: Orthodox
 Date of Birth: Unknown

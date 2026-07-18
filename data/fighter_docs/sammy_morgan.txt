@@ -3,6 +3,7 @@ Fighter Profile: Sammy Morgan
 Identity
 Name: Sammy Morgan
 Nickname: The Squeeze
+Division: welterweight
 Professional Record: 18-12-0
 Stance: Orthodox
 Date of Birth: Sep 28, 1981

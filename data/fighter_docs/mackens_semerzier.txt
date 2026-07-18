@@ -3,6 +3,7 @@ Fighter Profile: Mackens Semerzier
 Identity
 Name: Mackens Semerzier
 Nickname: Da Menace
+Division: featherweight
 Professional Record: 8-4-0
 Stance: Orthodox
 Date of Birth: Nov 03, 1980

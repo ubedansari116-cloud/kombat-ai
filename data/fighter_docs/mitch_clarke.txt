@@ -3,6 +3,7 @@ Fighter Profile: Mitch Clarke
 Identity
 Name: Mitch Clarke
 Nickname: Danger Zone
+Division: lightweight
 Professional Record: 11-5-0
 Stance: Orthodox
 Date of Birth: Nov 24, 1985

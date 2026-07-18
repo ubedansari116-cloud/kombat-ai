@@ -3,6 +3,7 @@ Fighter Profile: Dan Severn
 Identity
 Name: Dan Severn
 Nickname: The Beast
+Division: heavyweight
 Professional Record: 101-19-1
 Stance: Southpaw
 Date of Birth: Jun 08, 1958

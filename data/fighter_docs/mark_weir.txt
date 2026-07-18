@@ -3,6 +3,7 @@ Fighter Profile: Mark Weir
 Identity
 Name: Mark Weir
 Nickname: The Wizard
+Division: middleweight
 Professional Record: 21-18-1
 Stance: Southpaw
 Date of Birth: Sep 19, 1967

@@ -3,6 +3,7 @@ Fighter Profile: Brian Ortega
 Identity
 Name: Brian Ortega
 Nickname: T-City
+Division: catch weight
 Professional Record: 16-5-0
 Stance: Switch
 Date of Birth: Feb 21, 1991

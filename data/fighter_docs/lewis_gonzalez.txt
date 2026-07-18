@@ -3,6 +3,7 @@ Fighter Profile: Lewis Gonzalez
 Identity
 Name: Lewis Gonzalez
 Nickname: Lethal
+Division: welterweight
 Professional Record: 11-3-0
 Stance: Orthodox
 Date of Birth: Sep 19, 1987

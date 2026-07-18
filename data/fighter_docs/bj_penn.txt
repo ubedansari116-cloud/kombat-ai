@@ -3,6 +3,7 @@ Fighter Profile: BJ Penn
 Identity
 Name: BJ Penn
 Nickname: The Prodigy
+Division: lightweight
 Professional Record: 16-14-2
 Stance: Orthodox
 Date of Birth: Dec 13, 1978

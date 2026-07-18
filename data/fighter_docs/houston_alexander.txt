@@ -3,6 +3,7 @@ Fighter Profile: Houston Alexander
 Identity
 Name: Houston Alexander
 Nickname: The Assassin
+Division: catch weight
 Professional Record: 17-15-1
 Stance: Orthodox
 Date of Birth: Mar 22, 1972

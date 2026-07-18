@@ -3,6 +3,7 @@ Fighter Profile: Rob Emerson
 Identity
 Name: Rob Emerson
 Nickname: The Saint
+Division: lightweight
 Professional Record: 18-12-0
 Stance: Orthodox
 Date of Birth: Jul 30, 1981

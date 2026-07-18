@@ -3,6 +3,7 @@ Fighter Profile: Victor Hugo
 Identity
 Name: Victor Hugo
 Nickname: Striker
+Division: featherweight
 Professional Record: 25-5-0
 Stance: Orthodox
 Date of Birth: Nov 22, 1992

@@ -3,6 +3,7 @@ Fighter Profile: Alexandr Romanov
 Identity
 Name: Alexandr Romanov
 Nickname: King Kong
+Division: heavyweight
 Professional Record: 18-3-0
 Stance: Southpaw
 Date of Birth: Dec 11, 1990

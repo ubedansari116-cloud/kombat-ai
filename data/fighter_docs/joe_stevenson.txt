@@ -3,6 +3,7 @@ Fighter Profile: Joe Stevenson
 Identity
 Name: Joe Stevenson
 Nickname: Daddy
+Division: featherweight
 Professional Record: 33-16-0
 Stance: Orthodox
 Date of Birth: Jun 15, 1982

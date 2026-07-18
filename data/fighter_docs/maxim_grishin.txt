@@ -3,6 +3,7 @@ Fighter Profile: Maxim Grishin
 Identity
 Name: Maxim Grishin
 Nickname: Maximus
+Division: light heavyweight
 Professional Record: 32-10-2
 Stance: Orthodox
 Date of Birth: May 02, 1984

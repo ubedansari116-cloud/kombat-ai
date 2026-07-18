@@ -3,6 +3,7 @@ Fighter Profile: Travis Lutter
 Identity
 Name: Travis Lutter
 Nickname: The Serial Killer
+Division: middleweight
 Professional Record: 10-6-0
 Stance: Orthodox
 Date of Birth: May 12, 1973

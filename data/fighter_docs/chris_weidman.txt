@@ -3,6 +3,7 @@ Fighter Profile: Chris Weidman
 Identity
 Name: Chris Weidman
 Nickname: The All-American
+Division: catch weight
 Professional Record: 16-8-0
 Stance: Orthodox
 Date of Birth: Jun 17, 1984

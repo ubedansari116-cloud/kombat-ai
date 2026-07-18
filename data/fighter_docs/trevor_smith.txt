@@ -3,6 +3,7 @@ Fighter Profile: Trevor Smith
 Identity
 Name: Trevor Smith
 Nickname: Hot Sauce
+Division: middleweight
 Professional Record: 15-10-0
 Stance: Orthodox
 Date of Birth: Jan 05, 1981

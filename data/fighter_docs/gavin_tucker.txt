@@ -3,6 +3,7 @@ Fighter Profile: Gavin Tucker
 Identity
 Name: Gavin Tucker
 Nickname: Guv'nor
+Division: featherweight
 Professional Record: 13-3-0
 Stance: Southpaw
 Date of Birth: Jun 17, 1986

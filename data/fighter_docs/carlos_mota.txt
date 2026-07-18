@@ -3,6 +3,7 @@ Fighter Profile: Carlos Mota
 Identity
 Name: Carlos Mota
 Nickname: Tizil
+Division: flyweight
 Professional Record: 8-2-0
 Stance: Orthodox
 Date of Birth: Apr 15, 1995

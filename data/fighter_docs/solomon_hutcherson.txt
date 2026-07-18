@@ -3,6 +3,7 @@ Fighter Profile: Solomon Hutcherson
 Identity
 Name: Solomon Hutcherson
 Nickname: King
+Division: middleweight
 Professional Record: 11-7-0
 Stance: Southpaw
 Date of Birth: Aug 31, 1972

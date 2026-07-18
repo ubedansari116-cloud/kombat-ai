@@ -3,6 +3,7 @@ Fighter Profile: Alessandro Costa
 Identity
 Name: Alessandro Costa
 Nickname: Nono
+Division: flyweight
 Professional Record: 14-4-0
 Stance: Orthodox
 Date of Birth: Jan 28, 1996

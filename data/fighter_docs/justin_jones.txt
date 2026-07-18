@@ -3,6 +3,7 @@ Fighter Profile: Justin Jones
 Identity
 Name: Justin Jones
 Nickname: Black Dynamite
+Division: middleweight
 Professional Record: 9-2-0
 Stance: Orthodox
 Date of Birth: Sep 06, 1987

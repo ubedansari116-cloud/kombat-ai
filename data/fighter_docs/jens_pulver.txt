@@ -3,6 +3,7 @@ Fighter Profile: Jens Pulver
 Identity
 Name: Jens Pulver
 Nickname: Little Evil
+Division: lightweight
 Professional Record: 27-19-1
 Stance: Southpaw
 Date of Birth: Dec 06, 1974

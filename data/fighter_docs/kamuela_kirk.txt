@@ -3,6 +3,7 @@ Fighter Profile: Kamuela Kirk
 Identity
 Name: Kamuela Kirk
 Nickname: The Jawaiian
+Division: lightweight
 Professional Record: 12-6-0
 Stance: Switch
 Date of Birth: Apr 13, 1994

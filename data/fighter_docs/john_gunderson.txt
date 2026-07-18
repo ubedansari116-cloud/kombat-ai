@@ -3,6 +3,7 @@ Fighter Profile: John Gunderson
 Identity
 Name: John Gunderson
 Nickname: Quick Guns
+Division: lightweight
 Professional Record: 35-16-2
 Stance: Orthodox
 Date of Birth: Jan 05, 1979

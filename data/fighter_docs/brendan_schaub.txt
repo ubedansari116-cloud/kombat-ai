@@ -3,6 +3,7 @@ Fighter Profile: Brendan Schaub
 Identity
 Name: Brendan Schaub
 Nickname: Big Brown
+Division: heavyweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: Mar 18, 1983

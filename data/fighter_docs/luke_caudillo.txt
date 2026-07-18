@@ -3,6 +3,7 @@ Fighter Profile: Luke Caudillo
 Identity
 Name: Luke Caudillo
 Nickname: Lil' Hulk
+Division: lightweight
 Professional Record: 17-17-0
 Stance: Orthodox
 Date of Birth: Nov 30, 1980

@@ -3,6 +3,7 @@ Fighter Profile: Ali Bagautinov
 Identity
 Name: Ali Bagautinov
 Nickname: Puncher
+Division: flyweight
 Professional Record: 15-6-0
 Stance: Orthodox
 Date of Birth: Jun 10, 1985

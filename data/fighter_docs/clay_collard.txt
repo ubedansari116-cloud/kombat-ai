@@ -3,6 +3,7 @@ Fighter Profile: Clay Collard
 Identity
 Name: Clay Collard
 Nickname: Cassius
+Division: featherweight
 Professional Record: 14-7-0
 Stance: Orthodox
 Date of Birth: Mar 10, 1993

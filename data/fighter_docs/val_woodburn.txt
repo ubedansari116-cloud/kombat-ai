@@ -3,6 +3,7 @@ Fighter Profile: Val Woodburn
 Identity
 Name: Val Woodburn
 Nickname: The Animal
+Division: welterweight
 Professional Record: 7-2-0
 Stance: Orthodox
 Date of Birth: Aug 10, 1993

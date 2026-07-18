@@ -3,6 +3,7 @@ Fighter Profile: Steve Montgomery
 Identity
 Name: Steve Montgomery
 Nickname: The Creepy Weasel
+Division: middleweight
 Professional Record: 9-5-0
 Stance: Southpaw
 Date of Birth: Dec 19, 1990

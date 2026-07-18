@@ -3,6 +3,7 @@ Fighter Profile: Daniel Cormier
 Identity
 Name: Daniel Cormier
 Nickname: DC
+Division: heavyweight
 Professional Record: 22-3-0
 Stance: Orthodox
 Date of Birth: Mar 20, 1979

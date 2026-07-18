@@ -3,6 +3,7 @@ Fighter Profile: Jason Day
 Identity
 Name: Jason Day
 Nickname: Dooms
+Division: middleweight
 Professional Record: 19-12-0
 Stance: Orthodox
 Date of Birth: May 19, 1981

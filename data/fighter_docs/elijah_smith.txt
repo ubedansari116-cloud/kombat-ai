@@ -3,6 +3,7 @@ Fighter Profile: Elijah Smith
 Identity
 Name: Elijah Smith
 Nickname: Swift
+Division: bantamweight
 Professional Record: 9-1-0
 Stance: Orthodox
 Date of Birth: Sep 05, 2002

@@ -3,6 +3,7 @@ Fighter Profile: Kai Kara-France
 Identity
 Name: Kai Kara-France
 Nickname: Don't Blink
+Division: flyweight
 Professional Record: 25-12-0
 Stance: Orthodox
 Date of Birth: Mar 26, 1993

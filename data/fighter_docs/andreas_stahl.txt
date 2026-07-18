@@ -3,6 +3,7 @@ Fighter Profile: Andreas Stahl
 Identity
 Name: Andreas Stahl
 Nickname: Real Steel
+Division: welterweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: May 20, 1988

@@ -3,6 +3,7 @@ Fighter Profile: Bartosz Fabinski
 Identity
 Name: Bartosz Fabinski
 Nickname: The Butcher
+Division: middleweight
 Professional Record: 15-5-0
 Stance: Orthodox
 Date of Birth: Apr 26, 1986

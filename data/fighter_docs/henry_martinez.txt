@@ -3,6 +3,7 @@ Fighter Profile: Henry Martinez
 Identity
 Name: Henry Martinez
 Nickname: Sicario
+Division: lightweight
 Professional Record: 9-4-0
 Stance: Southpaw
 Date of Birth: Aug 07, 1983

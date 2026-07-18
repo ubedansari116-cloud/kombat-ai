@@ -3,6 +3,7 @@ Fighter Profile: Jose Torres
 Identity
 Name: Jose Torres
 Nickname: Shorty
+Division: flyweight
 Professional Record: 8-1-0
 Stance: Orthodox
 Date of Birth: Aug 02, 1992

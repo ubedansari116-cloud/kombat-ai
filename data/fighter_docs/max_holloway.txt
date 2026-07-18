@@ -3,6 +3,7 @@ Fighter Profile: Max Holloway
 Identity
 Name: Max Holloway
 Nickname: Blessed
+Division: lightweight
 Professional Record: 27-8-0
 Stance: Orthodox
 Date of Birth: Dec 04, 1991

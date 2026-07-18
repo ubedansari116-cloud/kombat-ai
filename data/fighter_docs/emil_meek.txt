@@ -3,6 +3,7 @@ Fighter Profile: Emil Meek
 Identity
 Name: Emil Meek
 Nickname: Valhalla
+Division: welterweight
 Professional Record: 9-5-1
 Stance: Switch
 Date of Birth: Aug 20, 1988

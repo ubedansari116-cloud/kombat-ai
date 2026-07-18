@@ -3,6 +3,7 @@ Fighter Profile: Victor Valimaki
 Identity
 Name: Victor Valimaki
 Nickname: The Matrix
+Division: light heavyweight
 Professional Record: 18-10-0
 Stance: Orthodox
 Date of Birth: Unknown

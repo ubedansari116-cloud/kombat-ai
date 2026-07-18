@@ -3,6 +3,7 @@ Fighter Profile: Cain Velasquez
 Identity
 Name: Cain Velasquez
 Nickname: None listed
+Division: heavyweight
 Professional Record: 14-3-0
 Stance: Orthodox
 Date of Birth: Jul 28, 1982

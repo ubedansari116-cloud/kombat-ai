@@ -3,6 +3,7 @@ Fighter Profile: John Lober
 Identity
 Name: John Lober
 Nickname: The Machine
+Division: light heavyweight
 Professional Record: 5-9-4
 Stance: Orthodox
 Date of Birth: Feb 26, 1968

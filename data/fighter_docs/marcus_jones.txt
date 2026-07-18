@@ -3,6 +3,7 @@ Fighter Profile: Marcus Jones
 Identity
 Name: Marcus Jones
 Nickname: The Darkness
+Division: heavyweight
 Professional Record: 4-2-0
 Stance: Orthodox
 Date of Birth: Aug 15, 1973

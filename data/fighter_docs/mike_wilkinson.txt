@@ -3,6 +3,7 @@ Fighter Profile: Mike Wilkinson
 Identity
 Name: Mike Wilkinson
 Nickname: The Warrior
+Division: featherweight
 Professional Record: 9-4-0
 Stance: Orthodox
 Date of Birth: Sep 15, 1987

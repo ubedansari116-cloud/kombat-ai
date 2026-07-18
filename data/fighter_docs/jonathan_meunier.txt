@@ -3,6 +3,7 @@ Fighter Profile: Jonathan Meunier
 Identity
 Name: Jonathan Meunier
 Nickname: District
+Division: welterweight
 Professional Record: 8-1-0
 Stance: Switch
 Date of Birth: Aug 04, 1987

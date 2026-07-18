@@ -3,6 +3,7 @@ Fighter Profile: Justin Wren
 Identity
 Name: Justin Wren
 Nickname: The Viking
+Division: heavyweight
 Professional Record: 13-2-0
 Stance: Orthodox
 Date of Birth: Apr 27, 1987

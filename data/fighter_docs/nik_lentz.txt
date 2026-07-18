@@ -3,6 +3,7 @@ Fighter Profile: Nik Lentz
 Identity
 Name: Nik Lentz
 Nickname: The Carny
+Division: catch weight
 Professional Record: 30-12-2
 Stance: Orthodox
 Date of Birth: Aug 13, 1984

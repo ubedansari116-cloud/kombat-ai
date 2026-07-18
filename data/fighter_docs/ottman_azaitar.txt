@@ -3,6 +3,7 @@ Fighter Profile: Ottman Azaitar
 Identity
 Name: Ottman Azaitar
 Nickname: Bulldozer
+Division: lightweight
 Professional Record: 13-3-0
 Stance: Switch
 Date of Birth: Feb 20, 1990

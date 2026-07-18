@@ -3,6 +3,7 @@ Fighter Profile: Bentley Syler
 Identity
 Name: Bentley Syler
 Nickname: Bolivia
+Division: flyweight
 Professional Record: 5-1-0
 Stance: Orthodox
 Date of Birth: Dec 22, 1982

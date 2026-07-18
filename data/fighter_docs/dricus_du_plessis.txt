@@ -3,6 +3,7 @@ Fighter Profile: Dricus Du Plessis
 Identity
 Name: Dricus Du Plessis
 Nickname: Stillknocks
+Division: middleweight
 Professional Record: 23-3-0
 Stance: Switch
 Date of Birth: Jan 14, 1994

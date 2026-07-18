@@ -3,6 +3,7 @@ Fighter Profile: Albert Tumenov
 Identity
 Name: Albert Tumenov
 Nickname: Einstein
+Division: welterweight
 Professional Record: 18-4-0
 Stance: Orthodox
 Date of Birth: Dec 26, 1991

@@ -3,6 +3,7 @@ Fighter Profile: Francis Carmont
 Identity
 Name: Francis Carmont
 Nickname: Limitless
+Division: middleweight
 Professional Record: 25-12-0
 Stance: Orthodox
 Date of Birth: Oct 11, 1981

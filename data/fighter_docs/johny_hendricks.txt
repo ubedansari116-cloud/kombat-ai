@@ -3,6 +3,7 @@ Fighter Profile: Johny Hendricks
 Identity
 Name: Johny Hendricks
 Nickname: Bigg Rigg
+Division: middleweight
 Professional Record: 18-8-0
 Stance: Southpaw
 Date of Birth: Sep 12, 1983

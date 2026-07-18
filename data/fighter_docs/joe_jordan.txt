@@ -3,6 +3,7 @@ Fighter Profile: Joe Jordan
 Identity
 Name: Joe Jordan
 Nickname: None listed
+Division: catch weight
 Professional Record: 49-14-2
 Stance: Orthodox
 Date of Birth: Jul 27, 1978

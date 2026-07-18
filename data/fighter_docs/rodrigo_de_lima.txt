@@ -3,6 +3,7 @@ Fighter Profile: Rodrigo de Lima
 Identity
 Name: Rodrigo de Lima
 Nickname: Monstro
+Division: lightweight
 Professional Record: 8-3-1
 Stance: Orthodox
 Date of Birth: Mar 12, 1991

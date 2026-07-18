@@ -3,6 +3,7 @@ Fighter Profile: TJ O'Brien
 Identity
 Name: TJ O'Brien
 Nickname: The Spider
+Division: lightweight
 Professional Record: 20-8-0
 Stance: Orthodox
 Date of Birth: Jan 01, 1987

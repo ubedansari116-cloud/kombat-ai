@@ -3,6 +3,7 @@ Fighter Profile: Wade Shipp
 Identity
 Name: Wade Shipp
 Nickname: The Nightmare
+Division: heavyweight
 Professional Record: 11-5-0
 Stance: Orthodox
 Date of Birth: Feb 09, 1975

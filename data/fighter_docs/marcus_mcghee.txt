@@ -3,6 +3,7 @@ Fighter Profile: Marcus McGhee
 Identity
 Name: Marcus McGhee
 Nickname: The Maniac
+Division: bantamweight
 Professional Record: 10-2-0
 Stance: Orthodox
 Date of Birth: May 07, 1990

@@ -3,6 +3,7 @@ Fighter Profile: Jake Matthews
 Identity
 Name: Jake Matthews
 Nickname: The Celtic Kid
+Division: welterweight
 Professional Record: 22-7-0
 Stance: Orthodox
 Date of Birth: Aug 19, 1994

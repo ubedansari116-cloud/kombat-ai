@@ -3,6 +3,7 @@ Fighter Profile: Chuck O'Neil
 Identity
 Name: Chuck O'Neil
 Nickname: Cold Steel
+Division: welterweight
 Professional Record: 17-9-0
 Stance: Unknown
 Date of Birth: Sep 22, 1985

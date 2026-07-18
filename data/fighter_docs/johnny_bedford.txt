@@ -3,6 +3,7 @@ Fighter Profile: Johnny Bedford
 Identity
 Name: Johnny Bedford
 Nickname: Brutal
+Division: bantamweight
 Professional Record: 21-13-1
 Stance: Orthodox
 Date of Birth: Jan 06, 1983

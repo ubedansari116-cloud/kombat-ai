@@ -3,6 +3,7 @@ Fighter Profile: Spike Carlyle
 Identity
 Name: Spike Carlyle
 Nickname: Alpha Ginger
+Division: featherweight
 Professional Record: 9-3-0
 Stance: Switch
 Date of Birth: May 06, 1993

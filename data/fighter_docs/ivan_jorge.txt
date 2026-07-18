@@ -3,6 +3,7 @@ Fighter Profile: Ivan Jorge
 Identity
 Name: Ivan Jorge
 Nickname: Batman
+Division: lightweight
 Professional Record: 27-7-0
 Stance: Orthodox
 Date of Birth: Nov 07, 1980

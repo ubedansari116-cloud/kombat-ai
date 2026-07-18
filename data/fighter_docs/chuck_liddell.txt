@@ -3,6 +3,7 @@ Fighter Profile: Chuck Liddell
 Identity
 Name: Chuck Liddell
 Nickname: The Iceman
+Division: light heavyweight
 Professional Record: 21-8-0
 Stance: Orthodox
 Date of Birth: Dec 17, 1969

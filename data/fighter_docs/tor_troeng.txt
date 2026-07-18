@@ -3,6 +3,7 @@ Fighter Profile: Tor Troeng
 Identity
 Name: Tor Troeng
 Nickname: The Hammer
+Division: middleweight
 Professional Record: 16-7-1
 Stance: Orthodox
 Date of Birth: Jan 25, 1983

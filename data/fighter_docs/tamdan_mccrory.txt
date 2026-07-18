@@ -3,6 +3,7 @@ Fighter Profile: Tamdan McCrory
 Identity
 Name: Tamdan McCrory
 Nickname: The Barncat
+Division: middleweight
 Professional Record: 14-5-0
 Stance: Switch
 Date of Birth: Nov 05, 1986

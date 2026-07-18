@@ -3,6 +3,7 @@ Fighter Profile: Randy Couture
 Identity
 Name: Randy Couture
 Nickname: The Natural
+Division: light heavyweight
 Professional Record: 19-11-0
 Stance: Orthodox
 Date of Birth: Jun 22, 1963

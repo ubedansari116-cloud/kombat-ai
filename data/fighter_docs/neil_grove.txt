@@ -3,6 +3,7 @@ Fighter Profile: Neil Grove
 Identity
 Name: Neil Grove
 Nickname: Goliath
+Division: heavyweight
 Professional Record: 12-8-1
 Stance: Orthodox
 Date of Birth: Jan 18, 1971

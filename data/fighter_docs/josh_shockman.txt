@@ -3,6 +3,7 @@ Fighter Profile: Josh Shockman
 Identity
 Name: Josh Shockman
 Nickname: The War Hammer
+Division: heavyweight
 Professional Record: 6-3-0
 Stance: Southpaw
 Date of Birth: Dec 29, 1980

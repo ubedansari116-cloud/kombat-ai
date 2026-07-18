@@ -3,6 +3,7 @@ Fighter Profile: Nick Ring
 Identity
 Name: Nick Ring
 Nickname: The Promise
+Division: middleweight
 Professional Record: 14-4-0
 Stance: Southpaw
 Date of Birth: Feb 10, 1979

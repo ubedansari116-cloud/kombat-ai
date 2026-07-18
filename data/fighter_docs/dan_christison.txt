@@ -3,6 +3,7 @@ Fighter Profile: Dan Christison
 Identity
 Name: Dan Christison
 Nickname: The Sandman
+Division: heavyweight
 Professional Record: 20-7-0
 Stance: Orthodox
 Date of Birth: Apr 26, 1972

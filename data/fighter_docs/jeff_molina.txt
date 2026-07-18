@@ -3,6 +3,7 @@ Fighter Profile: Jeff Molina
 Identity
 Name: Jeff Molina
 Nickname: El Jefe
+Division: flyweight
 Professional Record: 11-2-0
 Stance: Orthodox
 Date of Birth: Jul 17, 1997

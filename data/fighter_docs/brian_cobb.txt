@@ -3,6 +3,7 @@ Fighter Profile: Brian Cobb
 Identity
 Name: Brian Cobb
 Nickname: None listed
+Division: lightweight
 Professional Record: 20-9-0
 Stance: Orthodox
 Date of Birth: Unknown

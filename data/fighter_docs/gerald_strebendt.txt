@@ -3,6 +3,7 @@ Fighter Profile: Gerald Strebendt
 Identity
 Name: Gerald Strebendt
 Nickname: The Finishing Machine
+Division: lightweight
 Professional Record: 9-7-0
 Stance: Orthodox
 Date of Birth: Mar 01, 1979

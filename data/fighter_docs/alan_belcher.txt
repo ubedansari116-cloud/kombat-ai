@@ -3,6 +3,7 @@ Fighter Profile: Alan Belcher
 Identity
 Name: Alan Belcher
 Nickname: The Talent
+Division: middleweight
 Professional Record: 18-8-0
 Stance: Orthodox
 Date of Birth: Apr 24, 1984

@@ -3,6 +3,7 @@ Fighter Profile: Lance Gibson
 Identity
 Name: Lance Gibson
 Nickname: Fearless
+Division: middleweight
 Professional Record: 4-5-0
 Stance: Orthodox
 Date of Birth: Nov 20, 1970

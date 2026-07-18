@@ -3,6 +3,7 @@ Fighter Profile: Chico Camus
 Identity
 Name: Chico Camus
 Nickname: The King
+Division: flyweight
 Professional Record: 17-7-0
 Stance: Orthodox
 Date of Birth: Jan 26, 1985

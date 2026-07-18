@@ -3,6 +3,7 @@ Fighter Profile: Phil Harris
 Identity
 Name: Phil Harris
 Nickname: Billy
+Division: flyweight
 Professional Record: 22-12-0
 Stance: Orthodox
 Date of Birth: Sep 04, 1983

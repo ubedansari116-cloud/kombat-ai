@@ -3,6 +3,7 @@ Fighter Profile: Michael Chandler
 Identity
 Name: Michael Chandler
 Nickname: Iron
+Division: lightweight
 Professional Record: 23-10-0
 Stance: Orthodox
 Date of Birth: Apr 24, 1986

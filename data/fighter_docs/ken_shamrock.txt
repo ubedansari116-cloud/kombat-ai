@@ -3,6 +3,7 @@ Fighter Profile: Ken Shamrock
 Identity
 Name: Ken Shamrock
 Nickname: The World's Most Dangerous Man
+Division: light heavyweight
 Professional Record: 28-17-2
 Stance: Orthodox
 Date of Birth: Feb 11, 1964

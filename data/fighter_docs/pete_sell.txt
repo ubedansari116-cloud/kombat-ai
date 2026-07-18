@@ -3,6 +3,7 @@ Fighter Profile: Pete Sell
 Identity
 Name: Pete Sell
 Nickname: Drago
+Division: welterweight
 Professional Record: 10-7-0
 Stance: Orthodox
 Date of Birth: Aug 05, 1982

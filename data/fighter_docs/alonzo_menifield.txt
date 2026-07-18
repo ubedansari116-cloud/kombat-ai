@@ -3,6 +3,7 @@ Fighter Profile: Alonzo Menifield
 Identity
 Name: Alonzo Menifield
 Nickname: Atomic
+Division: light heavyweight
 Professional Record: 17-5-1
 Stance: Orthodox
 Date of Birth: Oct 18, 1987

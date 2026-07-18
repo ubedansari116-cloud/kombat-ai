@@ -3,6 +3,7 @@ Fighter Profile: Brian Johnston
 Identity
 Name: Brian Johnston
 Nickname: None listed
+Division: heavyweight
 Professional Record: 5-5-0
 Stance: Orthodox
 Date of Birth: Unknown

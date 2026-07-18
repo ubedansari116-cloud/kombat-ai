@@ -3,6 +3,7 @@ Fighter Profile: Damon Jackson
 Identity
 Name: Damon Jackson
 Nickname: The Leech
+Division: lightweight
 Professional Record: 23-8-1
 Stance: Switch
 Date of Birth: Aug 08, 1988

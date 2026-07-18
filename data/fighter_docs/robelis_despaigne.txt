@@ -3,6 +3,7 @@ Fighter Profile: Robelis Despaigne
 Identity
 Name: Robelis Despaigne
 Nickname: The Big Boy
+Division: heavyweight
 Professional Record: 5-2-0
 Stance: Orthodox
 Date of Birth: Sep 09, 1988

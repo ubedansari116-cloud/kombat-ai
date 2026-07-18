@@ -3,6 +3,7 @@ Fighter Profile: Dennis Buzukja
 Identity
 Name: Dennis Buzukja
 Nickname: The Great
+Division: lightweight
 Professional Record: 12-5-0
 Stance: Switch
 Date of Birth: Oct 01, 1997

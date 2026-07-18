@@ -3,6 +3,7 @@ Fighter Profile: Max Griffin
 Identity
 Name: Max Griffin
 Nickname: Pain
+Division: welterweight
 Professional Record: 20-12-0
 Stance: Orthodox
 Date of Birth: Nov 29, 1985

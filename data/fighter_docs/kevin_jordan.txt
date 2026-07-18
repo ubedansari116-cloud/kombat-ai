@@ -3,6 +3,7 @@ Fighter Profile: Kevin Jordan
 Identity
 Name: Kevin Jordan
 Nickname: The Shaman
+Division: heavyweight
 Professional Record: 11-9-0
 Stance: Orthodox
 Date of Birth: Dec 31, 1970

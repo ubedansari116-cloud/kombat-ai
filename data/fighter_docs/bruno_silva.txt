@@ -3,6 +3,7 @@ Fighter Profile: Bruno Silva
 Identity
 Name: Bruno Silva
 Nickname: Blindado
+Division: flyweight
 Professional Record: 23-13-0
 Stance: Orthodox
 Date of Birth: Jul 13, 1989

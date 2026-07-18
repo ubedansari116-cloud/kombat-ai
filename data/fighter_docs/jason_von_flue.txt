@@ -3,6 +3,7 @@ Fighter Profile: Jason Von Flue
 Identity
 Name: Jason Von Flue
 Nickname: Live Wire
+Division: welterweight
 Professional Record: 14-12-1
 Stance: Orthodox
 Date of Birth: Aug 01, 1975

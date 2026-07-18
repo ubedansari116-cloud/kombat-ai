@@ -3,6 +3,7 @@ Fighter Profile: Eddie Gordon
 Identity
 Name: Eddie Gordon
 Nickname: Truck
+Division: middleweight
 Professional Record: 8-4-0
 Stance: Orthodox
 Date of Birth: Jul 22, 1983

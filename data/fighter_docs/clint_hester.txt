@@ -3,6 +3,7 @@ Fighter Profile: Clint Hester
 Identity
 Name: Clint Hester
 Nickname: Headbussa
+Division: light heavyweight
 Professional Record: 11-6-0
 Stance: Orthodox
 Date of Birth: Nov 21, 1986

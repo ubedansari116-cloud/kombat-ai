@@ -3,6 +3,7 @@ Fighter Profile: Marcus Silveira
 Identity
 Name: Marcus Silveira
 Nickname: Conan
+Division: heavyweight
 Professional Record: 6-4-0
 Stance: Orthodox
 Date of Birth: Unknown

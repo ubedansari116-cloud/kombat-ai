@@ -3,6 +3,7 @@ Fighter Profile: Jussier Formiga
 Identity
 Name: Jussier Formiga
 Nickname: None listed
+Division: flyweight
 Professional Record: 23-8-0
 Stance: Orthodox
 Date of Birth: Apr 14, 1985

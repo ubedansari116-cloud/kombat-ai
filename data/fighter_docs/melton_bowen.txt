@@ -3,6 +3,7 @@ Fighter Profile: Melton Bowen
 Identity
 Name: Melton Bowen
 Nickname: The Punisher
+Division: open weight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Jul 16, 1969

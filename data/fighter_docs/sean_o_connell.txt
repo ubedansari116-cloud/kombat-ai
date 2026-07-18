@@ -3,6 +3,7 @@ Fighter Profile: Sean O'Connell
 Identity
 Name: Sean O'Connell
 Nickname: The Real OC
+Division: light heavyweight
 Professional Record: 17-9-0
 Stance: Orthodox
 Date of Birth: Sep 02, 1983

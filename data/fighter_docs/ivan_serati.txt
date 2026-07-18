@@ -3,6 +3,7 @@ Fighter Profile: Ivan Serati
 Identity
 Name: Ivan Serati
 Nickname: None listed
+Division: light heavyweight
 Professional Record: 12-4-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Mateus Mendonca
 Identity
 Name: Mateus Mendonca
 Nickname: Bocao
+Division: flyweight
 Professional Record: 10-3-0
 Stance: Orthodox
 Date of Birth: Jan 17, 1999

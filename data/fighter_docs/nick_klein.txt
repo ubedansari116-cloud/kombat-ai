@@ -3,6 +3,7 @@ Fighter Profile: Nick Klein
 Identity
 Name: Nick Klein
 Nickname: Blue Collar
+Division: middleweight
 Professional Record: 6-3-0
 Stance: Orthodox
 Date of Birth: Sep 08, 1995

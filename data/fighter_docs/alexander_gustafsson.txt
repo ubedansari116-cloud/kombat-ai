@@ -3,6 +3,7 @@ Fighter Profile: Alexander Gustafsson
 Identity
 Name: Alexander Gustafsson
 Nickname: The Mauler
+Division: light heavyweight
 Professional Record: 18-8-0
 Stance: Orthodox
 Date of Birth: Jan 15, 1987

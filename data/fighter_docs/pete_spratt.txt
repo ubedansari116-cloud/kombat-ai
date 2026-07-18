@@ -3,6 +3,7 @@ Fighter Profile: Pete Spratt
 Identity
 Name: Pete Spratt
 Nickname: The Secret Weapon
+Division: welterweight
 Professional Record: 25-23-0
 Stance: Orthodox
 Date of Birth: Jan 09, 1971

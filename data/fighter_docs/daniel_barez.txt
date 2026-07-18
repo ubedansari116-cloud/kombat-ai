@@ -3,6 +3,7 @@ Fighter Profile: Daniel Barez
 Identity
 Name: Daniel Barez
 Nickname: None listed
+Division: flyweight
 Professional Record: 17-7-0
 Stance: Orthodox
 Date of Birth: Dec 10, 1988

@@ -3,6 +3,7 @@ Fighter Profile: Michael Bisping
 Identity
 Name: Michael Bisping
 Nickname: The Count
+Division: middleweight
 Professional Record: 30-9-0
 Stance: Orthodox
 Date of Birth: Feb 28, 1979

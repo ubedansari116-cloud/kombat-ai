@@ -3,6 +3,7 @@ Fighter Profile: Charles McCarthy
 Identity
 Name: Charles McCarthy
 Nickname: Chainsaw
+Division: middleweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: Aug 06, 1980

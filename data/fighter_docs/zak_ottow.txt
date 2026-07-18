@@ -3,6 +3,7 @@ Fighter Profile: Zak Ottow
 Identity
 Name: Zak Ottow
 Nickname: The Barbarian
+Division: welterweight
 Professional Record: 17-7-0
 Stance: Orthodox
 Date of Birth: Dec 22, 1986

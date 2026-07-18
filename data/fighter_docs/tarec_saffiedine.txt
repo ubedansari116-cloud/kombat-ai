@@ -3,6 +3,7 @@ Fighter Profile: Tarec Saffiedine
 Identity
 Name: Tarec Saffiedine
 Nickname: Sponge
+Division: welterweight
 Professional Record: 16-7-0
 Stance: Switch
 Date of Birth: Sep 06, 1986

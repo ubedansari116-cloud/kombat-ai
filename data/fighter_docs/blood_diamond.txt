@@ -3,6 +3,7 @@ Fighter Profile: Blood Diamond
 Identity
 Name: Blood Diamond
 Nickname: None listed
+Division: welterweight
 Professional Record: 3-3-0
 Stance: Switch
 Date of Birth: Jul 10, 1988

@@ -3,6 +3,7 @@ Fighter Profile: Ross Pearson
 Identity
 Name: Ross Pearson
 Nickname: The Real Deal
+Division: lightweight
 Professional Record: 20-16-0
 Stance: Orthodox
 Date of Birth: Sep 26, 1984

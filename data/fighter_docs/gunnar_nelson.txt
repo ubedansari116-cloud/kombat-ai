@@ -3,6 +3,7 @@ Fighter Profile: Gunnar Nelson
 Identity
 Name: Gunnar Nelson
 Nickname: Gunni
+Division: welterweight
 Professional Record: 19-6-1
 Stance: Switch
 Date of Birth: Jul 28, 1988

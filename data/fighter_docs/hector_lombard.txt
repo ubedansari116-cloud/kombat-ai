@@ -3,6 +3,7 @@ Fighter Profile: Hector Lombard
 Identity
 Name: Hector Lombard
 Nickname: None listed
+Division: middleweight
 Professional Record: 34-10-1
 Stance: Southpaw
 Date of Birth: Feb 02, 1978

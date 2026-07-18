@@ -3,6 +3,7 @@ Fighter Profile: Danillo Villefort
 Identity
 Name: Danillo Villefort
 Nickname: Indio
+Division: welterweight
 Professional Record: 15-5-0
 Stance: Orthodox
 Date of Birth: May 08, 1983

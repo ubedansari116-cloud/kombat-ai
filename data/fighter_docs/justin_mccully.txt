@@ -3,6 +3,7 @@ Fighter Profile: Justin McCully
 Identity
 Name: Justin McCully
 Nickname: The Insane One
+Division: heavyweight
 Professional Record: 11-5-2
 Stance: Orthodox
 Date of Birth: Feb 18, 1976

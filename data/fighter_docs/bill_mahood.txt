@@ -3,6 +3,7 @@ Fighter Profile: Bill Mahood
 Identity
 Name: Bill Mahood
 Nickname: The Butcher
+Division: light heavyweight
 Professional Record: 20-7-1
 Stance: Orthodox
 Date of Birth: Feb 01, 1967

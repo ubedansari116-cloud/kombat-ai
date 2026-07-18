@@ -3,6 +3,7 @@ Fighter Profile: Matt Lucas
 Identity
 Name: Matt Lucas
 Nickname: Luke Duke
+Division: light heavyweight
 Professional Record: 15-3-0
 Stance: Unknown
 Date of Birth: Unknown

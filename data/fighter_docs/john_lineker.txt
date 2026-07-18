@@ -3,6 +3,7 @@ Fighter Profile: John Lineker
 Identity
 Name: John Lineker
 Nickname: Hands of Stone
+Division: bantamweight
 Professional Record: 31-9-0
 Stance: Orthodox
 Date of Birth: Jun 12, 1990

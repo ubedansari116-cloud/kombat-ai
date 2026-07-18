@@ -3,6 +3,7 @@ Fighter Profile: Lukasz Brzeski
 Identity
 Name: Lukasz Brzeski
 Nickname: The Bull
+Division: heavyweight
 Professional Record: 9-7-1
 Stance: Orthodox
 Date of Birth: May 17, 1992

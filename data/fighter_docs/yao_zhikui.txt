@@ -3,6 +3,7 @@ Fighter Profile: Yao Zhikui
 Identity
 Name: Yao Zhikui
 Nickname: The Conqueror
+Division: flyweight
 Professional Record: 2-4-0
 Stance: Orthodox
 Date of Birth: Feb 07, 1991

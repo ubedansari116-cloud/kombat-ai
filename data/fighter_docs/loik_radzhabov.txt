@@ -3,6 +3,7 @@ Fighter Profile: Loik Radzhabov
 Identity
 Name: Loik Radzhabov
 Nickname: The Tajik Tank
+Division: lightweight
 Professional Record: 18-6-1
 Stance: Orthodox
 Date of Birth: Sep 17, 1990

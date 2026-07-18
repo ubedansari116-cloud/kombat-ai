@@ -3,6 +3,7 @@ Fighter Profile: Neil Seery
 Identity
 Name: Neil Seery
 Nickname: 2Tap
+Division: flyweight
 Professional Record: 16-13-0
 Stance: Orthodox
 Date of Birth: Aug 30, 1979

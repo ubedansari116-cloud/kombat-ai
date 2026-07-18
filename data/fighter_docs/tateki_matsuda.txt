@@ -3,6 +3,7 @@ Fighter Profile: Tateki Matsuda
 Identity
 Name: Tateki Matsuda
 Nickname: Tech
+Division: flyweight
 Professional Record: 13-8-0
 Stance: Orthodox
 Date of Birth: Feb 27, 1986

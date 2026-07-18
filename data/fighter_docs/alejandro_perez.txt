@@ -3,6 +3,7 @@ Fighter Profile: Alejandro Perez
 Identity
 Name: Alejandro Perez
 Nickname: Turbo
+Division: featherweight
 Professional Record: 23-9-1
 Stance: Orthodox
 Date of Birth: Sep 02, 1989

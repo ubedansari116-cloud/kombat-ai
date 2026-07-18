@@ -3,6 +3,7 @@ Fighter Profile: Vinc Pichel
 Identity
 Name: Vinc Pichel
 Nickname: From Hell
+Division: lightweight
 Professional Record: 14-5-0
 Stance: Orthodox
 Date of Birth: Nov 23, 1982

@@ -3,6 +3,7 @@ Fighter Profile: Jeff Cox
 Identity
 Name: Jeff Cox
 Nickname: The Grinder
+Division: lightweight
 Professional Record: 10-7-0
 Stance: Orthodox
 Date of Birth: Aug 02, 1968

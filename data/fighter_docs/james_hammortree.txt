@@ -3,6 +3,7 @@ Fighter Profile: James Hammortree
 Identity
 Name: James Hammortree
 Nickname: The Sledge
+Division: middleweight
 Professional Record: 6-3-0
 Stance: Orthodox
 Date of Birth: Nov 29, 1983

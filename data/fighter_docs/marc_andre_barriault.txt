@@ -3,6 +3,7 @@ Fighter Profile: Marc-Andre Barriault
 Identity
 Name: Marc-Andre Barriault
 Nickname: Powerbar
+Division: middleweight
 Professional Record: 17-10-0
 Stance: Orthodox
 Date of Birth: Feb 18, 1990

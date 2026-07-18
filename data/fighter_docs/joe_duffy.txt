@@ -3,6 +3,7 @@ Fighter Profile: Joe Duffy
 Identity
 Name: Joe Duffy
 Nickname: Irish
+Division: lightweight
 Professional Record: 16-5-0
 Stance: Orthodox
 Date of Birth: Feb 18, 1988

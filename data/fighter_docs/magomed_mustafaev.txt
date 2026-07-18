@@ -3,6 +3,7 @@ Fighter Profile: Magomed Mustafaev
 Identity
 Name: Magomed Mustafaev
 Nickname: The Sniper
+Division: lightweight
 Professional Record: 14-4-0
 Stance: Orthodox
 Date of Birth: Aug 02, 1988

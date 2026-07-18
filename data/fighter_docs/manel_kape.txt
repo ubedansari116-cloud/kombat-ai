@@ -3,6 +3,7 @@ Fighter Profile: Manel Kape
 Identity
 Name: Manel Kape
 Nickname: StarBoy
+Division: flyweight
 Professional Record: 21-7-0
 Stance: Southpaw
 Date of Birth: Nov 14, 1993

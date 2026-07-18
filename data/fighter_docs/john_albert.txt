@@ -3,6 +3,7 @@ Fighter Profile: John Albert
 Identity
 Name: John Albert
 Nickname: Prince
+Division: bantamweight
 Professional Record: 6-5-0
 Stance: Orthodox
 Date of Birth: Oct 13, 1986

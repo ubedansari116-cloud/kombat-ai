@@ -3,6 +3,7 @@ Fighter Profile: Bas Rutten
 Identity
 Name: Bas Rutten
 Nickname: El Guapo
+Division: heavyweight
 Professional Record: 28-4-1
 Stance: Orthodox
 Date of Birth: Feb 24, 1965

@@ -3,6 +3,7 @@ Fighter Profile: Alexandre Pantoja
 Identity
 Name: Alexandre Pantoja
 Nickname: The Cannibal
+Division: flyweight
 Professional Record: 30-5-0
 Stance: Orthodox
 Date of Birth: Apr 16, 1990

@@ -3,6 +3,7 @@ Fighter Profile: Marcin Tybura
 Identity
 Name: Marcin Tybura
 Nickname: Tybur
+Division: heavyweight
 Professional Record: 27-10-0
 Stance: Orthodox
 Date of Birth: Nov 09, 1985

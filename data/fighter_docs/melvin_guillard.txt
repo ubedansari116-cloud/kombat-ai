@@ -3,6 +3,7 @@ Fighter Profile: Melvin Guillard
 Identity
 Name: Melvin Guillard
 Nickname: The Young Assassin
+Division: lightweight
 Professional Record: 32-18-2
 Stance: Orthodox
 Date of Birth: Mar 30, 1983

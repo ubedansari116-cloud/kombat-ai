@@ -3,6 +3,7 @@ Fighter Profile: Ernest Chavez
 Identity
 Name: Ernest Chavez
 Nickname: EJ
+Division: featherweight
 Professional Record: 10-2-0
 Stance: Orthodox
 Date of Birth: Jun 27, 1983

@@ -3,6 +3,7 @@ Fighter Profile: Elvis Mutapcic
 Identity
 Name: Elvis Mutapcic
 Nickname: The King
+Division: middleweight
 Professional Record: 15-6-1
 Stance: Orthodox
 Date of Birth: Jul 19, 1986

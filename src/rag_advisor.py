@@ -16,6 +16,7 @@ class KombatAdvisor:
             "height": r"Height:\s*([\d.]+)",
             "weight": r"Weight:\s*([\d.]+)",
             "reach": r"Reach:\s*([\d.]+)",
+            "division": r"Division:\s*(.+)",
             "splm": r"Significant Strikes Landed per Minute:\s*([\d.]+)",
             "striking_accuracy": (
                 r"Significant Striking Accuracy:\s*([\d.]+)"
@@ -37,8 +38,14 @@ class KombatAdvisor:
         stats = {}
 
         for stat_name, pattern in patterns.items():
-            match = re.search(pattern, document)
-            stats[stat_name] = float(match.group(1)) if match else None
+            match = re.search(pattern, document) 
+            if not match:
+                stats[stat_name] = None
+            elif stat_name == "division":
+                stats[stat_name] = match.group(1).strip()
+                
+            else:
+                stats[stat_name] = float(match.group(1))
 
         return stats
 

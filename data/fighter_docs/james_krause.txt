@@ -3,6 +3,7 @@ Fighter Profile: James Krause
 Identity
 Name: James Krause
 Nickname: The
+Division: welterweight
 Professional Record: 28-9-0
 Stance: Orthodox
 Date of Birth: Jun 04, 1986

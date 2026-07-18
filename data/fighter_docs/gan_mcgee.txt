@@ -3,6 +3,7 @@ Fighter Profile: Gan McGee
 Identity
 Name: Gan McGee
 Nickname: The Giant
+Division: heavyweight
 Professional Record: 13-5-0
 Stance: Orthodox
 Date of Birth: Nov 20, 1976

@@ -3,6 +3,7 @@ Fighter Profile: Aleksei Oleinik
 Identity
 Name: Aleksei Oleinik
 Nickname: The Boa Constrictor
+Division: heavyweight
 Professional Record: 60-17-1
 Stance: Orthodox
 Date of Birth: Jun 20, 1977

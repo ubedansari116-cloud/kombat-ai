@@ -3,6 +3,7 @@ Fighter Profile: Stevie Ray
 Identity
 Name: Stevie Ray
 Nickname: Braveheart
+Division: lightweight
 Professional Record: 23-9-0
 Stance: Southpaw
 Date of Birth: Mar 25, 1990

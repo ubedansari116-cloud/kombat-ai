@@ -3,6 +3,7 @@ Fighter Profile: Sam Hoger
 Identity
 Name: Sam Hoger
 Nickname: The Alaskan Assassin
+Division: light heavyweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Jun 28, 1980

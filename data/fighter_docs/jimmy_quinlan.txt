@@ -3,6 +3,7 @@ Fighter Profile: Jimmy Quinlan
 Identity
 Name: Jimmy Quinlan
 Nickname: Crash
+Division: middleweight
 Professional Record: 3-1-1
 Stance: Orthodox
 Date of Birth: May 25, 1986

@@ -3,6 +3,7 @@ Fighter Profile: Khaos Williams
 Identity
 Name: Khaos Williams
 Nickname: The OxFighter
+Division: welterweight
 Professional Record: 15-5-0
 Stance: Orthodox
 Date of Birth: Mar 30, 1994

@@ -3,6 +3,7 @@ Fighter Profile: Brock Lesnar
 Identity
 Name: Brock Lesnar
 Nickname: None listed
+Division: heavyweight
 Professional Record: 5-3-0
 Stance: Orthodox
 Date of Birth: Jul 12, 1977

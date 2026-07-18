@@ -3,6 +3,7 @@ Fighter Profile: Luke Jumeau
 Identity
 Name: Luke Jumeau
 Nickname: The Jedi
+Division: welterweight
 Professional Record: 13-5-0
 Stance: Orthodox
 Date of Birth: Feb 12, 1988

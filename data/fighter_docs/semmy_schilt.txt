@@ -3,6 +3,7 @@ Fighter Profile: Semmy Schilt
 Identity
 Name: Semmy Schilt
 Nickname: Hightower
+Division: heavyweight
 Professional Record: 26-14-1
 Stance: Orthodox
 Date of Birth: Oct 27, 1973

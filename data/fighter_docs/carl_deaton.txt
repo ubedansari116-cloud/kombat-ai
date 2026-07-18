@@ -3,6 +3,7 @@ Fighter Profile: Carl Deaton
 Identity
 Name: Carl Deaton
 Nickname: The Anishinaabe Kid
+Division: lightweight
 Professional Record: 17-7-0
 Stance: Orthodox
 Date of Birth: Nov 24, 1989

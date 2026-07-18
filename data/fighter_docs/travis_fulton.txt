@@ -3,6 +3,7 @@ Fighter Profile: Travis Fulton
 Identity
 Name: Travis Fulton
 Nickname: The Ironman
+Division: heavyweight
 Professional Record: 253-53-10
 Stance: Orthodox
 Date of Birth: May 29, 1977

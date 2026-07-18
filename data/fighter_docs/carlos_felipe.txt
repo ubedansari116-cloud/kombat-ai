@@ -3,6 +3,7 @@ Fighter Profile: Carlos Felipe
 Identity
 Name: Carlos Felipe
 Nickname: Boi
+Division: heavyweight
 Professional Record: 11-2-0
 Stance: Orthodox
 Date of Birth: Jan 12, 1995

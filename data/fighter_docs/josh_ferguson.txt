@@ -3,6 +3,7 @@ Fighter Profile: Josh Ferguson
 Identity
 Name: Josh Ferguson
 Nickname: Taz
+Division: flyweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: May 13, 1988

@@ -3,6 +3,7 @@ Fighter Profile: Tito Ortiz
 Identity
 Name: Tito Ortiz
 Nickname: The People's Champ
+Division: light heavyweight
 Professional Record: 19-12-1
 Stance: Orthodox
 Date of Birth: Jan 23, 1975

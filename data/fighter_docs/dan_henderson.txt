@@ -3,6 +3,7 @@ Fighter Profile: Dan Henderson
 Identity
 Name: Dan Henderson
 Nickname: Hendo
+Division: middleweight
 Professional Record: 32-15-0
 Stance: Orthodox
 Date of Birth: Aug 24, 1970

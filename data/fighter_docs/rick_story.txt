@@ -3,6 +3,7 @@ Fighter Profile: Rick Story
 Identity
 Name: Rick Story
 Nickname: The Horror
+Division: welterweight
 Professional Record: 19-9-0
 Stance: Southpaw
 Date of Birth: Aug 28, 1984

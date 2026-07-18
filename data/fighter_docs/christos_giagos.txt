@@ -3,6 +3,7 @@ Fighter Profile: Christos Giagos
 Identity
 Name: Christos Giagos
 Nickname: The Spartan
+Division: lightweight
 Professional Record: 20-12-0
 Stance: Orthodox
 Date of Birth: Jan 23, 1990

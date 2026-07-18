@@ -3,6 +3,7 @@ Fighter Profile: Bobby Voelker
 Identity
 Name: Bobby Voelker
 Nickname: Vicious
+Division: welterweight
 Professional Record: 19-13-0
 Stance: Orthodox
 Date of Birth: Apr 26, 1979

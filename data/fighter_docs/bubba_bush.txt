@@ -3,6 +3,7 @@ Fighter Profile: Bubba Bush
 Identity
 Name: Bubba Bush
 Nickname: The Fightin' Texas Aggie
+Division: middleweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Jul 24, 1985

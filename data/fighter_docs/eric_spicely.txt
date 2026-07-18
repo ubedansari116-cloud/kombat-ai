@@ -3,6 +3,7 @@ Fighter Profile: Eric Spicely
 Identity
 Name: Eric Spicely
 Nickname: Zebrinha
+Division: middleweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Sep 29, 1986

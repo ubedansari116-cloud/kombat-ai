@@ -3,6 +3,7 @@ Fighter Profile: Alex Perez
 Identity
 Name: Alex Perez
 Nickname: None listed
+Division: flyweight
 Professional Record: 25-9-0
 Stance: Orthodox
 Date of Birth: Mar 21, 1992

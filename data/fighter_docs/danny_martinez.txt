@@ -3,6 +3,7 @@ Fighter Profile: Danny Martinez
 Identity
 Name: Danny Martinez
 Nickname: The Gremlin
+Division: flyweight
 Professional Record: 21-8-0
 Stance: Orthodox
 Date of Birth: Jun 14, 1985

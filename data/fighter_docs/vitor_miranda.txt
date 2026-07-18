@@ -3,6 +3,7 @@ Fighter Profile: Vitor Miranda
 Identity
 Name: Vitor Miranda
 Nickname: Lex Luthor
+Division: middleweight
 Professional Record: 12-5-0
 Stance: Orthodox
 Date of Birth: Mar 10, 1979

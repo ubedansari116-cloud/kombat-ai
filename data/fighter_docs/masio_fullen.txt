@@ -3,6 +3,7 @@ Fighter Profile: Masio Fullen
 Identity
 Name: Masio Fullen
 Nickname: Lobo
+Division: featherweight
 Professional Record: 11-7-0
 Stance: Orthodox
 Date of Birth: Oct 06, 1986

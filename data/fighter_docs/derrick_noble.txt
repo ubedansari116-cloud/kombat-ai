@@ -3,6 +3,7 @@ Fighter Profile: Derrick Noble
 Identity
 Name: Derrick Noble
 Nickname: The Eraser
+Division: welterweight
 Professional Record: 27-15-1
 Stance: Southpaw
 Date of Birth: Aug 14, 1978

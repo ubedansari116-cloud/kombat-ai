@@ -3,6 +3,7 @@ Fighter Profile: Joel Alvarez
 Identity
 Name: Joel Alvarez
 Nickname: El Fenomeno
+Division: lightweight
 Professional Record: 22-3-0
 Stance: Orthodox
 Date of Birth: Mar 02, 1993

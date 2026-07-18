@@ -3,6 +3,7 @@ Fighter Profile: Tom Watson
 Identity
 Name: Tom Watson
 Nickname: Kong
+Division: middleweight
 Professional Record: 17-9-0
 Stance: Orthodox
 Date of Birth: Jul 13, 1982

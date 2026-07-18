@@ -3,6 +3,7 @@ Fighter Profile: Paddy Pimblett
 Identity
 Name: Paddy Pimblett
 Nickname: The Baddy
+Division: lightweight
 Professional Record: 23-3-0
 Stance: Orthodox
 Date of Birth: Jan 03, 1995

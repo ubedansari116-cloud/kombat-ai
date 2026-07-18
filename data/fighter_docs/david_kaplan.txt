@@ -3,6 +3,7 @@ Fighter Profile: David Kaplan
 Identity
 Name: David Kaplan
 Nickname: Diamond
+Division: lightweight
 Professional Record: 3-4-0
 Stance: Orthodox
 Date of Birth: Nov 16, 1979

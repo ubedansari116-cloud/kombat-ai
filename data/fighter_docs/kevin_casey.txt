@@ -3,6 +3,7 @@ Fighter Profile: Kevin Casey
 Identity
 Name: Kevin Casey
 Nickname: King
+Division: middleweight
 Professional Record: 9-5-2
 Stance: Southpaw
 Date of Birth: Jun 15, 1981

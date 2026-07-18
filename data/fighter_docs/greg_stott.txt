@@ -3,6 +3,7 @@ Fighter Profile: Greg Stott
 Identity
 Name: Greg Stott
 Nickname: Ranger
+Division: heavyweight
 Professional Record: 0-1-0
 Stance: Southpaw
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Steve Nelmark
 Identity
 Name: Steve Nelmark
 Nickname: The Sandman
+Division: open weight
 Professional Record: 2-1-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Jason Knight
 Identity
 Name: Jason Knight
 Nickname: The Kid
+Division: featherweight
 Professional Record: 20-5-0
 Stance: Orthodox
 Date of Birth: Jul 14, 1992

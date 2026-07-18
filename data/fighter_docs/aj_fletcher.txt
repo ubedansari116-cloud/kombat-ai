@@ -3,6 +3,7 @@ Fighter Profile: AJ Fletcher
 Identity
 Name: AJ Fletcher
 Nickname: The Ghost
+Division: welterweight
 Professional Record: 10-3-0
 Stance: Switch
 Date of Birth: Feb 18, 1997

@@ -3,6 +3,7 @@ Fighter Profile: Steve Byrnes
 Identity
 Name: Steve Byrnes
 Nickname: The Sergeant
+Division: middleweight
 Professional Record: 6-1-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: John Hathaway
 Identity
 Name: John Hathaway
 Nickname: The Hitman
+Division: welterweight
 Professional Record: 17-2-0
 Stance: Orthodox
 Date of Birth: Jul 23, 1987

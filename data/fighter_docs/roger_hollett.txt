@@ -3,6 +3,7 @@ Fighter Profile: Roger Hollett
 Identity
 Name: Roger Hollett
 Nickname: The Hulk
+Division: light heavyweight
 Professional Record: 13-5-0
 Stance: Orthodox
 Date of Birth: Oct 08, 1978

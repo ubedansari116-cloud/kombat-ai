@@ -3,6 +3,7 @@ Fighter Profile: Leon Edwards
 Identity
 Name: Leon Edwards
 Nickname: Rocky
+Division: welterweight
 Professional Record: 22-5-0
 Stance: Southpaw
 Date of Birth: Aug 25, 1991

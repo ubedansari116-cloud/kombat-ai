@@ -3,6 +3,7 @@ Fighter Profile: Jason Black
 Identity
 Name: Jason Black
 Nickname: The Black Legion
+Division: lightweight
 Professional Record: 23-4-1
 Stance: Orthodox
 Date of Birth: Jul 15, 1972

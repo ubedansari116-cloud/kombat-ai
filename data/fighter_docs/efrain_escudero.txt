@@ -3,6 +3,7 @@ Fighter Profile: Efrain Escudero
 Identity
 Name: Efrain Escudero
 Nickname: Hecho En Mexico
+Division: lightweight
 Professional Record: 28-12-0
 Stance: Orthodox
 Date of Birth: Jan 15, 1986

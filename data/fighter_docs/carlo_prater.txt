@@ -3,6 +3,7 @@ Fighter Profile: Carlo Prater
 Identity
 Name: Carlo Prater
 Nickname: Neo
+Division: lightweight
 Professional Record: 31-18-1
 Stance: Switch
 Date of Birth: Jun 25, 1981

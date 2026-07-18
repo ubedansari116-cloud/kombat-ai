@@ -3,6 +3,7 @@ Fighter Profile: Damir Hadzovic
 Identity
 Name: Damir Hadzovic
 Nickname: The Bosnian Bomber
+Division: lightweight
 Professional Record: 14-8-0
 Stance: Orthodox
 Date of Birth: Aug 08, 1986

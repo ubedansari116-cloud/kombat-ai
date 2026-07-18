@@ -3,6 +3,7 @@ Fighter Profile: Roland Payne
 Identity
 Name: Roland Payne
 Nickname: None listed
+Division: open weight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Unknown

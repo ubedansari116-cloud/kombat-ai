@@ -3,6 +3,7 @@ Fighter Profile: Nate Schroeder
 Identity
 Name: Nate Schroeder
 Nickname: None listed
+Division: heavyweight
 Professional Record: 11-10-0
 Stance: Unknown
 Date of Birth: Unknown

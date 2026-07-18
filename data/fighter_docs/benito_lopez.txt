@@ -3,6 +3,7 @@ Fighter Profile: Benito Lopez
 Identity
 Name: Benito Lopez
 Nickname: Golden Boy
+Division: bantamweight
 Professional Record: 10-2-0
 Stance: Switch
 Date of Birth: Apr 06, 1994

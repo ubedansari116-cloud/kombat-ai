@@ -3,6 +3,7 @@ Fighter Profile: Valter Walker
 Identity
 Name: Valter Walker
 Nickname: The Clean Monster
+Division: heavyweight
 Professional Record: 14-1-0
 Stance: Orthodox
 Date of Birth: Dec 14, 1997

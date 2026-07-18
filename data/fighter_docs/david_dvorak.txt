@@ -3,6 +3,7 @@ Fighter Profile: David Dvorak
 Identity
 Name: David Dvorak
 Nickname: Undertaker
+Division: flyweight
 Professional Record: 20-6-0
 Stance: Orthodox
 Date of Birth: Jun 05, 1992

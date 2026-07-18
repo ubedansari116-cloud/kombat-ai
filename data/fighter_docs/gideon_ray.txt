@@ -3,6 +3,7 @@ Fighter Profile: Gideon Ray
 Identity
 Name: Gideon Ray
 Nickname: None listed
+Division: middleweight
 Professional Record: 17-15-1
 Stance: Southpaw
 Date of Birth: May 27, 1973

@@ -3,6 +3,7 @@ Fighter Profile: Fabricio Werdum
 Identity
 Name: Fabricio Werdum
 Nickname: Vai Cavalo
+Division: heavyweight
 Professional Record: 24-9-1
 Stance: Orthodox
 Date of Birth: Jul 30, 1977

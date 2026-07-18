@@ -3,6 +3,7 @@ Fighter Profile: Mike Massenzio
 Identity
 Name: Mike Massenzio
 Nickname: The Master of Disaster
+Division: middleweight
 Professional Record: 13-9-0
 Stance: Southpaw
 Date of Birth: Nov 01, 1982

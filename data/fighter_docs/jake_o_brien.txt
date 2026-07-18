@@ -3,6 +3,7 @@ Fighter Profile: Jake O'Brien
 Identity
 Name: Jake O'Brien
 Nickname: Irish
+Division: light heavyweight
 Professional Record: 15-4-0
 Stance: Orthodox
 Date of Birth: Sep 25, 1984

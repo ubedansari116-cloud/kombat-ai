@@ -3,6 +3,7 @@ Fighter Profile: Jafel Filho
 Identity
 Name: Jafel Filho
 Nickname: Pastor
+Division: flyweight
 Professional Record: 16-4-0
 Stance: Orthodox
 Date of Birth: May 05, 1993

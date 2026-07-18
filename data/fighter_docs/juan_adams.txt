@@ -3,6 +3,7 @@ Fighter Profile: Juan Adams
 Identity
 Name: Juan Adams
 Nickname: The Kraken
+Division: heavyweight
 Professional Record: 5-3-0
 Stance: Orthodox
 Date of Birth: Jan 16, 1992

@@ -3,6 +3,7 @@ Fighter Profile: Charles Johnson
 Identity
 Name: Charles Johnson
 Nickname: InnerG
+Division: flyweight
 Professional Record: 18-7-0
 Stance: Switch
 Date of Birth: Jan 10, 1991

@@ -3,6 +3,7 @@ Fighter Profile: Gilbert Yvel
 Identity
 Name: Gilbert Yvel
 Nickname: The Hurricane
+Division: heavyweight
 Professional Record: 39-16-1
 Stance: Orthodox
 Date of Birth: Jun 30, 1976

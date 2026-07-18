@@ -3,6 +3,7 @@ Fighter Profile: Nandor Guelmino
 Identity
 Name: Nandor Guelmino
 Nickname: The Hun
+Division: heavyweight
 Professional Record: 11-5-1
 Stance: Unknown
 Date of Birth: Dec 20, 1975

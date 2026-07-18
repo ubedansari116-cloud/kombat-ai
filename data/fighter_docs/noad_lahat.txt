@@ -3,6 +3,7 @@ Fighter Profile: Noad Lahat
 Identity
 Name: Noad Lahat
 Nickname: Neo
+Division: featherweight
 Professional Record: 11-2-0
 Stance: Orthodox
 Date of Birth: Jun 08, 1984

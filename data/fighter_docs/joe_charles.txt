@@ -3,6 +3,7 @@ Fighter Profile: Joe Charles
 Identity
 Name: Joe Charles
 Nickname: The Ghetto Man
+Division: heavyweight
 Professional Record: 6-13-0
 Stance: Southpaw
 Date of Birth: Unknown

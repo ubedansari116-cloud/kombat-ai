@@ -3,6 +3,7 @@ Fighter Profile: Kazushi Sakuraba
 Identity
 Name: Kazushi Sakuraba
 Nickname: The Gracie Hunter
+Division: heavyweight
 Professional Record: 26-17-1
 Stance: Southpaw
 Date of Birth: Jul 14, 1969

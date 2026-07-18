@@ -3,6 +3,7 @@ Fighter Profile: George Sullivan
 Identity
 Name: George Sullivan
 Nickname: The Silencer
+Division: welterweight
 Professional Record: 17-7-0
 Stance: Orthodox
 Date of Birth: Mar 13, 1981

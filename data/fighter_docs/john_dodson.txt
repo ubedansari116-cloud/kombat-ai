@@ -3,6 +3,7 @@ Fighter Profile: John Dodson
 Identity
 Name: John Dodson
 Nickname: The Magician
+Division: bantamweight
 Professional Record: 22-12-0
 Stance: Orthodox
 Date of Birth: Sep 26, 1984

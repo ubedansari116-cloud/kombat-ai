@@ -3,6 +3,7 @@ Fighter Profile: Nate Quarry
 Identity
 Name: Nate Quarry
 Nickname: Rock
+Division: middleweight
 Professional Record: 12-4-0
 Stance: Open Stance
 Date of Birth: Mar 18, 1972

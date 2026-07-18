@@ -3,6 +3,7 @@ Fighter Profile: Richard Crunkilton
 Identity
 Name: Richard Crunkilton
 Nickname: Cleat
+Division: lightweight
 Professional Record: 19-4-0
 Stance: Orthodox
 Date of Birth: Nov 25, 1979

@@ -3,6 +3,7 @@ Fighter Profile: Hunter Azure
 Identity
 Name: Hunter Azure
 Nickname: None listed
+Division: bantamweight
 Professional Record: 9-2-0
 Stance: Orthodox
 Date of Birth: Mar 02, 1992

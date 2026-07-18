@@ -3,6 +3,7 @@ Fighter Profile: Eugene Jackson
 Identity
 Name: Eugene Jackson
 Nickname: The Wolf
+Division: middleweight
 Professional Record: 15-9-1
 Stance: Orthodox
 Date of Birth: Sep 23, 1966

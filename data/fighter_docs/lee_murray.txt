@@ -3,6 +3,7 @@ Fighter Profile: Lee Murray
 Identity
 Name: Lee Murray
 Nickname: Lightning
+Division: middleweight
 Professional Record: 8-2-1
 Stance: Orthodox
 Date of Birth: Sep 12, 1977

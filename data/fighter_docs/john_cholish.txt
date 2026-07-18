@@ -3,6 +3,7 @@ Fighter Profile: John Cholish
 Identity
 Name: John Cholish
 Nickname: None listed
+Division: lightweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Dec 17, 1983

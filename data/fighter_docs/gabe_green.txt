@@ -3,6 +3,7 @@ Fighter Profile: Gabe Green
 Identity
 Name: Gabe Green
 Nickname: Gifted
+Division: lightweight
 Professional Record: 12-5-0
 Stance: Switch
 Date of Birth: May 02, 1993

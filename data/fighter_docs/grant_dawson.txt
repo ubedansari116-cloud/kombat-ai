@@ -3,6 +3,7 @@ Fighter Profile: Grant Dawson
 Identity
 Name: Grant Dawson
 Nickname: KGD
+Division: lightweight
 Professional Record: 23-2-1
 Stance: Switch
 Date of Birth: Feb 20, 1994

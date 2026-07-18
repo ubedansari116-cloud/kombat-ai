@@ -3,6 +3,7 @@ Fighter Profile: Tom Lawlor
 Identity
 Name: Tom Lawlor
 Nickname: Filthy
+Division: light heavyweight
 Professional Record: 10-6-0
 Stance: Southpaw
 Date of Birth: May 15, 1983

@@ -3,6 +3,7 @@ Fighter Profile: Lyoto Machida
 Identity
 Name: Lyoto Machida
 Nickname: The Dragon
+Division: middleweight
 Professional Record: 24-8-0
 Stance: Southpaw
 Date of Birth: May 30, 1978

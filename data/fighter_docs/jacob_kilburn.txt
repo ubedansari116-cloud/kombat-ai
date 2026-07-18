@@ -3,6 +3,7 @@ Fighter Profile: Jacob Kilburn
 Identity
 Name: Jacob Kilburn
 Nickname: The Killer
+Division: featherweight
 Professional Record: 8-4-0
 Stance: Orthodox
 Date of Birth: Jun 28, 1995

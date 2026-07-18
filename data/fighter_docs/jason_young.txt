@@ -3,6 +3,7 @@ Fighter Profile: Jason Young
 Identity
 Name: Jason Young
 Nickname: Shotgun
+Division: featherweight
 Professional Record: 9-6-0
 Stance: Orthodox
 Date of Birth: Jun 28, 1986

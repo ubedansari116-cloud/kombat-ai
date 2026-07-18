@@ -3,6 +3,7 @@ Fighter Profile: Zubaira Tukhugov
 Identity
 Name: Zubaira Tukhugov
 Nickname: Warrior
+Division: lightweight
 Professional Record: 20-6-1
 Stance: Orthodox
 Date of Birth: Jan 15, 1991

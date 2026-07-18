@@ -3,6 +3,7 @@ Fighter Profile: James Toney
 Identity
 Name: James Toney
 Nickname: Lights Out
+Division: heavyweight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Aug 24, 1968

@@ -3,6 +3,7 @@ Fighter Profile: Abner Lloveras
 Identity
 Name: Abner Lloveras
 Nickname: Skullman
+Division: lightweight
 Professional Record: 20-9-1
 Stance: Unknown
 Date of Birth: Sep 04, 1982

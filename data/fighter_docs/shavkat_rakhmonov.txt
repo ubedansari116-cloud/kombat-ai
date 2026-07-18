@@ -3,6 +3,7 @@ Fighter Profile: Shavkat Rakhmonov
 Identity
 Name: Shavkat Rakhmonov
 Nickname: Nomad
+Division: welterweight
 Professional Record: 19-0-0
 Stance: Orthodox
 Date of Birth: Oct 23, 1994

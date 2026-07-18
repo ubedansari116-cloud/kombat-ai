@@ -3,6 +3,7 @@ Fighter Profile: Magnus Cedenblad
 Identity
 Name: Magnus Cedenblad
 Nickname: Jycken
+Division: middleweight
 Professional Record: 14-5-0
 Stance: Orthodox
 Date of Birth: Apr 10, 1982

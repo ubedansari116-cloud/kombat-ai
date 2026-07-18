@@ -3,6 +3,7 @@ Fighter Profile: Carlos Hernandez
 Identity
 Name: Carlos Hernandez
 Nickname: None listed
+Division: flyweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: Oct 25, 1993

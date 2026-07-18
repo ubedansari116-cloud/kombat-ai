@@ -3,6 +3,7 @@ Fighter Profile: Sam Fulton
 Identity
 Name: Sam Fulton
 Nickname: None listed
+Division: heavyweight
 Professional Record: 0-2-0
 Stance: Unknown
 Date of Birth: Unknown

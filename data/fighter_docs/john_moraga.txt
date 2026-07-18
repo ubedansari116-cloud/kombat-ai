@@ -3,6 +3,7 @@ Fighter Profile: John Moraga
 Identity
 Name: John Moraga
 Nickname: None listed
+Division: flyweight
 Professional Record: 19-7-0
 Stance: Orthodox
 Date of Birth: Mar 20, 1984

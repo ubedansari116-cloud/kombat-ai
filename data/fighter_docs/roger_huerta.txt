@@ -3,6 +3,7 @@ Fighter Profile: Roger Huerta
 Identity
 Name: Roger Huerta
 Nickname: El Matador
+Division: lightweight
 Professional Record: 23-9-1
 Stance: Orthodox
 Date of Birth: May 20, 1983

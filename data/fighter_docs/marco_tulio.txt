@@ -3,6 +3,7 @@ Fighter Profile: Marco Tulio
 Identity
 Name: Marco Tulio
 Nickname: Matuto
+Division: middleweight
 Professional Record: 14-1-0
 Stance: Orthodox
 Date of Birth: Jun 13, 1994

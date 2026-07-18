@@ -3,6 +3,7 @@ Fighter Profile: Scott Smith
 Identity
 Name: Scott Smith
 Nickname: Hands of Steel
+Division: middleweight
 Professional Record: 18-11-0
 Stance: Orthodox
 Date of Birth: May 21, 1979

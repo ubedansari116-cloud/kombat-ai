@@ -3,6 +3,7 @@ Fighter Profile: Dan Lauzon
 Identity
 Name: Dan Lauzon
 Nickname: The Upgrade
+Division: lightweight
 Professional Record: 17-6-0
 Stance: Orthodox
 Date of Birth: Mar 30, 1988

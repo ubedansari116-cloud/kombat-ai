@@ -3,6 +3,7 @@ Fighter Profile: Niklas Stolze
 Identity
 Name: Niklas Stolze
 Nickname: Green Mask
+Division: lightweight
 Professional Record: 12-6-0
 Stance: Switch
 Date of Birth: Dec 28, 1992

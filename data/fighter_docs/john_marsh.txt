@@ -3,6 +3,7 @@ Fighter Profile: John Marsh
 Identity
 Name: John Marsh
 Nickname: None listed
+Division: heavyweight
 Professional Record: 8-7-0
 Stance: Orthodox
 Date of Birth: Sep 15, 1970

@@ -3,6 +3,7 @@ Fighter Profile: Nolan Ticman
 Identity
 Name: Nolan Ticman
 Nickname: None listed
+Division: flyweight
 Professional Record: 4-3-0
 Stance: Orthodox
 Date of Birth: May 17, 1988

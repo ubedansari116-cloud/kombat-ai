@@ -3,6 +3,7 @@ Fighter Profile: Steven Siler
 Identity
 Name: Steven Siler
 Nickname: Super
+Division: featherweight
 Professional Record: 29-16-0
 Stance: Orthodox
 Date of Birth: Feb 15, 1987

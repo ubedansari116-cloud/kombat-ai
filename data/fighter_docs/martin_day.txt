@@ -3,6 +3,7 @@ Fighter Profile: Martin Day
 Identity
 Name: Martin Day
 Nickname: The Spartan
+Division: featherweight
 Professional Record: 8-6-0
 Stance: Orthodox
 Date of Birth: Nov 10, 1988

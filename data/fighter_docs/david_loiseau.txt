@@ -3,6 +3,7 @@ Fighter Profile: David Loiseau
 Identity
 Name: David Loiseau
 Nickname: The Crow
+Division: middleweight
 Professional Record: 23-11-0
 Stance: Orthodox
 Date of Birth: Dec 17, 1979

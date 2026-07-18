@@ -3,6 +3,7 @@ Fighter Profile: Mark Holst
 Identity
 Name: Mark Holst
 Nickname: Boots
+Division: lightweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Aug 14, 1985

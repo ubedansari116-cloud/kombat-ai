@@ -3,6 +3,7 @@ Fighter Profile: Diego Brandao
 Identity
 Name: Diego Brandao
 Nickname: DB
+Division: featherweight
 Professional Record: 22-11-0
 Stance: Orthodox
 Date of Birth: May 27, 1987

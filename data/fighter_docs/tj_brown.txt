@@ -3,6 +3,7 @@ Fighter Profile: TJ Brown
 Identity
 Name: TJ Brown
 Nickname: Downtown
+Division: featherweight
 Professional Record: 17-11-0
 Stance: Switch
 Date of Birth: May 22, 1990

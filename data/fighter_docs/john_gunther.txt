@@ -3,6 +3,7 @@ Fighter Profile: John Gunther
 Identity
 Name: John Gunther
 Nickname: The Machine
+Division: lightweight
 Professional Record: 5-1-0
 Stance: Orthodox
 Date of Birth: Nov 24, 1985

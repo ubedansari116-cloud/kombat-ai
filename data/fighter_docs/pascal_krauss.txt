@@ -3,6 +3,7 @@ Fighter Profile: Pascal Krauss
 Identity
 Name: Pascal Krauss
 Nickname: Panzer
+Division: welterweight
 Professional Record: 11-2-0
 Stance: Orthodox
 Date of Birth: Apr 19, 1987

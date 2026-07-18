@@ -3,6 +3,7 @@ Fighter Profile: Jeff Monson
 Identity
 Name: Jeff Monson
 Nickname: The Snowman
+Division: heavyweight
 Professional Record: 60-26-1
 Stance: Orthodox
 Date of Birth: Jan 18, 1971

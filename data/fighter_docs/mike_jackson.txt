@@ -3,6 +3,7 @@ Fighter Profile: Mike Jackson
 Identity
 Name: Mike Jackson
 Nickname: The Truth
+Division: welterweight
 Professional Record: 1-2-0
 Stance: Orthodox
 Date of Birth: Mar 22, 1985

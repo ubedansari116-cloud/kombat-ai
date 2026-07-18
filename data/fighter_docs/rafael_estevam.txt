@@ -3,6 +3,7 @@ Fighter Profile: Rafael Estevam
 Identity
 Name: Rafael Estevam
 Nickname: Macapa
+Division: flyweight
 Professional Record: 14-0-0
 Stance: Orthodox
 Date of Birth: Aug 10, 1996

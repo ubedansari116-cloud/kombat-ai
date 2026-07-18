@@ -3,6 +3,7 @@ Fighter Profile: Alvin Hines
 Identity
 Name: Alvin Hines
 Nickname: Goozie
+Division: heavyweight
 Professional Record: 7-1-0
 Stance: Orthodox
 Date of Birth: Oct 20, 1991

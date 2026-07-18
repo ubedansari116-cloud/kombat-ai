@@ -3,6 +3,7 @@ Fighter Profile: Alex Nicholson
 Identity
 Name: Alex Nicholson
 Nickname: The Spartan
+Division: middleweight
 Professional Record: 7-4-0
 Stance: Orthodox
 Date of Birth: May 02, 1990

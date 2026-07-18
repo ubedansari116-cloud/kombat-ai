@@ -3,6 +3,7 @@ Fighter Profile: Igor Zinoviev
 Identity
 Name: Igor Zinoviev
 Nickname: Houdini
+Division: light heavyweight
 Professional Record: 4-1-2
 Stance: Orthodox
 Date of Birth: Unknown

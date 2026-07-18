@@ -3,6 +3,7 @@ Fighter Profile: Teemu Packalen
 Identity
 Name: Teemu Packalen
 Nickname: Pacu
+Division: lightweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: May 22, 1987

@@ -3,6 +3,7 @@ Fighter Profile: Ilir Latifi
 Identity
 Name: Ilir Latifi
 Nickname: The Sledgehammer
+Division: heavyweight
 Professional Record: 17-9-0
 Stance: Orthodox
 Date of Birth: Jul 28, 1982

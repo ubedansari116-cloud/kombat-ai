@@ -3,6 +3,7 @@ Fighter Profile: Ludovit Klein
 Identity
 Name: Ludovit Klein
 Nickname: Mr. Highlight
+Division: lightweight
 Professional Record: 23-5-1
 Stance: Southpaw
 Date of Birth: Feb 22, 1995

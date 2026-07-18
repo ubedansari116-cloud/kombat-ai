@@ -3,6 +3,7 @@ Fighter Profile: Brad Gumm
 Identity
 Name: Brad Gumm
 Nickname: None listed
+Division: welterweight
 Professional Record: 10-6-1
 Stance: Orthodox
 Date of Birth: Unknown

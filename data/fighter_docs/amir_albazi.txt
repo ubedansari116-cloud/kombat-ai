@@ -3,6 +3,7 @@ Fighter Profile: Amir Albazi
 Identity
 Name: Amir Albazi
 Nickname: The Prince
+Division: flyweight
 Professional Record: 17-2-0
 Stance: Orthodox
 Date of Birth: Oct 27, 1993

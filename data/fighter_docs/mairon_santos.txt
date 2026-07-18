@@ -3,6 +3,7 @@ Fighter Profile: Mairon Santos
 Identity
 Name: Mairon Santos
 Nickname: The Legend
+Division: lightweight
 Professional Record: 17-1-0
 Stance: Orthodox
 Date of Birth: Jun 10, 2000

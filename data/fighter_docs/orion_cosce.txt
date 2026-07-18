@@ -3,6 +3,7 @@ Fighter Profile: Orion Cosce
 Identity
 Name: Orion Cosce
 Nickname: Galaxy
+Division: welterweight
 Professional Record: 8-2-0
 Stance: Switch
 Date of Birth: Jul 15, 1994

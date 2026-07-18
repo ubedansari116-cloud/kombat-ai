@@ -3,6 +3,7 @@ Fighter Profile: Mark Godbeer
 Identity
 Name: Mark Godbeer
 Nickname: The Hand Of
+Division: heavyweight
 Professional Record: 13-4-0
 Stance: Orthodox
 Date of Birth: Nov 22, 1983

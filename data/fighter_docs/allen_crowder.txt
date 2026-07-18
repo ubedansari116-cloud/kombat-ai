@@ -3,6 +3,7 @@ Fighter Profile: Allen Crowder
 Identity
 Name: Allen Crowder
 Nickname: Pretty Boy
+Division: heavyweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Nov 08, 1989

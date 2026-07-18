@@ -3,6 +3,7 @@ Fighter Profile: Lavar Johnson
 Identity
 Name: Lavar Johnson
 Nickname: Big
+Division: heavyweight
 Professional Record: 18-10-0
 Stance: Orthodox
 Date of Birth: Jun 11, 1977

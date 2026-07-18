@@ -3,6 +3,7 @@ Fighter Profile: Conor McGregor
 Identity
 Name: Conor McGregor
 Nickname: The Notorious
+Division: lightweight
 Professional Record: 22-6-0
 Stance: Southpaw
 Date of Birth: Jul 14, 1988

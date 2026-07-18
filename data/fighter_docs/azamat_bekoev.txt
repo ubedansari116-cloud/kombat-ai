@@ -3,6 +3,7 @@ Fighter Profile: Azamat Bekoev
 Identity
 Name: Azamat Bekoev
 Nickname: Iron
+Division: middleweight
 Professional Record: 20-3-0
 Stance: Orthodox
 Date of Birth: Dec 30, 1995

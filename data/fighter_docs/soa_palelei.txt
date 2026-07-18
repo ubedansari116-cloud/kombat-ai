@@ -3,6 +3,7 @@ Fighter Profile: Soa Palelei
 Identity
 Name: Soa Palelei
 Nickname: The Hulk
+Division: heavyweight
 Professional Record: 22-5-0
 Stance: Orthodox
 Date of Birth: Jul 12, 1977

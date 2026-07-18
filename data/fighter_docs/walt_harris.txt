@@ -3,6 +3,7 @@ Fighter Profile: Walt Harris
 Identity
 Name: Walt Harris
 Nickname: The Big Ticket
+Division: heavyweight
 Professional Record: 13-10-0
 Stance: Southpaw
 Date of Birth: Jun 10, 1983

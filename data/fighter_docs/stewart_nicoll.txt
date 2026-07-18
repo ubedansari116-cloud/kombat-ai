@@ -3,6 +3,7 @@ Fighter Profile: Stewart Nicoll
 Identity
 Name: Stewart Nicoll
 Nickname: Kakamora
+Division: flyweight
 Professional Record: 8-1-0
 Stance: Orthodox
 Date of Birth: Nov 04, 1994

@@ -3,6 +3,7 @@ Fighter Profile: Hacran Dias
 Identity
 Name: Hacran Dias
 Nickname: Barnabe
+Division: lightweight
 Professional Record: 23-6-1
 Stance: Orthodox
 Date of Birth: Jun 16, 1984

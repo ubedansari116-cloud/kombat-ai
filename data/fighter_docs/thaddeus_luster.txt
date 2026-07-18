@@ -3,6 +3,7 @@ Fighter Profile: Thaddeus Luster
 Identity
 Name: Thaddeus Luster
 Nickname: None listed
+Division: open weight
 Professional Record: 0-1-0
 Stance: Unknown
 Date of Birth: Unknown

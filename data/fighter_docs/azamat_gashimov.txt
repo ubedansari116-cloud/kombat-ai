@@ -3,6 +3,7 @@ Fighter Profile: Azamat Gashimov
 Identity
 Name: Azamat Gashimov
 Nickname: None listed
+Division: flyweight
 Professional Record: 8-3-0
 Stance: Orthodox
 Date of Birth: Apr 07, 1990

@@ -3,6 +3,7 @@ Fighter Profile: Frankie Edgar
 Identity
 Name: Frankie Edgar
 Nickname: The Answer
+Division: bantamweight
 Professional Record: 23-11-1
 Stance: Orthodox
 Date of Birth: Oct 16, 1981

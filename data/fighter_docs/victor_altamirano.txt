@@ -3,6 +3,7 @@ Fighter Profile: Victor Altamirano
 Identity
 Name: Victor Altamirano
 Nickname: El Magnifico
+Division: flyweight
 Professional Record: 12-5-0
 Stance: Switch
 Date of Birth: Jan 23, 1991

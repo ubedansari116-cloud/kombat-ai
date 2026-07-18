@@ -3,6 +3,7 @@ Fighter Profile: William Knight
 Identity
 Name: William Knight
 Nickname: Knightmare
+Division: light heavyweight
 Professional Record: 11-5-0
 Stance: Orthodox
 Date of Birth: Apr 03, 1988

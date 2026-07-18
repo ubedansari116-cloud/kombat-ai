@@ -3,6 +3,7 @@ Fighter Profile: Bibulatov Magomed
 Identity
 Name: Bibulatov Magomed
 Nickname: Chaborz
+Division: flyweight
 Professional Record: 14-2-0
 Stance: Orthodox
 Date of Birth: Aug 22, 1988

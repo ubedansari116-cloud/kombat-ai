@@ -3,6 +3,7 @@ Fighter Profile: Serghei Spivac
 Identity
 Name: Serghei Spivac
 Nickname: Polar Bear
+Division: heavyweight
 Professional Record: 17-6-0
 Stance: Orthodox
 Date of Birth: Jan 24, 1995

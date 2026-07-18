@@ -3,6 +3,7 @@ Fighter Profile: Wes Combs
 Identity
 Name: Wes Combs
 Nickname: The Soldier
+Division: light heavyweight
 Professional Record: 20-6-0
 Stance: Orthodox
 Date of Birth: Jun 18, 1973

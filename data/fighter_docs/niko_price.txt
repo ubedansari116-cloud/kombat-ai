@@ -3,6 +3,7 @@ Fighter Profile: Niko Price
 Identity
 Name: Niko Price
 Nickname: The Hybrid
+Division: welterweight
 Professional Record: 16-9-0
 Stance: Orthodox
 Date of Birth: Sep 29, 1989

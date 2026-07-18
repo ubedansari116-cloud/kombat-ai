@@ -3,6 +3,7 @@ Fighter Profile: Jason MacDonald
 Identity
 Name: Jason MacDonald
 Nickname: The Athlete
+Division: middleweight
 Professional Record: 25-16-0
 Stance: Orthodox
 Date of Birth: Jun 03, 1975

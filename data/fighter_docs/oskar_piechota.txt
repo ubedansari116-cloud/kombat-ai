@@ -3,6 +3,7 @@ Fighter Profile: Oskar Piechota
 Identity
 Name: Oskar Piechota
 Nickname: Imadlo
+Division: middleweight
 Professional Record: 11-3-1
 Stance: Southpaw
 Date of Birth: Jan 24, 1990

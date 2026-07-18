@@ -3,6 +3,7 @@ Fighter Profile: Ruslan Magomedov
 Identity
 Name: Ruslan Magomedov
 Nickname: Leopard
+Division: heavyweight
 Professional Record: 14-1-0
 Stance: Orthodox
 Date of Birth: Nov 26, 1986

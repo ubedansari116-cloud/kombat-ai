@@ -3,6 +3,7 @@ Fighter Profile: Travis Browne
 Identity
 Name: Travis Browne
 Nickname: Hapa
+Division: heavyweight
 Professional Record: 18-7-1
 Stance: Orthodox
 Date of Birth: Jul 17, 1982

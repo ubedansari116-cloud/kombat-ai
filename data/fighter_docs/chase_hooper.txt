@@ -3,6 +3,7 @@ Fighter Profile: Chase Hooper
 Identity
 Name: Chase Hooper
 Nickname: The Dream
+Division: lightweight
 Professional Record: 16-4-1
 Stance: Southpaw
 Date of Birth: Sep 13, 1999

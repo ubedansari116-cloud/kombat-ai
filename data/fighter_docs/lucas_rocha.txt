@@ -3,6 +3,7 @@ Fighter Profile: Lucas Rocha
 Identity
 Name: Lucas Rocha
 Nickname: Fenomeno
+Division: flyweight
 Professional Record: 17-2-0
 Stance: Orthodox
 Date of Birth: Aug 12, 2000

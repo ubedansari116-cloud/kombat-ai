@@ -3,6 +3,7 @@ Fighter Profile: Daniel Zellhuber
 Identity
 Name: Daniel Zellhuber
 Nickname: Golden Boy
+Division: lightweight
 Professional Record: 15-3-0
 Stance: Switch
 Date of Birth: Jul 07, 1999

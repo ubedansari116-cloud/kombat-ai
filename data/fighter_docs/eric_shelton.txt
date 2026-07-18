@@ -3,6 +3,7 @@ Fighter Profile: Eric Shelton
 Identity
 Name: Eric Shelton
 Nickname: Showtime
+Division: flyweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Feb 02, 1991

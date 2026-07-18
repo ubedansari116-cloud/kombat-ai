@@ -3,6 +3,7 @@ Fighter Profile: Chris Liguori
 Identity
 Name: Chris Liguori
 Nickname: None listed
+Division: middleweight
 Professional Record: 15-10-0
 Stance: Orthodox
 Date of Birth: Unknown

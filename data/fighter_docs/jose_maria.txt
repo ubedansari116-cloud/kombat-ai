@@ -3,6 +3,7 @@ Fighter Profile: Jose Maria
 Identity
 Name: Jose Maria
 Nickname: No Chance
+Division: flyweight
 Professional Record: 37-7-0
 Stance: Orthodox
 Date of Birth: Jan 04, 1982

@@ -3,6 +3,7 @@ Fighter Profile: Ben Nguyen
 Identity
 Name: Ben Nguyen
 Nickname: Ten
+Division: flyweight
 Professional Record: 16-8-0
 Stance: Switch
 Date of Birth: Aug 03, 1988

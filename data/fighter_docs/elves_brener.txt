@@ -3,6 +3,7 @@ Fighter Profile: Elves Brener
 Identity
 Name: Elves Brener
 Nickname: None listed
+Division: lightweight
 Professional Record: 16-6-0
 Stance: Orthodox
 Date of Birth: Sep 27, 1997

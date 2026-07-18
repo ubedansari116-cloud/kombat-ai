@@ -3,6 +3,7 @@ Fighter Profile: Jimmy Flick
 Identity
 Name: Jimmy Flick
 Nickname: The Brick
+Division: flyweight
 Professional Record: 17-9-0
 Stance: Orthodox
 Date of Birth: Sep 07, 1990

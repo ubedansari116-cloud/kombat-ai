@@ -3,6 +3,7 @@ Fighter Profile: Mark Robinson
 Identity
 Name: Mark Robinson
 Nickname: White Rhino
+Division: heavyweight
 Professional Record: 1-0-0
 Stance: Orthodox
 Date of Birth: Unknown

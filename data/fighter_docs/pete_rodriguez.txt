@@ -3,6 +3,7 @@ Fighter Profile: Pete Rodriguez
 Identity
 Name: Pete Rodriguez
 Nickname: Dead Game
+Division: welterweight
 Professional Record: 5-2-0
 Stance: Switch
 Date of Birth: Nov 13, 1996

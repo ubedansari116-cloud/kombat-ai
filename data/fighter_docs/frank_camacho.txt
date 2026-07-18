@@ -3,6 +3,7 @@ Fighter Profile: Frank Camacho
 Identity
 Name: Frank Camacho
 Nickname: The Crank
+Division: lightweight
 Professional Record: 22-10-0
 Stance: Orthodox
 Date of Birth: May 18, 1989

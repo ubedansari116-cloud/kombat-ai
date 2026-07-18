@@ -3,6 +3,7 @@ Fighter Profile: Ateba Gautier
 Identity
 Name: Ateba Gautier
 Nickname: The Silent Assassin
+Division: middleweight
 Professional Record: 8-1-0
 Stance: Switch
 Date of Birth: Apr 10, 2002

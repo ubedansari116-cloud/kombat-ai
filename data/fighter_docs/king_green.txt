@@ -3,6 +3,7 @@ Fighter Profile: King Green
 Identity
 Name: King Green
 Nickname: None listed
+Division: lightweight
 Professional Record: 32-17-1
 Stance: Orthodox
 Date of Birth: Sep 09, 1986

@@ -3,6 +3,7 @@ Fighter Profile: Paul Redmond
 Identity
 Name: Paul Redmond
 Nickname: Redser
+Division: featherweight
 Professional Record: 12-7-0
 Stance: Orthodox
 Date of Birth: Oct 20, 1986

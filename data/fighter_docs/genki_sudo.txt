@@ -3,6 +3,7 @@ Fighter Profile: Genki Sudo
 Identity
 Name: Genki Sudo
 Nickname: Neo-Samurai
+Division: lightweight
 Professional Record: 15-4-2
 Stance: Orthodox
 Date of Birth: Mar 08, 1978

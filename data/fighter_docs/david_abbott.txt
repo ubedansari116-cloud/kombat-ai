@@ -3,6 +3,7 @@ Fighter Profile: David Abbott
 Identity
 Name: David Abbott
 Nickname: Tank
+Division: heavyweight
 Professional Record: 10-15-0
 Stance: Switch
 Date of Birth: Apr 26, 1965

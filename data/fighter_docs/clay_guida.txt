@@ -3,6 +3,7 @@ Fighter Profile: Clay Guida
 Identity
 Name: Clay Guida
 Nickname: The Carpenter
+Division: lightweight
 Professional Record: 38-22-0
 Stance: Orthodox
 Date of Birth: Dec 08, 1981

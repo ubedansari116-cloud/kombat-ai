@@ -3,6 +3,7 @@ Fighter Profile: Alex Stiebling
 Identity
 Name: Alex Stiebling
 Nickname: The Brazilian Killa
+Division: middleweight
 Professional Record: 19-11-1
 Stance: Southpaw
 Date of Birth: Unknown

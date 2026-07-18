@@ -3,6 +3,7 @@ Fighter Profile: Jean Silva
 Identity
 Name: Jean Silva
 Nickname: Lord
+Division: featherweight
 Professional Record: 16-2-0
 Stance: Orthodox
 Date of Birth: Dec 27, 1996

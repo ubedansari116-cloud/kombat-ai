@@ -3,6 +3,7 @@ Fighter Profile: James Vick
 Identity
 Name: James Vick
 Nickname: The Texecutioner
+Division: welterweight
 Professional Record: 13-5-0
 Stance: Orthodox
 Date of Birth: Feb 23, 1987

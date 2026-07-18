@@ -3,6 +3,7 @@ Fighter Profile: Julian Marquez
 Identity
 Name: Julian Marquez
 Nickname: The Cuban Missile Crisis
+Division: middleweight
 Professional Record: 9-6-0
 Stance: Orthodox
 Date of Birth: May 08, 1990

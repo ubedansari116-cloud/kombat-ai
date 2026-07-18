@@ -3,6 +3,7 @@ Fighter Profile: Dmitri Stepanov
 Identity
 Name: Dmitri Stepanov
 Nickname: None listed
+Division: heavyweight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Unknown

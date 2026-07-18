@@ -3,6 +3,7 @@ Fighter Profile: Steve Berger
 Identity
 Name: Steve Berger
 Nickname: The Red Nosed Pitbull
+Division: welterweight
 Professional Record: 21-23-2
 Stance: Orthodox
 Date of Birth: May 20, 1973

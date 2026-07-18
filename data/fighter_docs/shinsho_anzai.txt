@@ -3,6 +3,7 @@ Fighter Profile: Shinsho Anzai
 Identity
 Name: Shinsho Anzai
 Nickname: Animal
+Division: welterweight
 Professional Record: 10-3-0
 Stance: Orthodox
 Date of Birth: Dec 01, 1985

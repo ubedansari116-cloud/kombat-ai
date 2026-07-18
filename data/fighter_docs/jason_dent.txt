@@ -3,6 +3,7 @@ Fighter Profile: Jason Dent
 Identity
 Name: Jason Dent
 Nickname: Dynamite
+Division: lightweight
 Professional Record: 22-13-0
 Stance: Orthodox
 Date of Birth: Jun 12, 1980

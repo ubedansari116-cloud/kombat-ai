@@ -3,6 +3,7 @@ Fighter Profile: Rainy Martinez
 Identity
 Name: Rainy Martinez
 Nickname: None listed
+Division: lightweight
 Professional Record: 0-2-0
 Stance: Orthodox
 Date of Birth: Unknown

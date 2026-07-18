@@ -3,6 +3,7 @@ Fighter Profile: Nassourdine Imavov
 Identity
 Name: Nassourdine Imavov
 Nickname: The Sniper
+Division: middleweight
 Professional Record: 17-4-0
 Stance: Orthodox
 Date of Birth: Mar 01, 1996

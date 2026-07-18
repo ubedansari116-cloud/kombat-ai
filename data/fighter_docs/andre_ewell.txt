@@ -3,6 +3,7 @@ Fighter Profile: Andre Ewell
 Identity
 Name: Andre Ewell
 Nickname: Mr. Highlight
+Division: featherweight
 Professional Record: 17-9-0
 Stance: Southpaw
 Date of Birth: Jan 21, 1988

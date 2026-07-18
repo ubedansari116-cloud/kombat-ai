@@ -3,6 +3,7 @@ Fighter Profile: Neil Wain
 Identity
 Name: Neil Wain
 Nickname: Old School
+Division: heavyweight
 Professional Record: 13-4-0
 Stance: Orthodox
 Date of Birth: Unknown

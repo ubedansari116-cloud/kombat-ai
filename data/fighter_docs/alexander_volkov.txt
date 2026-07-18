@@ -3,6 +3,7 @@ Fighter Profile: Alexander Volkov
 Identity
 Name: Alexander Volkov
 Nickname: Drago
+Division: heavyweight
 Professional Record: 38-11-0
 Stance: Orthodox
 Date of Birth: Oct 24, 1988

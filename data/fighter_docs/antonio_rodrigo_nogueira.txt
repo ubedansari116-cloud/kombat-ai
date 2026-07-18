@@ -3,6 +3,7 @@ Fighter Profile: Antonio Rodrigo Nogueira
 Identity
 Name: Antonio Rodrigo Nogueira
 Nickname: Minotauro
+Division: heavyweight
 Professional Record: 34-10-1
 Stance: Orthodox
 Date of Birth: Jun 02, 1976

@@ -3,6 +3,7 @@ Fighter Profile: Brian Geraghty
 Identity
 Name: Brian Geraghty
 Nickname: Duke
+Division: lightweight
 Professional Record: 26-18-1
 Stance: Orthodox
 Date of Birth: Nov 04, 1980

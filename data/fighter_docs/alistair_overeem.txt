@@ -3,6 +3,7 @@ Fighter Profile: Alistair Overeem
 Identity
 Name: Alistair Overeem
 Nickname: The Demolition Man
+Division: heavyweight
 Professional Record: 47-19-0
 Stance: Orthodox
 Date of Birth: May 17, 1980

@@ -3,6 +3,7 @@ Fighter Profile: Austen Lane
 Identity
 Name: Austen Lane
 Nickname: None listed
+Division: heavyweight
 Professional Record: 13-7-0
 Stance: Orthodox
 Date of Birth: Nov 09, 1987

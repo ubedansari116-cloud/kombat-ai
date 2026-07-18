@@ -3,6 +3,7 @@ Fighter Profile: Dave Beneteau
 Identity
 Name: Dave Beneteau
 Nickname: Dangerous
+Division: heavyweight
 Professional Record: 6-5-1
 Stance: Orthodox
 Date of Birth: Unknown

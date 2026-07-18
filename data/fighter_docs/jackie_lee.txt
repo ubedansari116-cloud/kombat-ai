@@ -3,6 +3,7 @@ Fighter Profile: Jackie Lee
 Identity
 Name: Jackie Lee
 Nickname: None listed
+Division: lightweight
 Professional Record: 0-1-0
 Stance: Unknown
 Date of Birth: Unknown

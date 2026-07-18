@@ -3,6 +3,7 @@ Fighter Profile: Ricky Glenn
 Identity
 Name: Ricky Glenn
 Nickname: The Gladiator
+Division: welterweight
 Professional Record: 22-9-2
 Stance: Southpaw
 Date of Birth: Apr 12, 1989

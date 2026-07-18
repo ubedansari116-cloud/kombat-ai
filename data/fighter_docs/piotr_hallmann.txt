@@ -3,6 +3,7 @@ Fighter Profile: Piotr Hallmann
 Identity
 Name: Piotr Hallmann
 Nickname: Pletwal
+Division: lightweight
 Professional Record: 18-6-0
 Stance: Orthodox
 Date of Birth: Aug 25, 1987

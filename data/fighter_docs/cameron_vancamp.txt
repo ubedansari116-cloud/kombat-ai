@@ -3,6 +3,7 @@ Fighter Profile: Cameron VanCamp
 Identity
 Name: Cameron VanCamp
 Nickname: Jumpman
+Division: lightweight
 Professional Record: 15-7-1
 Stance: Switch
 Date of Birth: Apr 27, 1993

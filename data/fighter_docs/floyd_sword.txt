@@ -3,6 +3,7 @@ Fighter Profile: Floyd Sword
 Identity
 Name: Floyd Sword
 Nickname: None listed
+Division: middleweight
 Professional Record: 12-3-0
 Stance: Orthodox
 Date of Birth: Aug 24, 1976

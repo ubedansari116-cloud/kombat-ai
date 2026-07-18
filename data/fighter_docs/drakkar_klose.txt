@@ -3,6 +3,7 @@ Fighter Profile: Drakkar Klose
 Identity
 Name: Drakkar Klose
 Nickname: None listed
+Division: lightweight
 Professional Record: 16-3-1
 Stance: Orthodox
 Date of Birth: Mar 09, 1988

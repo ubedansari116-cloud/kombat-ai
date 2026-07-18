@@ -3,6 +3,7 @@ Fighter Profile: Joshua Van
 Identity
 Name: Joshua Van
 Nickname: The Fearless
+Division: flyweight
 Professional Record: 15-2-0
 Stance: Orthodox
 Date of Birth: Oct 10, 2001

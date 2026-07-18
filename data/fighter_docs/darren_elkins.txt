@@ -3,6 +3,7 @@ Fighter Profile: Darren Elkins
 Identity
 Name: Darren Elkins
 Nickname: The Damage
+Division: featherweight
 Professional Record: 29-12-0
 Stance: Orthodox
 Date of Birth: May 16, 1984

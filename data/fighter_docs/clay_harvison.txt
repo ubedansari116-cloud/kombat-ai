@@ -3,6 +3,7 @@ Fighter Profile: Clay Harvison
 Identity
 Name: Clay Harvison
 Nickname: Bushwacker
+Division: welterweight
 Professional Record: 13-6-0
 Stance: Orthodox
 Date of Birth: Sep 25, 1980

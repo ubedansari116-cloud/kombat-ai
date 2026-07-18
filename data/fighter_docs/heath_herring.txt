@@ -3,6 +3,7 @@ Fighter Profile: Heath Herring
 Identity
 Name: Heath Herring
 Nickname: The Texas Crazy Horse
+Division: heavyweight
 Professional Record: 28-16-0
 Stance: Orthodox
 Date of Birth: Mar 02, 1978

@@ -3,6 +3,7 @@ Fighter Profile: Joe Ellenberger
 Identity
 Name: Joe Ellenberger
 Nickname: Excalibur
+Division: lightweight
 Professional Record: 15-2-0
 Stance: Orthodox
 Date of Birth: Mar 28, 1985

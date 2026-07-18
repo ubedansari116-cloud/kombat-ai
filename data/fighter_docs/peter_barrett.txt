@@ -3,6 +3,7 @@ Fighter Profile: Peter Barrett
 Identity
 Name: Peter Barrett
 Nickname: Slippery
+Division: featherweight
 Professional Record: 11-5-0
 Stance: Southpaw
 Date of Birth: Aug 10, 1986

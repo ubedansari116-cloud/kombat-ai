@@ -3,6 +3,7 @@ Fighter Profile: Jon Jones
 Identity
 Name: Jon Jones
 Nickname: Bones
+Division: heavyweight
 Professional Record: 28-1-0
 Stance: Orthodox
 Date of Birth: Jul 19, 1987

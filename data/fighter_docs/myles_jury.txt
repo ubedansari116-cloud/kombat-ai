@@ -3,6 +3,7 @@ Fighter Profile: Myles Jury
 Identity
 Name: Myles Jury
 Nickname: Fury
+Division: featherweight
 Professional Record: 17-4-0
 Stance: Orthodox
 Date of Birth: Oct 31, 1988

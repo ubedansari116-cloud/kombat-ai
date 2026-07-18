@@ -3,6 +3,7 @@ Fighter Profile: Shara Magomedov
 Identity
 Name: Shara Magomedov
 Nickname: Bullet
+Division: middleweight
 Professional Record: 16-1-0
 Stance: Orthodox
 Date of Birth: May 16, 1994

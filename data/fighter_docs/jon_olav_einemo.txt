@@ -3,6 +3,7 @@ Fighter Profile: Jon Olav Einemo
 Identity
 Name: Jon Olav Einemo
 Nickname: The Viking
+Division: heavyweight
 Professional Record: 6-3-0
 Stance: Orthodox
 Date of Birth: Dec 10, 1975

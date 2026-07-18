@@ -3,6 +3,7 @@ Fighter Profile: Rashid Magomedov
 Identity
 Name: Rashid Magomedov
 Nickname: Highlander
+Division: lightweight
 Professional Record: 20-2-0
 Stance: Orthodox
 Date of Birth: Nov 29, 1984

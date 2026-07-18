@@ -3,6 +3,7 @@ Fighter Profile: Eddie Sanchez
 Identity
 Name: Eddie Sanchez
 Nickname: The Manic Hispanic
+Division: heavyweight
 Professional Record: 15-8-0
 Stance: Orthodox
 Date of Birth: Nov 04, 1982

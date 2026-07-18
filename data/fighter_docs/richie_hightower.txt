@@ -3,6 +3,7 @@ Fighter Profile: Richie Hightower
 Identity
 Name: Richie Hightower
 Nickname: The Dirty Samurai
+Division: welterweight
 Professional Record: 8-4-0
 Stance: Orthodox
 Date of Birth: Nov 26, 1974

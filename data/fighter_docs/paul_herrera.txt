@@ -3,6 +3,7 @@ Fighter Profile: Paul Herrera
 Identity
 Name: Paul Herrera
 Nickname: The Bone Crusher
+Division: open weight
 Professional Record: 1-1-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Ali AlQaisi
 Identity
 Name: Ali AlQaisi
 Nickname: The Royal Fighter
+Division: bantamweight
 Professional Record: 8-5-0
 Stance: Orthodox
 Date of Birth: Sep 23, 1990

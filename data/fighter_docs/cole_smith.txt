@@ -3,6 +3,7 @@ Fighter Profile: Cole Smith
 Identity
 Name: Cole Smith
 Nickname: The Cole Train
+Division: bantamweight
 Professional Record: 7-2-0
 Stance: Orthodox
 Date of Birth: Apr 05, 1989

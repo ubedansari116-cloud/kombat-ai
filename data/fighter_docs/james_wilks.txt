@@ -3,6 +3,7 @@ Fighter Profile: James Wilks
 Identity
 Name: James Wilks
 Nickname: Lightning
+Division: welterweight
 Professional Record: 7-4-0
 Stance: Orthodox
 Date of Birth: May 04, 1978

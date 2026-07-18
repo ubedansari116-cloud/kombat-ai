@@ -3,6 +3,7 @@ Fighter Profile: Khama Worthy
 Identity
 Name: Khama Worthy
 Nickname: The Death Star
+Division: lightweight
 Professional Record: 16-9-0
 Stance: Orthodox
 Date of Birth: Oct 15, 1986

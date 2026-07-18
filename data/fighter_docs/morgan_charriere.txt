@@ -3,6 +3,7 @@ Fighter Profile: Morgan Charriere
 Identity
 Name: Morgan Charriere
 Nickname: The Last Pirate
+Division: featherweight
 Professional Record: 21-11-1
 Stance: Orthodox
 Date of Birth: Oct 26, 1995

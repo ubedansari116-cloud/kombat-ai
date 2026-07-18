@@ -3,6 +3,7 @@ Fighter Profile: Brian Foster
 Identity
 Name: Brian Foster
 Nickname: The Foster Boy
+Division: welterweight
 Professional Record: 27-10-0
 Stance: Orthodox
 Date of Birth: Apr 03, 1984

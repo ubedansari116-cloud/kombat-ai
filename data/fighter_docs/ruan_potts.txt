@@ -3,6 +3,7 @@ Fighter Profile: Ruan Potts
 Identity
 Name: Ruan Potts
 Nickname: Fangzz
+Division: heavyweight
 Professional Record: 11-6-0
 Stance: Orthodox
 Date of Birth: Feb 23, 1978

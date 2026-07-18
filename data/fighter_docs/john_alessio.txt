@@ -3,6 +3,7 @@ Fighter Profile: John Alessio
 Identity
 Name: John Alessio
 Nickname: The Natural
+Division: lightweight
 Professional Record: 35-17-0
 Stance: Orthodox
 Date of Birth: Jul 05, 1979

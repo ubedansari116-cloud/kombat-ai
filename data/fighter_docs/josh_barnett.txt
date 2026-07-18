@@ -3,6 +3,7 @@ Fighter Profile: Josh Barnett
 Identity
 Name: Josh Barnett
 Nickname: The Warmaster
+Division: heavyweight
 Professional Record: 35-8-0
 Stance: Orthodox
 Date of Birth: Nov 10, 1977

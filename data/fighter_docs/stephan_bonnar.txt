@@ -3,6 +3,7 @@ Fighter Profile: Stephan Bonnar
 Identity
 Name: Stephan Bonnar
 Nickname: The American Psycho
+Division: light heavyweight
 Professional Record: 15-9-0
 Stance: Orthodox
 Date of Birth: Apr 04, 1977

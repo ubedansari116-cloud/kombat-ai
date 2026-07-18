@@ -3,6 +3,7 @@ Fighter Profile: Jacobe Smith
 Identity
 Name: Jacobe Smith
 Nickname: Cobe
+Division: welterweight
 Professional Record: 11-0-0
 Stance: Southpaw
 Date of Birth: Jan 17, 1996

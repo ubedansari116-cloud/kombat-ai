@@ -3,6 +3,7 @@ Fighter Profile: Diego Saraiva
 Identity
 Name: Diego Saraiva
 Nickname: The Octopus
+Division: lightweight
 Professional Record: 22-20-1
 Stance: Orthodox
 Date of Birth: Apr 23, 1982

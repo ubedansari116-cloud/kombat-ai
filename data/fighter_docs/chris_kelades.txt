@@ -3,6 +3,7 @@ Fighter Profile: Chris Kelades
 Identity
 Name: Chris Kelades
 Nickname: The Greek Assassin
+Division: flyweight
 Professional Record: 9-3-0
 Stance: Orthodox
 Date of Birth: Feb 21, 1981

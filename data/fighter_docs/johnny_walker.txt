@@ -3,6 +3,7 @@ Fighter Profile: Johnny Walker
 Identity
 Name: Johnny Walker
 Nickname: None listed
+Division: light heavyweight
 Professional Record: 22-9-0
 Stance: Orthodox
 Date of Birth: Mar 30, 1992

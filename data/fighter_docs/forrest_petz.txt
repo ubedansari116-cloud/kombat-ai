@@ -3,6 +3,7 @@ Fighter Profile: Forrest Petz
 Identity
 Name: Forrest Petz
 Nickname: The Meat Cleaver
+Division: welterweight
 Professional Record: 26-10-0
 Stance: Orthodox
 Date of Birth: Sep 22, 1975

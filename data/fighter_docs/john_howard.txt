@@ -3,6 +3,7 @@ Fighter Profile: John Howard
 Identity
 Name: John Howard
 Nickname: Doomsday
+Division: welterweight
 Professional Record: 24-13-0
 Stance: Orthodox
 Date of Birth: Mar 01, 1983

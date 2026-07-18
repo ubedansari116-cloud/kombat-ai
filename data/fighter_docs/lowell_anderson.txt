@@ -3,6 +3,7 @@ Fighter Profile: Lowell Anderson
 Identity
 Name: Lowell Anderson
 Nickname: None listed
+Division: middleweight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Unknown

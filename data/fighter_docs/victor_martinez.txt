@@ -3,6 +3,7 @@ Fighter Profile: Victor Martinez
 Identity
 Name: Victor Martinez
 Nickname: The Brick
+Division: lightweight
 Professional Record: 13-6-0
 Stance: Orthodox
 Date of Birth: Jul 17, 1991

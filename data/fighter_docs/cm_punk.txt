@@ -3,6 +3,7 @@ Fighter Profile: CM Punk
 Identity
 Name: CM Punk
 Nickname: None listed
+Division: welterweight
 Professional Record: 0-1-0
 Stance: Orthodox
 Date of Birth: Oct 26, 1978

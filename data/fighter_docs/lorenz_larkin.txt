@@ -3,6 +3,7 @@ Fighter Profile: Lorenz Larkin
 Identity
 Name: Lorenz Larkin
 Nickname: The Monsoon
+Division: welterweight
 Professional Record: 18-6-0
 Stance: Orthodox
 Date of Birth: Sep 03, 1986

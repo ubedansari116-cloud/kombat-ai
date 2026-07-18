@@ -3,6 +3,7 @@ Fighter Profile: Will Brooks
 Identity
 Name: Will Brooks
 Nickname: Ill
+Division: lightweight
 Professional Record: 18-4-0
 Stance: Orthodox
 Date of Birth: Oct 08, 1986

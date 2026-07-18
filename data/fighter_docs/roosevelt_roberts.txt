@@ -3,6 +3,7 @@ Fighter Profile: Roosevelt Roberts
 Identity
 Name: Roosevelt Roberts
 Nickname: The Predator
+Division: lightweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Feb 11, 1994

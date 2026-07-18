@@ -3,6 +3,7 @@ Fighter Profile: James McSweeney
 Identity
 Name: James McSweeney
 Nickname: The Hammer
+Division: light heavyweight
 Professional Record: 15-15-0
 Stance: Switch
 Date of Birth: Oct 24, 1980

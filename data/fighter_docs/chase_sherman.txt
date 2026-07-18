@@ -3,6 +3,7 @@ Fighter Profile: Chase Sherman
 Identity
 Name: Chase Sherman
 Nickname: The Vanilla Gorilla
+Division: heavyweight
 Professional Record: 16-12-0
 Stance: Orthodox
 Date of Birth: Nov 16, 1989

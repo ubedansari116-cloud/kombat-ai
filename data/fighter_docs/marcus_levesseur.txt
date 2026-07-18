@@ -3,6 +3,7 @@ Fighter Profile: Marcus LeVesseur
 Identity
 Name: Marcus LeVesseur
 Nickname: The Prospect
+Division: lightweight
 Professional Record: 22-7-0
 Stance: Southpaw
 Date of Birth: Jul 17, 1982

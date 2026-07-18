@@ -3,6 +3,7 @@ Fighter Profile: Andre Lima
 Identity
 Name: Andre Lima
 Nickname: Mascote
+Division: flyweight
 Professional Record: 11-0-0
 Stance: Orthodox
 Date of Birth: Feb 04, 1999

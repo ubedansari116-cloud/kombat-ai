@@ -3,6 +3,7 @@ Fighter Profile: Jack Shore
 Identity
 Name: Jack Shore
 Nickname: Tank
+Division: featherweight
 Professional Record: 17-3-0
 Stance: Orthodox
 Date of Birth: Feb 06, 1995

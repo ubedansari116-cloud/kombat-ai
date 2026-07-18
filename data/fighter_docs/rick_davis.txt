@@ -3,6 +3,7 @@ Fighter Profile: Rick Davis
 Identity
 Name: Rick Davis
 Nickname: The Flying Squirrel
+Division: lightweight
 Professional Record: 3-1-1
 Stance: Orthodox
 Date of Birth: Unknown

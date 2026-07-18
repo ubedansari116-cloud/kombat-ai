@@ -3,6 +3,7 @@ Fighter Profile: Jesse Lennox
 Identity
 Name: Jesse Lennox
 Nickname: The Ox
+Division: welterweight
 Professional Record: 14-4-0
 Stance: Orthodox
 Date of Birth: Mar 10, 1982

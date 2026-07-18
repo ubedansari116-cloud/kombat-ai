@@ -3,6 +3,7 @@ Fighter Profile: Ron Waterman
 Identity
 Name: Ron Waterman
 Nickname: H20
+Division: heavyweight
 Professional Record: 16-6-2
 Stance: Orthodox
 Date of Birth: Nov 23, 1965

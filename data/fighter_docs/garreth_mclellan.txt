@@ -3,6 +3,7 @@ Fighter Profile: Garreth McLellan
 Identity
 Name: Garreth McLellan
 Nickname: Soldier Boy
+Division: middleweight
 Professional Record: 13-6-0
 Stance: Southpaw
 Date of Birth: Sep 01, 1982

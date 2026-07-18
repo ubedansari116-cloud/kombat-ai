@@ -3,6 +3,7 @@ Fighter Profile: Josh Thomson
 Identity
 Name: Josh Thomson
 Nickname: The Punk
+Division: lightweight
 Professional Record: 22-9-0
 Stance: Orthodox
 Date of Birth: Sep 21, 1978

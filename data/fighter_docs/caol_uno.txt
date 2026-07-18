@@ -3,6 +3,7 @@ Fighter Profile: Caol Uno
 Identity
 Name: Caol Uno
 Nickname: Uno Shoten
+Division: lightweight
 Professional Record: 33-19-5
 Stance: Southpaw
 Date of Birth: May 08, 1975

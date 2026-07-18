@@ -3,6 +3,7 @@ Fighter Profile: Malcolm Gordon
 Identity
 Name: Malcolm Gordon
 Nickname: X
+Division: flyweight
 Professional Record: 14-8-0
 Stance: Switch
 Date of Birth: May 19, 1990

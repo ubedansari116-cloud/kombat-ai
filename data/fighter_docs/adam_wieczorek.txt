@@ -3,6 +3,7 @@ Fighter Profile: Adam Wieczorek
 Identity
 Name: Adam Wieczorek
 Nickname: Siwy
+Division: heavyweight
 Professional Record: 10-2-0
 Stance: Orthodox
 Date of Birth: Feb 05, 1992

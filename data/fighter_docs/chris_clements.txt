@@ -3,6 +3,7 @@ Fighter Profile: Chris Clements
 Identity
 Name: Chris Clements
 Nickname: The Menace
+Division: welterweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Feb 09, 1976

@@ -3,6 +3,7 @@ Fighter Profile: Marcin Bandel
 Identity
 Name: Marcin Bandel
 Nickname: Bomba
+Division: lightweight
 Professional Record: 15-7-0
 Stance: Orthodox
 Date of Birth: Oct 10, 1989

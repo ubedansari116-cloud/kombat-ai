@@ -3,6 +3,7 @@ Fighter Profile: Sam Alvey
 Identity
 Name: Sam Alvey
 Nickname: Smile'N
+Division: middleweight
 Professional Record: 33-18-1
 Stance: Southpaw
 Date of Birth: May 06, 1986

@@ -3,6 +3,7 @@ Fighter Profile: Ben Alloway
 Identity
 Name: Ben Alloway
 Nickname: Blanco
+Division: welterweight
 Professional Record: 18-8-0
 Stance: Orthodox
 Date of Birth: Feb 19, 1981

@@ -3,6 +3,7 @@ Fighter Profile: Ian McCall
 Identity
 Name: Ian McCall
 Nickname: Uncle Creepy
+Division: flyweight
 Professional Record: 13-5-1
 Stance: Orthodox
 Date of Birth: May 07, 1984

@@ -3,6 +3,7 @@ Fighter Profile: Charles Oliveira
 Identity
 Name: Charles Oliveira
 Nickname: Do Bronxs
+Division: lightweight
 Professional Record: 35-11-0
 Stance: Orthodox
 Date of Birth: Oct 17, 1989

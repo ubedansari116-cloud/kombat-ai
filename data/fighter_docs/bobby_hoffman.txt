@@ -3,6 +3,7 @@ Fighter Profile: Bobby Hoffman
 Identity
 Name: Bobby Hoffman
 Nickname: The Truth
+Division: heavyweight
 Professional Record: 36-10-1
 Stance: Orthodox
 Date of Birth: Oct 28, 1968

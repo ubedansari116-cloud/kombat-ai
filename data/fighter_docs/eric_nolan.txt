@@ -3,6 +3,7 @@ Fighter Profile: Eric Nolan
 Identity
 Name: Eric Nolan
 Nickname: Nightime
+Division: middleweight
 Professional Record: 8-4-0
 Stance: Orthodox
 Date of Birth: Sep 13, 1997

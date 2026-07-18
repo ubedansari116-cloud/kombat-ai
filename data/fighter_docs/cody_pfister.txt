@@ -3,6 +3,7 @@ Fighter Profile: Cody Pfister
 Identity
 Name: Cody Pfister
 Nickname: The Fist
+Division: lightweight
 Professional Record: 13-6-1
 Stance: Orthodox
 Date of Birth: Jul 12, 1990

@@ -3,6 +3,7 @@ Fighter Profile: Mason Jones
 Identity
 Name: Mason Jones
 Nickname: The Dragon
+Division: lightweight
 Professional Record: 17-2-0
 Stance: Orthodox
 Date of Birth: Apr 26, 1995

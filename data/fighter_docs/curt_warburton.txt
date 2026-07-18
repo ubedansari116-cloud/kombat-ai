@@ -3,6 +3,7 @@ Fighter Profile: Curt Warburton
 Identity
 Name: Curt Warburton
 Nickname: None listed
+Division: lightweight
 Professional Record: 13-6-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Khabib Nurmagomedov
 Identity
 Name: Khabib Nurmagomedov
 Nickname: The Eagle
+Division: lightweight
 Professional Record: 29-0-0
 Stance: Orthodox
 Date of Birth: Sep 20, 1988

@@ -3,6 +3,7 @@ Fighter Profile: Ronaldo Rodriguez
 Identity
 Name: Ronaldo Rodriguez
 Nickname: Lazy Boy
+Division: flyweight
 Professional Record: 17-3-0
 Stance: Orthodox
 Date of Birth: May 07, 1999

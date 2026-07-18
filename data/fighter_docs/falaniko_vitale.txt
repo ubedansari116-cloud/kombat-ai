@@ -3,6 +3,7 @@ Fighter Profile: Falaniko Vitale
 Identity
 Name: Falaniko Vitale
 Nickname: Niko
+Division: middleweight
 Professional Record: 30-11-0
 Stance: Orthodox
 Date of Birth: Jul 14, 1974

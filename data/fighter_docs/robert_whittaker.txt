@@ -3,6 +3,7 @@ Fighter Profile: Robert Whittaker
 Identity
 Name: Robert Whittaker
 Nickname: The Reaper
+Division: middleweight
 Professional Record: 27-9-0
 Stance: Orthodox
 Date of Birth: Dec 20, 1990

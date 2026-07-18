@@ -3,6 +3,7 @@ Fighter Profile: Brad Pickett
 Identity
 Name: Brad Pickett
 Nickname: One Punch
+Division: catch weight
 Professional Record: 25-14-0
 Stance: Orthodox
 Date of Birth: Sep 24, 1978

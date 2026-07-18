@@ -3,6 +3,7 @@ Fighter Profile: Mark Hunt
 Identity
 Name: Mark Hunt
 Nickname: Super Samoan
+Division: heavyweight
 Professional Record: 13-14-1
 Stance: Orthodox
 Date of Birth: Mar 23, 1974

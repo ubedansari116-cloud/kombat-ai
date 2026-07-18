@@ -3,6 +3,7 @@ Fighter Profile: Fabricio Camoes
 Identity
 Name: Fabricio Camoes
 Nickname: Morango
+Division: lightweight
 Professional Record: 14-9-1
 Stance: Orthodox
 Date of Birth: Dec 23, 1978

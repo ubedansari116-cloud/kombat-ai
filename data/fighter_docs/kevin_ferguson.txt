@@ -3,6 +3,7 @@ Fighter Profile: Kevin Ferguson
 Identity
 Name: Kevin Ferguson
 Nickname: Kimbo Slice
+Division: heavyweight
 Professional Record: 5-2-0
 Stance: Orthodox
 Date of Birth: Feb 08, 1974

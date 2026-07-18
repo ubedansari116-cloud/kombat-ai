@@ -3,6 +3,7 @@ Fighter Profile: Willie Gates
 Identity
 Name: Willie Gates
 Nickname: None listed
+Division: flyweight
 Professional Record: 12-7-0
 Stance: Orthodox
 Date of Birth: Jan 21, 1987

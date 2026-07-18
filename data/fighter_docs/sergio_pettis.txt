@@ -3,6 +3,7 @@ Fighter Profile: Sergio Pettis
 Identity
 Name: Sergio Pettis
 Nickname: None listed
+Division: flyweight
 Professional Record: 18-5-0
 Stance: Orthodox
 Date of Birth: Aug 18, 1993

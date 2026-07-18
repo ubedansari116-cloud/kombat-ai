@@ -3,6 +3,7 @@ Fighter Profile: Jason Brilz
 Identity
 Name: Jason Brilz
 Nickname: Hitman
+Division: light heavyweight
 Professional Record: 22-6-1
 Stance: Orthodox
 Date of Birth: Jul 07, 1975

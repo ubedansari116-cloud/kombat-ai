@@ -3,6 +3,7 @@ Fighter Profile: Alexander Hernandez
 Identity
 Name: Alexander Hernandez
 Nickname: The Great Ape
+Division: lightweight
 Professional Record: 17-8-0
 Stance: Orthodox
 Date of Birth: Oct 01, 1992

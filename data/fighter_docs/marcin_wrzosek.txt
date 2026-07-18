@@ -3,6 +3,7 @@ Fighter Profile: Marcin Wrzosek
 Identity
 Name: Marcin Wrzosek
 Nickname: The Polish Zombie
+Division: lightweight
 Professional Record: 12-4-0
 Stance: Unknown
 Date of Birth: Oct 14, 1987

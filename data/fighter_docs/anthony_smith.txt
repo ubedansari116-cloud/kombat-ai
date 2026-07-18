@@ -3,6 +3,7 @@ Fighter Profile: Anthony Smith
 Identity
 Name: Anthony Smith
 Nickname: Lionheart
+Division: light heavyweight
 Professional Record: 38-22-0
 Stance: Orthodox
 Date of Birth: Jul 26, 1988

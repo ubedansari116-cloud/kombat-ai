@@ -3,6 +3,7 @@ Fighter Profile: Austin Hubbard
 Identity
 Name: Austin Hubbard
 Nickname: Thud
+Division: lightweight
 Professional Record: 17-10-0
 Stance: Orthodox
 Date of Birth: Dec 22, 1991

@@ -3,6 +3,7 @@ Fighter Profile: Evan Elder
 Identity
 Name: Evan Elder
 Nickname: The Phenom
+Division: lightweight
 Professional Record: 10-2-0
 Stance: Switch
 Date of Birth: Apr 11, 1997

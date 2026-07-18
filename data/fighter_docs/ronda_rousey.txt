@@ -3,6 +3,7 @@ Fighter Profile: Ronda Rousey
 Identity
 Name: Ronda Rousey
 Nickname: Rowdy
+Division: women's bantamweight
 Professional Record: 12-2-0
 Stance: Orthodox
 Date of Birth: Feb 01, 1987

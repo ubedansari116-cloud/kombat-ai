@@ -3,6 +3,7 @@ Fighter Profile: Jorge de Oliveira
 Identity
 Name: Jorge de Oliveira
 Nickname: Blade
+Division: lightweight
 Professional Record: 9-2-0
 Stance: Orthodox
 Date of Birth: Jan 22, 1980

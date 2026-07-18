@@ -3,6 +3,7 @@ Fighter Profile: Steve Cantwell
 Identity
 Name: Steve Cantwell
 Nickname: The Robot
+Division: middleweight
 Professional Record: 7-6-0
 Stance: Orthodox
 Date of Birth: Dec 08, 1986

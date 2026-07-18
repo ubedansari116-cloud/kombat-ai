@@ -3,6 +3,7 @@ Fighter Profile: Sherman Pendergarst
 Identity
 Name: Sherman Pendergarst
 Nickname: The Tank
+Division: heavyweight
 Professional Record: 11-18-0
 Stance: Orthodox
 Date of Birth: Aug 01, 1967

@@ -3,6 +3,7 @@ Fighter Profile: Marvin Eastman
 Identity
 Name: Marvin Eastman
 Nickname: The Beastman
+Division: middleweight
 Professional Record: 18-15-1
 Stance: Orthodox
 Date of Birth: Jun 08, 1971

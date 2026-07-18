@@ -3,6 +3,7 @@ Fighter Profile: Julius Walker
 Identity
 Name: Julius Walker
 Nickname: Juice Box
+Division: light heavyweight
 Professional Record: 7-1-0
 Stance: Orthodox
 Date of Birth: Jul 16, 1999

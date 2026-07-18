@@ -3,6 +3,7 @@ Fighter Profile: Uriah Hall
 Identity
 Name: Uriah Hall
 Nickname: Prime Time
+Division: middleweight
 Professional Record: 18-11-0
 Stance: Orthodox
 Date of Birth: Jul 31, 1984

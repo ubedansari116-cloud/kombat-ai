@@ -3,6 +3,7 @@ Fighter Profile: Brad Riddell
 Identity
 Name: Brad Riddell
 Nickname: Quake
+Division: lightweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Sep 30, 1991

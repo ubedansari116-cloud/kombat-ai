@@ -3,6 +3,7 @@ Fighter Profile: Andy Enz
 Identity
 Name: Andy Enz
 Nickname: Tank Mode
+Division: middleweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Aug 15, 1991

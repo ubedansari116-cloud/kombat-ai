@@ -3,6 +3,7 @@ Fighter Profile: Martin Kampmann
 Identity
 Name: Martin Kampmann
 Nickname: The Hitman
+Division: welterweight
 Professional Record: 20-7-0
 Stance: Orthodox
 Date of Birth: Apr 17, 1982

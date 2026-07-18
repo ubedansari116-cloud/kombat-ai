@@ -3,6 +3,7 @@ Fighter Profile: Jon Delos Reyes
 Identity
 Name: Jon Delos Reyes
 Nickname: The Heat
+Division: flyweight
 Professional Record: 8-5-0
 Stance: Orthodox
 Date of Birth: Aug 19, 1987

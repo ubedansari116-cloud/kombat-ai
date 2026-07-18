@@ -3,6 +3,7 @@ Fighter Profile: Alex Andrade
 Identity
 Name: Alex Andrade
 Nickname: El Toro
+Division: middleweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: May 14, 1974

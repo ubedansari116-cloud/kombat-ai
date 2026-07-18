@@ -3,6 +3,7 @@ Fighter Profile: Geza Kalman
 Identity
 Name: Geza Kalman
 Nickname: None listed
+Division: open weight
 Professional Record: 4-9-0
 Stance: Unknown
 Date of Birth: Unknown

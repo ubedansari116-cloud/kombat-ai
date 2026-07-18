@@ -3,6 +3,7 @@ Fighter Profile: Rustam Khabilov
 Identity
 Name: Rustam Khabilov
 Nickname: Tiger
+Division: welterweight
 Professional Record: 24-4-0
 Stance: Orthodox
 Date of Birth: Nov 04, 1986

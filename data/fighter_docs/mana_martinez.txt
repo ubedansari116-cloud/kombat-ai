@@ -3,6 +3,7 @@ Fighter Profile: Mana Martinez
 Identity
 Name: Mana Martinez
 Nickname: ManaBoi
+Division: bantamweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Mar 25, 1996

@@ -3,6 +3,7 @@ Fighter Profile: Tom Blackledge
 Identity
 Name: Tom Blackledge
 Nickname: None listed
+Division: light heavyweight
 Professional Record: 10-7-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Orlando Wiet
 Identity
 Name: Orlando Wiet
 Nickname: The Gladiator
+Division: open weight
 Professional Record: 1-5-0
 Stance: Southpaw
 Date of Birth: Unknown

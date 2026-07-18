@@ -3,6 +3,7 @@ Fighter Profile: Jose Aldo
 Identity
 Name: Jose Aldo
 Nickname: None listed
+Division: featherweight
 Professional Record: 32-10-0
 Stance: Orthodox
 Date of Birth: Sep 09, 1986

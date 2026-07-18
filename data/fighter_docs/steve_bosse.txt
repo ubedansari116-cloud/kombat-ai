@@ -3,6 +3,7 @@ Fighter Profile: Steve Bosse
 Identity
 Name: Steve Bosse
 Nickname: The Boss
+Division: light heavyweight
 Professional Record: 12-2-0
 Stance: Orthodox
 Date of Birth: Jul 29, 1981

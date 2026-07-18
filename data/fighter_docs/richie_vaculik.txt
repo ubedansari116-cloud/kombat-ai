@@ -3,6 +3,7 @@ Fighter Profile: Richie Vaculik
 Identity
 Name: Richie Vaculik
 Nickname: Vas
+Division: flyweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Jun 19, 1983

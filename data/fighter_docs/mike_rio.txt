@@ -3,6 +3,7 @@ Fighter Profile: Mike Rio
 Identity
 Name: Mike Rio
 Nickname: The Wolverine
+Division: lightweight
 Professional Record: 10-5-0
 Stance: Orthodox
 Date of Birth: Jul 06, 1981

@@ -3,6 +3,7 @@ Fighter Profile: Mark Madsen
 Identity
 Name: Mark Madsen
 Nickname: The Olympian
+Division: lightweight
 Professional Record: 12-2-0
 Stance: Orthodox
 Date of Birth: Sep 23, 1984

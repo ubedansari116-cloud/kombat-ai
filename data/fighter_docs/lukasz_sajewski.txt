@@ -3,6 +3,7 @@ Fighter Profile: Lukasz Sajewski
 Identity
 Name: Lukasz Sajewski
 Nickname: Wookie
+Division: lightweight
 Professional Record: 13-3-0
 Stance: Orthodox
 Date of Birth: Nov 27, 1990

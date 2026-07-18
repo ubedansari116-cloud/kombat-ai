@@ -3,6 +3,7 @@ Fighter Profile: Reinier de Ridder
 Identity
 Name: Reinier de Ridder
 Nickname: RdR
+Division: middleweight
 Professional Record: 21-2-0
 Stance: Southpaw
 Date of Birth: Sep 07, 1990

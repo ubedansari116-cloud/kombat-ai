@@ -3,6 +3,7 @@ Fighter Profile: Sam Stout
 Identity
 Name: Sam Stout
 Nickname: Hands of Stone
+Division: lightweight
 Professional Record: 20-12-1
 Stance: Orthodox
 Date of Birth: Apr 23, 1984

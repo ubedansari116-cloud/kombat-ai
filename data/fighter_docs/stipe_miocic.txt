@@ -3,6 +3,7 @@ Fighter Profile: Stipe Miocic
 Identity
 Name: Stipe Miocic
 Nickname: None listed
+Division: heavyweight
 Professional Record: 20-5-0
 Stance: Orthodox
 Date of Birth: Aug 19, 1982

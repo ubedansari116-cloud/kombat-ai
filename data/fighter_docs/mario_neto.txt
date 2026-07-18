@@ -3,6 +3,7 @@ Fighter Profile: Mario Neto
 Identity
 Name: Mario Neto
 Nickname: Sukata
+Division: heavyweight
 Professional Record: 13-5-0
 Stance: Orthodox
 Date of Birth: Unknown

@@ -3,6 +3,7 @@ Fighter Profile: Steven Peterson
 Identity
 Name: Steven Peterson
 Nickname: Ocho
+Division: featherweight
 Professional Record: 19-11-0
 Stance: Orthodox
 Date of Birth: May 29, 1990

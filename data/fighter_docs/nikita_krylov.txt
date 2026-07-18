@@ -3,6 +3,7 @@ Fighter Profile: Nikita Krylov
 Identity
 Name: Nikita Krylov
 Nickname: The Miner
+Division: light heavyweight
 Professional Record: 30-11-0
 Stance: Orthodox
 Date of Birth: Mar 07, 1992

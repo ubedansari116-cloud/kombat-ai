@@ -3,6 +3,7 @@ Fighter Profile: Carlos Barreto
 Identity
 Name: Carlos Barreto
 Nickname: None listed
+Division: heavyweight
 Professional Record: 14-9-0
 Stance: Orthodox
 Date of Birth: Unknown

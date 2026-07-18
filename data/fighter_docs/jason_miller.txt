@@ -3,6 +3,7 @@ Fighter Profile: Jason Miller
 Identity
 Name: Jason Miller
 Nickname: Mayhem
+Division: middleweight
 Professional Record: 23-10-0
 Stance: Orthodox
 Date of Birth: Dec 24, 1980

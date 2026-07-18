@@ -3,6 +3,7 @@ Fighter Profile: Sergei Pavlovich
 Identity
 Name: Sergei Pavlovich
 Nickname: None listed
+Division: heavyweight
 Professional Record: 20-3-0
 Stance: Southpaw
 Date of Birth: May 13, 1992

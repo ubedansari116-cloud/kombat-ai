@@ -3,6 +3,7 @@ Fighter Profile: Bogdan Grad
 Identity
 Name: Bogdan Grad
 Nickname: The Unleashed
+Division: featherweight
 Professional Record: 15-3-0
 Stance: Orthodox
 Date of Birth: Sep 28, 1995

@@ -3,6 +3,7 @@ Fighter Profile: Chris Curtis
 Identity
 Name: Chris Curtis
 Nickname: Action-Man
+Division: welterweight
 Professional Record: 32-12-0
 Stance: Orthodox
 Date of Birth: Jul 15, 1987

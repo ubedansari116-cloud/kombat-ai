@@ -3,6 +3,7 @@ Fighter Profile: Cub Swanson
 Identity
 Name: Cub Swanson
 Nickname: None listed
+Division: featherweight
 Professional Record: 30-14-0
 Stance: Orthodox
 Date of Birth: Nov 02, 1983

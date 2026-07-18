@@ -3,6 +3,7 @@ Fighter Profile: Roger Bowling
 Identity
 Name: Roger Bowling
 Nickname: Relentless
+Division: lightweight
 Professional Record: 12-6-0
 Stance: Orthodox
 Date of Birth: Dec 05, 1982

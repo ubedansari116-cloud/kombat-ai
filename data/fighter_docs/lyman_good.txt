@@ -3,6 +3,7 @@ Fighter Profile: Lyman Good
 Identity
 Name: Lyman Good
 Nickname: Cyborg
+Division: welterweight
 Professional Record: 21-6-0
 Stance: Orthodox
 Date of Birth: May 26, 1985

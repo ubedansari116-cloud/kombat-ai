@@ -3,6 +3,7 @@ Fighter Profile: Tedd Williams
 Identity
 Name: Tedd Williams
 Nickname: None listed
+Division: heavyweight
 Professional Record: 7-1-0
 Stance: Orthodox
 Date of Birth: Dec 19, 1969

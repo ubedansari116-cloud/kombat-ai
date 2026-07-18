@@ -3,6 +3,7 @@ Fighter Profile: Gregor Gillespie
 Identity
 Name: Gregor Gillespie
 Nickname: The Gift
+Division: lightweight
 Professional Record: 14-1-0
 Stance: Orthodox
 Date of Birth: Nov 13, 1986

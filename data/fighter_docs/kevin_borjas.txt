@@ -3,6 +3,7 @@ Fighter Profile: Kevin Borjas
 Identity
 Name: Kevin Borjas
 Nickname: El Gallo Negro
+Division: flyweight
 Professional Record: 10-4-0
 Stance: Orthodox
 Date of Birth: Dec 06, 1997

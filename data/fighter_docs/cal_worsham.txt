@@ -3,6 +3,7 @@ Fighter Profile: Cal Worsham
 Identity
 Name: Cal Worsham
 Nickname: None listed
+Division: open weight
 Professional Record: 13-10-0
 Stance: Orthodox
 Date of Birth: Unknown

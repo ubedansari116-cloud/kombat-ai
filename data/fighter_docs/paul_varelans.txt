@@ -3,6 +3,7 @@ Fighter Profile: Paul Varelans
 Identity
 Name: Paul Varelans
 Nickname: The Polar Bear
+Division: open weight
 Professional Record: 9-9-0
 Stance: Orthodox
 Date of Birth: Unknown

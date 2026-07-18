@@ -3,6 +3,7 @@ Fighter Profile: Ion Cutelaba
 Identity
 Name: Ion Cutelaba
 Nickname: The Hulk
+Division: light heavyweight
 Professional Record: 19-11-1
 Stance: Southpaw
 Date of Birth: Dec 14, 1993

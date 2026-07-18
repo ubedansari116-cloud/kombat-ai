@@ -3,6 +3,7 @@ Fighter Profile: Luis Gurule
 Identity
 Name: Luis Gurule
 Nickname: Grim
+Division: flyweight
 Professional Record: 10-1-0
 Stance: Orthodox
 Date of Birth: Nov 16, 1993

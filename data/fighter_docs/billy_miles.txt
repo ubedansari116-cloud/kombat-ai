@@ -3,6 +3,7 @@ Fighter Profile: Billy Miles
 Identity
 Name: Billy Miles
 Nickname: The Kid
+Division: welterweight
 Professional Record: 2-2-0
 Stance: Orthodox
 Date of Birth: Apr 28, 1978

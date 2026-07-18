@@ -3,6 +3,7 @@ Fighter Profile: Harry Hardwick
 Identity
 Name: Harry Hardwick
 Nickname: Houdini
+Division: lightweight
 Professional Record: 13-4-1
 Stance: Switch
 Date of Birth: Sep 29, 1994

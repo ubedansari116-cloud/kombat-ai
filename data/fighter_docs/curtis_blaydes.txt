@@ -3,6 +3,7 @@ Fighter Profile: Curtis Blaydes
 Identity
 Name: Curtis Blaydes
 Nickname: Razor
+Division: heavyweight
 Professional Record: 19-5-0
 Stance: Orthodox
 Date of Birth: Feb 18, 1991

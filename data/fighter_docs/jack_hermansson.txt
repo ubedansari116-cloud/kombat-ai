@@ -3,6 +3,7 @@ Fighter Profile: Jack Hermansson
 Identity
 Name: Jack Hermansson
 Nickname: The Joker
+Division: middleweight
 Professional Record: 24-9-0
 Stance: Orthodox
 Date of Birth: Jun 10, 1988

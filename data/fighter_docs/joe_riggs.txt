@@ -3,6 +3,7 @@ Fighter Profile: Joe Riggs
 Identity
 Name: Joe Riggs
 Nickname: Diesel
+Division: middleweight
 Professional Record: 44-17-0
 Stance: Southpaw
 Date of Birth: Sep 23, 1982

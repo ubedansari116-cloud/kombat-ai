@@ -3,6 +3,7 @@ Fighter Profile: Kristof Midoux
 Identity
 Name: Kristof Midoux
 Nickname: The Hurricane
+Division: heavyweight
 Professional Record: 6-10-0
 Stance: Orthodox
 Date of Birth: Jul 30, 1974

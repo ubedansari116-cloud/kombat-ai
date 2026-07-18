@@ -3,6 +3,7 @@ Fighter Profile: Gilbert Aldana
 Identity
 Name: Gilbert Aldana
 Nickname: El Peligro
+Division: heavyweight
 Professional Record: 6-2-0
 Stance: Orthodox
 Date of Birth: Aug 25, 1977

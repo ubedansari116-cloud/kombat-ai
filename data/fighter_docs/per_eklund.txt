@@ -3,6 +3,7 @@ Fighter Profile: Per Eklund
 Identity
 Name: Per Eklund
 Nickname: None listed
+Division: lightweight
 Professional Record: 14-5-1
 Stance: Orthodox
 Date of Birth: Unknown

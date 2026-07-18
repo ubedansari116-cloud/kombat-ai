@@ -3,6 +3,7 @@ Fighter Profile: Josh Sampo
 Identity
 Name: Josh Sampo
 Nickname: The Gremlin
+Division: flyweight
 Professional Record: 11-5-0
 Stance: Orthodox
 Date of Birth: Jul 24, 1984

@@ -3,6 +3,7 @@ Fighter Profile: Tomasz Drwal
 Identity
 Name: Tomasz Drwal
 Nickname: Gorilla
+Division: middleweight
 Professional Record: 21-5-1
 Stance: Orthodox
 Date of Birth: Jan 22, 1982
