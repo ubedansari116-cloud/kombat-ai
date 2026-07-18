@@ -66,7 +66,7 @@ if compare_button:
     else:
 
         with st.spinner("Analysing matchup..."):
-            query = f"Compare {fighter_one} and {fighter_two}"
+            query = f"{fighter_one} vs {fighter_two}"
             result = advisor.answer(query)
 
         prediction = result["prediction"]
@@ -142,6 +142,12 @@ if compare_button:
             figure,
             clear_figure=True,
             )
+        
+        # 💡 ADD THIS VISUAL LEGEND KEY BELOW THE CHART
+        st.markdown(
+            f"🔴 **{fighter_one}** &nbsp;&nbsp;&nbsp;&nbsp; 🔵 **{fighter_two}**"
+        )
+        
         st.divider()
 
         # ===========================
@@ -178,3 +184,54 @@ if compare_button:
             use_container_width=True,
             hide_index=True,
         )
+    
+    st.divider()
+    
+    fight_iq = result["fight_iq"]
+    st.subheader("🤓 Fight IQ Analysis")
+    left, right = st.columns(2)
+    with left:
+        st.metric(
+            fighter_one,
+            fight_iq["fighter_one"]["grade"],
+            f"{fight_iq['fighter_one']['fight_iq']:.1f} Fight IQ",
+            )
+
+        st.success("Strengths")
+
+        for strength in fight_iq["fighter_one"]["strengths"]:
+            st.write(f"😈 {strength}")
+
+        st.warning("Weaknesses")
+
+        for weakness in fight_iq["fighter_one"]["weaknesses"]:
+            st.write(f"😩 {weakness}")
+
+    with right:
+
+        st.metric(
+            fighter_two,
+            fight_iq["fighter_two"]["grade"],
+            f"{fight_iq['fighter_two']['fight_iq']:.1f} Fight IQ",
+            )
+
+        st.success("Strengths")
+
+        for strength in fight_iq["fighter_two"]["strengths"]:
+            st.write(f"😈 {strength}")
+ 
+        st.warning("Weaknesses")
+
+        for weakness in fight_iq["fighter_two"]["weaknesses"]:
+            st.write(f"😩 {weakness}")
+
+    st.write("")
+
+    st.subheader("🙈 Matchup Intelligence")
+
+    for insight in fight_iq["matchup_analysis"]:
+        st.info(insight)
+
+    st.success(
+        f"Overall Fight IQ Edge: {fight_iq['overall_edge']}"
+    )

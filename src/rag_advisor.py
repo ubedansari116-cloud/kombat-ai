@@ -2,12 +2,15 @@ import re
 
 from predictor import KombatPredictor
 from rag_retriever import FighterRetriever
-
+from fight_engine import FightEngine
+from what_if import WhatIfSimulator
 
 class KombatAdvisor:
     def __init__(self):
         self.retriever = FighterRetriever()
         self.predictor = KombatPredictor()
+        self.what_if_simulator = WhatIfSimulator()
+        self.fight_engine = FightEngine()
 
     def extract_stats(self, document):
         patterns = {
@@ -38,14 +41,18 @@ class KombatAdvisor:
         stats = {}
 
         for stat_name, pattern in patterns.items():
-            match = re.search(pattern, document) 
-            if not match:
+            match = re.search(pattern, document)
+            
+            # If there's no match, or if the matched text contains "Unknown", keep it None
+            if not match or "Unknown" in match.group(0):
                 stats[stat_name] = None
             elif stat_name == "division":
                 stats[stat_name] = match.group(1).strip()
-                
             else:
-                stats[stat_name] = float(match.group(1))
+                try:
+                    stats[stat_name] = float(match.group(1))
+                except ValueError:
+                    stats[stat_name] = None
 
         return stats
 
@@ -185,6 +192,13 @@ class KombatAdvisor:
                 fighter_two_stats=analysis[1]["stats"],
             )
 
+            fight_iq = self.fight_engine.analyze(
+                fighter_one_name=analysis[0]["fighter"],
+                fighter_one_stats=analysis[0]["stats"],
+                fighter_two_name=analysis[1]["fighter"],
+                fighter_two_stats=analysis[1]["stats"],
+                )
+
             summary = self.generate_summary(
                 analysis[0],
                 analysis[1],
@@ -197,6 +211,7 @@ class KombatAdvisor:
                 "comparison": comparison,
                 "summary": summary,
                 "prediction": prediction,
+                "fight_iq": fight_iq,
             }
 
         return {

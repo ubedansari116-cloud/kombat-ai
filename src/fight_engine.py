@@ -89,6 +89,29 @@ class FightEngine:
         return round(score, 1)
 
     # ---------------------------------------------------
+    # Fight IQ Grade
+    # ---------------------------------------------------
+
+    def fight_iq_grade(self, score):
+
+        if score >= 95:
+            return "🟣 S+"
+
+        elif score >= 90:
+            return "🔵 S"
+
+        elif score >= 85:
+            return "🟢 A"
+
+        elif score >= 80:
+            return "🟡 B"
+
+        elif score >= 70:
+            return "🟠 C"
+
+        return "🔴 D"
+    
+    # ---------------------------------------------------
     # Style Bonus
     # ---------------------------------------------------
 
@@ -278,6 +301,70 @@ class FightEngine:
             )
 
         return comparison
+    
+    def matchup_insight(
+            self,
+            fighter_one_name,
+            fighter_one_stats,
+            fighter_two_name,
+            fighter_two_stats,
+            ):
+        insights = []
+        
+        if (
+            fighter_one_stats["takedown_avg"] > 2.5
+            and fighter_two_stats["submission_avg"] > 1
+            ):
+            insights.append(
+                f"{fighter_one_name}'s wrestling could neutralize "
+                f"{fighter_two_name}'s submission game."
+                )
+
+        if (
+            fighter_two_stats["takedown_avg"] > 2.5
+            and fighter_one_stats["submission_avg"] > 1
+            ):
+            insights.append(
+                f"{fighter_two_name}'s wrestling could neutralize "
+                f"{fighter_one_name}'s submission game."
+                )
+
+        if (
+            fighter_one_stats["reach"]
+            >
+            fighter_two_stats["reach"] + 8
+            ):
+            insights.append(
+                f"{fighter_one_name} should fight behind the jab and maintain range."
+                )
+
+        if (
+            fighter_two_stats["reach"]
+            >
+            fighter_one_stats["reach"] + 8
+            ):
+            insights.append(
+                f"{fighter_two_name} should fight behind the jab and maintain range."
+                )
+
+        if (
+            fighter_one_stats["strike_defense"]
+            <
+            fighter_two_stats["strike_defense"]
+            ):
+            insights.append(
+                f"{fighter_one_name} cannot afford prolonged striking exchanges."
+                )
+
+        if (
+            fighter_two_stats["strike_defense"]
+            <
+            fighter_one_stats["strike_defense"]
+            ):
+            insights.append(
+                f"{fighter_two_name} cannot afford prolonged striking exchanges."
+                )
+            return insights
 
         # ---------------------------------------------------
 
@@ -312,10 +399,12 @@ class FightEngine:
     # ---------------------------------------------------
 
     def analyze(
-        self,
-        fighter_one_stats,
-        fighter_two_stats,
-    ):
+    self,
+    fighter_one_name,
+    fighter_one_stats,
+    fighter_two_name,
+    fighter_two_stats,
+):
 
         fighter_one_attributes = self.calculate_attributes(fighter_one_stats)
 
@@ -331,6 +420,13 @@ class FightEngine:
 
         fighter_one_score = round(fighter_one_score, 1)
         fighter_two_score = round(fighter_two_score, 1)
+
+        fighter_one_grade = self.fight_iq_grade(
+            fighter_one_score
+            )
+        fighter_two_grade = self.fight_iq_grade(
+            fighter_two_score
+            )
 
         fighter_one_strengths = self.generate_strengths(fighter_one_stats)
 
@@ -361,26 +457,38 @@ class FightEngine:
 
         if fighter_one_score > fighter_two_score:
 
-            overall_edge = "fighter_one"
+            overall_edge = fighter_one_name
 
         elif fighter_two_score > fighter_one_score:
 
-            overall_edge = "fighter_two"
+            overall_edge = fighter_two_name
 
         else:
 
             overall_edge = "Even"
-
+            
+        matchup = self.matchup_insight(
+            fighter_one_name,
+            fighter_one_stats,
+            fighter_two_name,
+            fighter_two_stats,
+            )
+        
         return {
+            "matchup_analysis": matchup,
             "fighter_one": {
+                "name": fighter_one_name,
                 "fight_iq": fighter_one_score,
+                "grade": fighter_one_grade,
                 "attributes": fighter_one_attributes,
                 "strengths": fighter_one_strengths,
                 "weaknesses": fighter_one_weaknesses,
                 "gameplan": fighter_one_plan,
             },
             "fighter_two": {
+                "name": fighter_two_name,
                 "fight_iq": fighter_two_score,
+                "grade": fighter_two_grade,
                 "attributes": fighter_two_attributes,
                 "strengths": fighter_two_strengths,
                 "weaknesses": fighter_two_weaknesses,
