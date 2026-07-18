@@ -55,6 +55,26 @@ class KombatAdvisor:
                     stats[stat_name] = None
 
         return stats
+    
+    def load_fighter(self, fighter_name):
+        result = self.retriever.search(
+            fighter_name,
+            top_k=1,
+        )
+
+        if not result:
+            raise ValueError(
+                f"Unable to locate fighter: {fighter_name}"
+            )
+
+        stats = self.extract_stats(
+            result[0]["document"]
+        )
+
+        return {
+            "name": result[0]["fighter_name"],
+            "stats": stats,
+        }
 
     def compare_fighters(self, fighter_one, fighter_two):
         stats_one = fighter_one["stats"]

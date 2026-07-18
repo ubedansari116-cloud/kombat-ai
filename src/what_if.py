@@ -23,6 +23,12 @@ class WhatIfSimulator:
         if fighter_two_changes:
             second.update(fighter_two_changes)
 
+        print("\n====================")
+        print(first)
+        print("====================")
+        print(second)
+        print("====================")
+
         return fight_engine.analyze(
             fighter_one_name=fighter_one_name,
             fighter_one_stats=first,
