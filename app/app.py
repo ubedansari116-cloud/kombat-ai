@@ -12,6 +12,7 @@ if str(SRC_PATH) not in sys.path:
     sys.path.insert(0, str(SRC_PATH))
 
 from rag_advisor import KombatAdvisor
+from radar import RadarChart
 
 st.set_page_config(
     page_title="Kombat AI",
@@ -26,6 +27,7 @@ def load_advisor():
 
 
 advisor = load_advisor()
+radar = RadarChart()
 
 st.title("🥰 Kombat AI")
 st.caption("AI-powered UFC matchup analysis and fight prediction")
@@ -75,81 +77,91 @@ if compare_button:
         fighter_two_probability = prediction["fighter_two_probability"]
         predicted_winner = prediction["predicted_winner"]
 
-        st.divider()
-
         # ===========================
         # TOP SECTION
         # ===========================
 
-        left, right = st.columns([1, 1])
+    left, right = st.columns([1, 1.35])
 
-        with left:
+    with left:
 
-            st.subheader("Fight Prediction")
+        st.subheader("Fight Prediction")
 
+        st.metric(
+            "Predicted Winner",
+            predicted_winner,
+    )
+        st.write("")
+        st.write(f"**{fighter_one}**")
+        st.progress(fighter_one_probability / 100)
+        st.caption(f"{fighter_one_probability:.2f}%")
+        
+        st.write("")
+        st.write(f"**{fighter_two}**")
+        st.progress(fighter_two_probability / 100)
+        st.caption(f"{fighter_two_probability:.2f}%")
+
+        st.write("")
+
+        st.subheader("Overall Statistical Edge")
+
+        st.success(comparison["overall_edge"])
+
+        c1, c2, c3 = st.columns(3)
+
+        with c1:
             st.metric(
-                "Predicted Winner",
-                predicted_winner,
+                fighter_one,
+                comparison["fighter_one_wins"],
+        )
+
+        with c2:
+            st.metric(
+                "Ties",
+                comparison["ties"],
+        )
+
+        with c3:
+            st.metric(
+                fighter_two,
+                comparison["fighter_two_wins"],
+        )
+
+    with right:
+
+        st.subheader("Fighter Attribute Radar")
+
+        figure = radar.create_chart(
+            fighter_one_name=fighter_one,
+            fighter_one_stats=result["fighters"][0]["stats"],
+            fighter_two_name=fighter_two,
+            fighter_two_stats=result["fighters"][1]["stats"],
             )
 
-            st.write(f"**{fighter_one}**")
-            st.progress(fighter_one_probability / 100)
-            st.write(f"{fighter_one_probability:.2f}%")
-
-            st.write("")
-
-            st.write(f"**{fighter_two}**")
-            st.progress(fighter_two_probability / 100)
-            st.write(f"{fighter_two_probability:.2f}%")
-
-        with right:
-
-            st.subheader("Overall Statistical Edge")
-
-            st.success(comparison["overall_edge"])
-
-            st.write("")
-
-            c1, c2, c3 = st.columns(3)
-
-            with c1:
-                st.metric(
-                    fighter_one,
-                    comparison["fighter_one_wins"],
-                )
-
-            with c2:
-                st.metric(
-                    "Ties",
-                    comparison["ties"],
-                )
-
-            with c3:
-                st.metric(
-                    fighter_two,
-                    comparison["fighter_two_wins"],
-                )
-
+        st.pyplot(
+            figure,
+            clear_figure=True,
+            )
         st.divider()
 
         # ===========================
         # SUMMARY
         # ===========================
 
-        st.subheader("Analyst Summary")
-        st.info(summary)
+    st.subheader("Analyst Summary")
+    st.info(summary)
 
-        st.divider()
+    st.divider()
 
         # ===========================
         # COMPARISON TABLE
         # ===========================
 
-        st.subheader("Statistical Comparison")
+    st.subheader("Statistical Comparison")
 
-        comparison_rows = []
+    comparison_rows = []
 
-        for item in comparison["advantages"]:
+    for item in comparison["advantages"]:
             comparison_rows.append(
                 {
                     "Metric": item["metric"],
@@ -159,9 +171,9 @@ if compare_button:
                 }
             )
 
-        comparison_dataframe = pd.DataFrame(comparison_rows)
+    comparison_dataframe = pd.DataFrame(comparison_rows)
 
-        st.dataframe(
+    st.dataframe(
             comparison_dataframe,
             use_container_width=True,
             hide_index=True,
