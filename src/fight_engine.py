@@ -364,7 +364,7 @@ class FightEngine:
             insights.append(
                 f"{fighter_two_name} cannot afford prolonged striking exchanges."
                 )
-            return insights
+        return insights
 
         # ---------------------------------------------------
 
