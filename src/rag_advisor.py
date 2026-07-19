@@ -2,12 +2,13 @@ import re
 
 from predictor import KombatPredictor
 from rag_retriever import FighterRetriever
-
+from fight_engine import FightEngine
 
 class KombatAdvisor:
     def __init__(self):
         self.retriever = FighterRetriever()
         self.predictor = KombatPredictor()
+        self.fight_engine = FightEngine()
 
     def extract_stats(self, document):
         patterns = {
@@ -185,6 +186,15 @@ class KombatAdvisor:
                 fighter_two_stats=analysis[1]["stats"],
             )
 
+            fight_iq = {
+                "fighter_one": self.fight_engine.generate_report(
+                    analysis[0]["stats"]
+                    ),
+                "fighter_two": self.fight_engine.generate_report(
+                    analysis[1]["stats"]
+                    ),
+            }
+
             summary = self.generate_summary(
                 analysis[0],
                 analysis[1],
@@ -197,6 +207,7 @@ class KombatAdvisor:
                 "comparison": comparison,
                 "summary": summary,
                 "prediction": prediction,
+                "fight_iq": fight_iq,
             }
 
         return {

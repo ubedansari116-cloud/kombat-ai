@@ -30,7 +30,19 @@ advisor = load_advisor()
 radar = RadarChart()
 
 st.title("🥰 Kombat AI")
-st.caption("AI-powered UFC matchup analysis and fight prediction")
+st.divider()
+st.markdown(
+    """
+### AI-Powered UFC Analytics Platform
+
+Analyze fighters using:
+
+- 🧠 Machine Learning Fight Prediction
+- 📊 Tactical Attribute Radar
+- ⚔ Statistical Matchup Analysis
+- 📈 AI Fight Intelligence
+"""
+)
 
 fighter_names = sorted(advisor.retriever.fighter_names)
 
@@ -68,6 +80,7 @@ if compare_button:
         with st.spinner("Analysing matchup..."):
             query = f"Compare {fighter_one} and {fighter_two}"
             result = advisor.answer(query)
+            st.write(result.keys())
 
         prediction = result["prediction"]
         comparison = result["comparison"]
@@ -145,6 +158,65 @@ if compare_button:
         st.divider()
 
         # ===========================
+        # FIGHT IQ ANALYSIS
+        # ===========================
+
+    st.subheader("🧠 Fight IQ Analysis")
+
+    f1 = result["fight_iq"]["fighter_one"]
+    f2 = result["fight_iq"]["fighter_two"]
+
+    left, right = st.columns(2)
+
+    with left:
+
+        st.markdown(f"## {fighter_one}")
+        st.metric("Fight IQ", f1["fight_iq"])
+        st.success(f1["grade"])
+
+        st.markdown("### 💪 Strengths")
+        if f1["strengths"]:
+            for strength in f1["strengths"]:
+                st.write(f"✅ {strength}")
+        else:
+            st.write("No standout strengths detected.")
+
+        st.markdown("### ⚠ Weaknesses")
+        if f1["weaknesses"]:
+            for weakness in f1["weaknesses"]:
+                st.write(f"⚠ {weakness}")
+        else:
+            st.write("No major weaknesses detected.")
+
+        st.markdown("### 🎯 Gameplan")
+        for tip in f1["gameplan"]:
+            st.write(f"• {tip}")
+
+    with right:
+
+        st.markdown(f"## {fighter_two}")
+        st.metric("Fight IQ", f2["fight_iq"])
+        st.success(f2["grade"])
+
+        st.markdown("### 💪 Strengths")
+        if f2["strengths"]:
+            for strength in f2["strengths"]:
+                st.write(f"✅ {strength}")
+        else:
+            st.write("No standout strengths detected.")
+
+        st.markdown("### ⚠ Weaknesses")
+        if f2["weaknesses"]:
+            for weakness in f2["weaknesses"]:
+                st.write(f"⚠ {weakness}")
+        else:
+            st.write("No major weaknesses detected.")
+
+        st.markdown("### 🎯 Gameplan")
+        for tip in f2["gameplan"]:
+            st.write(f"• {tip}")
+
+        # ===========================
         # SUMMARY
         # ===========================
 
@@ -157,24 +229,52 @@ if compare_button:
         # COMPARISON TABLE
         # ===========================
 
-    st.subheader("Statistical Comparison")
-
-    comparison_rows = []
+    st.subheader("📊 Statistical Comparison")
 
     for item in comparison["advantages"]:
-            comparison_rows.append(
-                {
-                    "Metric": item["metric"],
-                    fighter_one: item["fighter_one_value"],
-                    fighter_two: item["fighter_two_value"],
-                    "Advantage": item["winner"],
-                }
-            )
 
-    comparison_dataframe = pd.DataFrame(comparison_rows)
+        winner = item["winner"]
 
-    st.dataframe(
-            comparison_dataframe,
-            use_container_width=True,
-            hide_index=True,
+        if winner == fighter_one:
+            icon = "🟥"
+        elif winner == fighter_two:
+            icon = "🟦"
+        else:
+            icon = "⚪"
+
+        left, middle, right = st.columns([4, 1, 4], vertical_alignment="center")
+
+        with left:
+            st.markdown(
+            f"<div style='text-align:left;font-weight:bold'>{fighter_one}</div>",
+            unsafe_allow_html=True,
         )
+            st.markdown(
+            f"<h2 style='text-align:left'>{item['fighter_one_value']}</h2>",
+            unsafe_allow_html=True,
+        )
+
+        with middle:
+            st.markdown(
+            f"""
+            <div style="text-align:center;">
+                <div style="font-size:34px;">{icon}</div>
+                <div style="font-size:14px;margin-top:8px;">
+                    {item["metric"]}
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+        with right:
+            st.markdown(
+            f"<div style='text-align:right;font-weight:bold'>{fighter_two}</div>",
+            unsafe_allow_html=True,
+        )
+            st.markdown(
+            f"<h2 style='text-align:right'>{item['fighter_two_value']}</h2>",
+            unsafe_allow_html=True,
+        )
+
+        st.divider()

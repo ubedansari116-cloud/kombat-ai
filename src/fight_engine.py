@@ -87,158 +87,87 @@ class FightEngine:
             score += attributes[attribute] * weight
 
         return round(score, 1)
+    
+    def generate_report(self, stats):
 
-    # ---------------------------------------------------
-    # Style Bonus
-    # ---------------------------------------------------
+        attributes = self.calculate_attributes(stats)
+        score = self.calculate_fight_iq(attributes)
 
-    def calculate_style_bonus(self, attributes):
-
-        bonus = 0
-
-        if attributes["wrestling"] > 80:
-            bonus += 3
-
-        if attributes["grappling"] > 80:
-            bonus += 2
-
-        if attributes["striking"] > 85:
-            bonus += 2
-
-        if attributes["defense"] > 85:
-            bonus += 2
-
-        if attributes["striking"] > 75 and attributes["defense"] > 75:
-            bonus += 2
-
-        if attributes["wrestling"] > 75 and attributes["grappling"] > 75:
-            bonus += 2
-
-        return bonus
-
-    # ---------------------------------------------------
-    # Strength Detection
-    # ---------------------------------------------------
-
-    def generate_strengths(self, stats):
+        if score >= 90:
+            grade = "🟢 Elite"
+        elif score >= 80:
+            grade = "🔵 A"
+        elif score >= 70:
+            grade = "🟡 B"
+        elif score >= 60:
+            grade = "🟠 C"
+        else:
+            grade = "🔴 D"
 
         strengths = []
-
-        if stats["striking_accuracy"] >= 55:
-            strengths.append("Elite striking accuracy")
-
-        if stats["splm"] >= 5:
-            strengths.append("High striking output")
-
-        if stats["strike_defense"] >= 60:
-            strengths.append("Excellent striking defence")
-
-        if stats["takedown_avg"] >= 2.5:
-            strengths.append("Dangerous offensive wrestling")
-
-        if stats["takedown_accuracy"] >= 50:
-            strengths.append("Efficient takedowns")
-
-        if stats["takedown_defense"] >= 80:
-            strengths.append("Elite takedown defence")
-
-        if stats["submission_avg"] >= 1:
-            strengths.append("Submission threat")
-
-        if stats["wins"] >= 20:
-            strengths.append("Highly experienced")
-
-        return strengths
-
-        # ---------------------------------------------------
-
-    # Weakness Detection
-    # ---------------------------------------------------
-
-    def generate_weaknesses(self, stats):
-
         weaknesses = []
+        gameplan = []
 
-        if stats["striking_accuracy"] < 40:
-            weaknesses.append("Low striking accuracy")
+        # ---------- Strengths ----------
 
-        if stats["sapm"] > 4:
-            weaknesses.append("Absorbs significant damage")
+        if attributes["striking"] >= 80:
+            strengths.append("Elite striking")
 
-        if stats["strike_defense"] < 50:
+        if attributes["wrestling"] >= 80:
+            strengths.append("Elite wrestling")
+
+        if attributes["grappling"] >= 80:
+            strengths.append("Elite grappling")
+
+        if attributes["defense"] >= 80:
+            strengths.append("Excellent defensive awareness")
+
+        if attributes["physical"] >= 85:
+            strengths.append("Excellent physical tools")
+
+        # ---------- Weaknesses ----------
+
+        if attributes["defense"] < 45:
             weaknesses.append("Can be hit consistently")
 
-        if stats["takedown_avg"] < 1:
-            weaknesses.append("Limited offensive wrestling")
-
-        if stats["takedown_accuracy"] < 35:
-            weaknesses.append("Low takedown success")
-
-        if stats["takedown_defense"] < 60:
+        if attributes["wrestling"] < 35:
             weaknesses.append("Vulnerable to takedowns")
 
-        if stats["submission_avg"] < 0.2:
+        if stats["sapm"] > 6:
+            weaknesses.append("Absorbs significant damage")
+
+        if attributes["grappling"] < 35:
             weaknesses.append("Limited submission threat")
 
-        return weaknesses
+        # ---------- Gameplan ----------
 
-    # ---------------------------------------------------
-    # Tactical Gameplan
-    # ---------------------------------------------------
+        if attributes["striking"] > attributes["wrestling"]:
+            gameplan.append("Keep the fight standing.")
 
-    def generate_gameplan(
-        self,
-        fighter_name,
-        fighter_stats,
-        opponent_name,
-        opponent_stats,
-    ):
+        if attributes["wrestling"] > attributes["striking"]:
+            gameplan.append("Mix in takedowns.")
 
-        plan = []
+        if attributes["physical"] > 80:
+            gameplan.append("Use pace and pressure.")
 
-        # ---------- STRIKING ----------
+        if attributes["grappling"] > 75:
+            gameplan.append("Threaten submissions when opportunities arise.")
 
-        if (
-            fighter_stats["striking_accuracy"]
-            > opponent_stats["striking_accuracy"]
-        ):
-            plan.append("Use striking advantage to control exchanges.")
-
-        # ---------- WRESTLING ----------
-
-        if fighter_stats["takedown_avg"] > opponent_stats["takedown_avg"] + 1:
-            plan.append("Mix wrestling early to dictate the pace.")
-
-        # ---------- SUBMISSIONS ----------
-
-        if opponent_stats["submission_avg"] >= 1:
-            plan.append("Avoid extended grappling exchanges.")
-
-        # ---------- DEFENSE ----------
-
-        if fighter_stats["strike_defense"] < opponent_stats["strike_defense"]:
-            plan.append(
-                "Maintain head movement and avoid prolonged exchanges."
-            )
-
-        # ---------- RANGE ----------
-
-        if fighter_stats["reach"] > opponent_stats["reach"] + 5:
-            plan.append("Fight behind the jab and maintain range.")
-
-        # ---------- PRESSURE ----------
-
-        if fighter_stats["sapm"] < opponent_stats["sapm"]:
-            plan.append("Pressure the opponent and force mistakes.")
-
-        if len(plan) == 0:
-
-            plan.append(
+        if not gameplan:
+            gameplan.append(
                 "Maintain a balanced approach and adjust throughout the fight."
             )
 
-        return plan
+        return {
+            "fight_iq": score,
+            "grade": grade,
+            "attributes": attributes,
+            "strengths": strengths,
+            "weaknesses": weaknesses,
+            "gameplan": gameplan,
+        }
 
+    
     # ---------------------------------------------------
     # Compare Attributes
     # ---------------------------------------------------
