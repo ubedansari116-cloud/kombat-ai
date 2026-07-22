@@ -80,7 +80,6 @@ if compare_button:
         with st.spinner("Analysing matchup..."):
             query = f"Compare {fighter_one} and {fighter_two}"
             result = advisor.answer(query)
-            st.write(result.keys())
 
         prediction = result["prediction"]
         comparison = result["comparison"]
@@ -171,50 +170,136 @@ if compare_button:
     with left:
 
         st.markdown(f"## {fighter_one}")
-        st.metric("Fight IQ", f1["fight_iq"])
-        st.success(f1["grade"])
+        st.markdown(
+            f"""
+            <div style="
+                background:#1e1e1e;
+                padding:18px;
+                border-radius:12px;
+                text-align:center;
+                border:1px solid #444;
+            ">
+                <div style="font-size:48px;font-weight:bold;">
+                    {f1["fight_iq"]}
+                </div>
+                <div style="font-size:22px;">
+                    {f1["grade"]}
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
-        st.markdown("### 💪 Strengths")
+        st.markdown("### 📊 Core Attributes")
+
+        ATTRIBUTE_DESCRIPTIONS = {
+            "striking": "Offensive striking ability",
+            "defense": "Ability to avoid damage",
+            "wrestling": "Offensive takedown ability",
+            "grappling": "Submission and ground threat",
+            "physical": "Reach, size and athletic tools",
+            "experience": "Career experience and consistency",
+        }
+
+        for label, value in f1["attributes"].items():
+
+            st.write(f"**{label.title()}**")
+
+            st.progress(value / 100)
+
+            st.caption(
+                f"{value:.1f}/100 • {ATTRIBUTE_DESCRIPTIONS[label]}"
+            )
+
+        st.markdown("---")
+
+        st.markdown("### ⭐ Primary Weapons")
+
         if f1["strengths"]:
             for strength in f1["strengths"]:
-                st.write(f"✅ {strength}")
+                st.success(strength)
         else:
-            st.write("No standout strengths detected.")
+            st.info("No standout strengths detected.")
 
-        st.markdown("### ⚠ Weaknesses")
+        st.markdown("### 🚨 Vulnerabilities")
+
         if f1["weaknesses"]:
             for weakness in f1["weaknesses"]:
-                st.write(f"⚠ {weakness}")
+                st.warning(weakness)
         else:
-            st.write("No major weaknesses detected.")
+            st.success("No major weaknesses detected.")
 
-        st.markdown("### 🎯 Gameplan")
+        st.markdown("### 🎯 Recommended Gameplan")
+
         for tip in f1["gameplan"]:
-            st.write(f"• {tip}")
+            st.info(tip)
 
     with right:
 
         st.markdown(f"## {fighter_two}")
-        st.metric("Fight IQ", f2["fight_iq"])
-        st.success(f2["grade"])
+        st.markdown(
+            f"""
+            <div style="
+                background:#1e1e1e;
+                padding:18px;
+                border-radius:12px;
+                text-align:center;
+                border:1px solid #444;
+            ">
+                <div style="font-size:48px;font-weight:bold;">
+                    {f2["fight_iq"]}
+                </div>
+                <div style="font-size:22px;">
+                    {f2["grade"]}
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
-        st.markdown("### 💪 Strengths")
+        st.markdown("### 📊 Core Attributes")
+
+        ATTRIBUTE_DESCRIPTIONS = {
+            "striking": "Offensive striking ability",
+            "defense": "Ability to avoid damage",
+            "wrestling": "Offensive takedown ability",
+            "grappling": "Submission and ground threat",
+            "physical": "Reach, size and athletic tools",
+            "experience": "Career experience and consistency",
+        }
+
+        for label, value in f2["attributes"].items():
+
+            st.write(f"**{label.title()}**")
+
+            st.progress(value / 100)
+
+            st.caption(
+                f"{value:.1f}/100 • {ATTRIBUTE_DESCRIPTIONS[label]}"
+            )
+        st.markdown("---")
+
+        st.markdown("### ⭐ Primary Weapons")
+
         if f2["strengths"]:
             for strength in f2["strengths"]:
-                st.write(f"✅ {strength}")
+                st.success(strength)
         else:
-            st.write("No standout strengths detected.")
+            st.info("No standout strengths detected.")
 
-        st.markdown("### ⚠ Weaknesses")
+        st.markdown("### 🚨 Vulnerabilities")
+
         if f2["weaknesses"]:
             for weakness in f2["weaknesses"]:
-                st.write(f"⚠ {weakness}")
+                st.warning(weakness)
         else:
-            st.write("No major weaknesses detected.")
+            st.success("No major weaknesses detected.")
 
-        st.markdown("### 🎯 Gameplan")
+        st.markdown("### 🎯 Recommended Gameplan")
+
         for tip in f2["gameplan"]:
-            st.write(f"• {tip}")
+            st.info(tip)
+
 
         # ===========================
         # SUMMARY
