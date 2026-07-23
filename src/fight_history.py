@@ -392,6 +392,3 @@ class FightHistory:
             fighter_name,
         )
     
-
-    def get_top_fights(self, fighter_name):
-        pass

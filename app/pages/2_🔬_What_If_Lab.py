@@ -57,6 +57,47 @@ history = FightHistory()
 advisor = load_advisor()
 left, right = st.columns(2)
 
+def reset_fighter_one():
+
+    st.session_state.fighter_one_str_acc = float(
+        original_stats_one["striking_accuracy"]
+    )
+
+    st.session_state.fighter_one_str_def = float(
+        original_stats_one["strike_defense"]
+    )
+
+    st.session_state.fighter_one_td_acc = float(
+        original_stats_one["takedown_accuracy"]
+    )
+
+    st.session_state.fighter_one_td_def = float(
+        original_stats_one["takedown_defense"]
+    )
+
+    st.session_state.simulation_started = False
+
+
+def reset_fighter_two():
+
+    st.session_state.fighter_two_str_acc = float(
+        original_stats_two["striking_accuracy"]
+    )
+
+    st.session_state.fighter_two_str_def = float(
+        original_stats_two["strike_defense"]
+    )
+
+    st.session_state.fighter_two_td_acc = float(
+        original_stats_two["takedown_accuracy"]
+    )
+
+    st.session_state.fighter_two_td_def = float(
+        original_stats_two["takedown_defense"]
+    )
+
+    st.session_state.simulation_started = False
+
 with left:
 
     version_one = st.radio(
@@ -74,6 +115,23 @@ with right:
         horizontal=True,
         key="version_two",
     )
+
+if "simulation_started" not in st.session_state:
+    st.session_state.simulation_started = False
+
+if "last_matchup" not in st.session_state:
+    st.session_state.last_matchup = None
+
+current_matchup = (
+    fighter_one,
+    fighter_two,
+    version_one,
+    version_two,
+)
+
+if st.session_state.last_matchup != current_matchup:
+    st.session_state.simulation_started = False
+    st.session_state.last_matchup = current_matchup
 
 if version_one == "Overall":
     snapshot_one = None
@@ -106,6 +164,11 @@ if snapshot_one is not None:
 
 if snapshot_two is not None:
     stats_two.update(snapshot_two["stats"])
+
+import copy
+
+original_stats_one = copy.deepcopy(stats_one)
+original_stats_two = copy.deepcopy(stats_two)
 
 if st.session_state.get("loaded_fighter1") != (fighter_one, version_one):
 
@@ -175,10 +238,11 @@ with left:
     stats_one["takedown_defense"] = takedown_defense
 
     st.button(
-        "Reset Stats",
-        key="reset_left",
-        use_container_width=True,
-    )
+    "Reset Stats",
+    key="reset_left",
+    use_container_width=True,
+    on_click=reset_fighter_one,
+)
     
 
 # ===========================
@@ -230,9 +294,17 @@ with right:
         "Reset Stats",
         key="reset_right",
         use_container_width=True,
+        on_click=reset_fighter_two,
     )
 
 st.divider()
+
+if "last_matchup" not in st.session_state:
+    st.session_state.last_matchup = None
+
+if "simulation_started" not in st.session_state:
+    st.session_state.simulation_started = False
+
 
 run = st.button(
     "Run Simulation",
@@ -241,6 +313,10 @@ run = st.button(
 )
 
 if run:
+    st.session_state.simulation_started = True
+
+
+if st.session_state.simulation_started:
 
     result = advisor.predictor.predict(
         fighter_one_name=fighter_one,
@@ -266,3 +342,5 @@ if run:
             fighter_two,
             f"{result['fighter_two_probability']}%"
         )
+
+    
