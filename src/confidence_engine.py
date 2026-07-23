@@ -60,6 +60,13 @@ class ConfidenceEngine:
         confidence_score += attribute_score
 
         # ----------------------------
+        # Clamp confidence
+        # ----------------------------
+
+        confidence_score = max(0, confidence_score)
+        confidence_score = min(100, confidence_score)
+
+        # ----------------------------
         # Confidence Tier
         # ----------------------------
 

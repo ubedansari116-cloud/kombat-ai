@@ -136,21 +136,63 @@ class KombatPredictor:
         division=None,
         title_fight=False,
     ):
-        features = self.build_feature_row(
+
+        # ----------------------------
+        # Forward prediction
+        # ----------------------------
+
+        forward_features = self.build_feature_row(
             fighter_one_stats=fighter_one_stats,
             fighter_two_stats=fighter_two_stats,
             division=division,
             title_fight=title_fight,
         )
 
-        probabilities = self.model.predict_proba(features)[0]
+        forward_probability = self.model.predict_proba(forward_features)[0]
+
         model_classes = list(self.model.classes_)
 
         fighter_one_index = model_classes.index(1)
-        fighter_one_probability = float(
-            probabilities[fighter_one_index] * 100
+
+        forward_probability = float(
+            forward_probability[fighter_one_index]
         )
-        fighter_two_probability = 100.0 - fighter_one_probability
+
+        # ----------------------------
+        # Reverse prediction
+        # ----------------------------
+
+        reverse_features = self.build_feature_row(
+            fighter_one_stats=fighter_two_stats,
+            fighter_two_stats=fighter_one_stats,
+            division=division,
+            title_fight=title_fight,
+        )
+
+        reverse_probability = self.model.predict_proba(reverse_features)[0]
+
+        reverse_probability = float(
+            reverse_probability[fighter_one_index]
+        )
+
+        # Convert reverse prediction back into
+        # fighter one's perspective
+
+        reverse_probability = 1.0 - reverse_probability
+
+        # ----------------------------
+        # Average both predictions
+        # ----------------------------
+
+        fighter_one_probability = (
+            forward_probability +
+            reverse_probability
+        ) / 2
+
+        fighter_two_probability = 1.0 - fighter_one_probability
+
+        fighter_one_probability *= 100
+        fighter_two_probability *= 100
 
         predicted_winner = (
             fighter_one_name
