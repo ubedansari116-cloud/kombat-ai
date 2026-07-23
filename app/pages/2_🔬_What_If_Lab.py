@@ -1,6 +1,8 @@
 import sys
 from pathlib import Path
 import streamlit as st
+from confidence_engine import ConfidenceEngine
+from explainability_engine import ExplainabilityEngine
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 SRC_PATH = PROJECT_ROOT / "src"
@@ -55,6 +57,8 @@ with right:
 from fight_history import FightHistory
 history = FightHistory()
 advisor = load_advisor()
+confidence_engine = ConfidenceEngine()
+explainability_engine = ExplainabilityEngine()
 left, right = st.columns(2)
 
 def reset_fighter_one():
@@ -325,6 +329,19 @@ if st.session_state.simulation_started:
         fighter_two_stats=stats_two,
     )
 
+    confidence = confidence_engine.calculate(
+    result=result,
+    stats_one=stats_one,
+    stats_two=stats_two,
+)
+    explanation = explainability_engine.generate(
+    result=result,
+    stats_one=stats_one,
+    stats_two=stats_two,
+    fighter_one=fighter_one,
+    fighter_two=fighter_two,
+)
+
     st.success(
         f"Predicted Winner: {result['predicted_winner']}"
     )
@@ -343,4 +360,22 @@ if st.session_state.simulation_started:
             f"{result['fighter_two_probability']}%"
         )
 
-    
+    st.divider()
+
+    st.subheader("Confidence")
+
+    st.metric(
+        confidence["tier"],
+        f"{confidence['score']:.1f}/100",
+    )
+
+    st.write("Reasons")
+
+    for reason in confidence["reasons"]:
+        st.write(f"• {reason}")
+
+    st.divider()
+
+    st.subheader("Prediction Summary")
+
+    st.write(explanation)

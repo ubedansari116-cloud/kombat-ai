@@ -361,6 +361,9 @@ class FightHistory:
 
         stats["takedown_defense"] = self.safe_mean(takedown_defense)
 
+        prime_length = len(prime_fights.index)
+
+
         return {
             "fighter": fighter_name,
             "event": "Prime Career",
