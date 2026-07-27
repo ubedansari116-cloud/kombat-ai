@@ -32,7 +32,6 @@ ai_coach = AICoach()
 recommendation_engine = RecommendationEngine()
 memory = MemoryEngine()
 saved_profile = memory.recall_user("general")
-st.write(saved_profile)
 
 st.title("🧠 AI Coach")
 
