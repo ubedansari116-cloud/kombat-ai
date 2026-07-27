@@ -3,12 +3,14 @@ import re
 from predictor import KombatPredictor
 from rag_retriever import FighterRetriever
 from fight_engine import FightEngine
+from ai_coach import AICoach
 
 class KombatAdvisor:
     def __init__(self):
         self.retriever = FighterRetriever()
         self.predictor = KombatPredictor()
         self.fight_engine = FightEngine()
+        self.ai_coach = AICoach()
 
     def extract_stats(self, document):
         patterns = {

@@ -89,7 +89,7 @@ class RadarChart:
         angles += angles[:1]
 
         fig, ax = plt.subplots(
-            figsize=(4.6, 4.6),
+            figsize=(4.8, 5.2),
             subplot_kw=dict(polar=True),
         )
 
@@ -154,4 +154,18 @@ class RadarChart:
 
         ax.spines["polar"].set_color("#666666")
 
+        legend = ax.legend(
+            loc="upper center",
+            bbox_to_anchor=(0.5, -0.12),
+            ncol=2,
+            frameon=False,
+            fontsize=10,
+        )
+
+        for text in legend.get_texts():
+            text.set_color("white")
+
+        plt.tight_layout()
+
+        return fig
         return fig

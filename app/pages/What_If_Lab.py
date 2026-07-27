@@ -1,8 +1,8 @@
 import sys
 from pathlib import Path
 import streamlit as st
-from confidence_engine import ConfidenceEngine
-from explainability_engine import ExplainabilityEngine
+from src.confidence_engine import ConfidenceEngine
+from src.explainability_engine import ExplainabilityEngine
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 SRC_PATH = PROJECT_ROOT / "src"
@@ -10,7 +10,7 @@ SRC_PATH = PROJECT_ROOT / "src"
 if str(SRC_PATH) not in sys.path:
     sys.path.insert(0, str(SRC_PATH))
 
-from rag_advisor import KombatAdvisor
+from src.rag_advisor import KombatAdvisor
 
 st.set_page_config(
     page_title="What If Lab",
@@ -22,7 +22,7 @@ st.set_page_config(
 def load_advisor():
     return KombatAdvisor()
 
-from fighter_repository import FighterRepository
+from src.fighter_repository import FighterRepository
 
 repository = FighterRepository()
 
@@ -54,7 +54,7 @@ with right:
         key="fighter_two",
     )
 
-from fight_history import FightHistory
+from src.fight_history import FightHistory
 history = FightHistory()
 advisor = load_advisor()
 confidence_engine = ConfidenceEngine()
