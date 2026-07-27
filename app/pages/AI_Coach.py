@@ -12,7 +12,7 @@ if str(SRC_PATH) not in sys.path:
 from src.rag_advisor import KombatAdvisor
 from src.fighter_repository import FighterRepository
 from src.ai_coach import AICoach
-
+from src.recommendation_engine import RecommendationEngine
 st.set_page_config(
     page_title="AI Coach",
     page_icon="🧠",
@@ -31,10 +31,14 @@ advisor = load_advisor()
 
 ai_coach = AICoach()
 
+recommendation_engine = RecommendationEngine()
+
 st.title("🧠 AI Coach")
 
 st.caption(
-    "Performance analysis, coaching insights and personalised improvement plans."
+    "Your chosen fighter serves as a blueprint, not a destination. " \
+    "Kombat AI combines their fighting principles with your goals, " \
+    "experience and training profile to generate coaching tailored specifically to you."
 )
 
 st.divider()
@@ -50,13 +54,15 @@ with st.container():
 
 st.divider()
 
-generate_report = st.button(
+if st.button(
     "Generate AI Report",
     type="primary",
     use_container_width=True,
-)
+):
+    st.session_state["report_generated"] = True
+    st.session_state["training_plan"] = False
 
-if generate_report:
+if st.session_state.get("report_generated", False):
 
     profile = repository.get_fighter(fighter_name)
 
@@ -178,3 +184,167 @@ if generate_report:
         for weakness in assessment["weaknesses"]:
 
             st.warning(weakness)
+
+    st.divider()
+
+    st.subheader("🏋 Athlete Profile")
+
+    left, right = st.columns(2)
+
+    with left:
+
+        user_goal = st.selectbox(
+            "Primary Goal",
+            [
+                "Become a Better Striker",
+                "Become a Better Wrestler",
+                "Become More Well Rounded",
+                "Prepare for Amateur MMA",
+                "Prepare for Professional MMA",
+                "Improve Cardio",
+            ],
+        )
+
+        user_level = st.selectbox(
+            "Experience Level",
+            [
+                "Beginner",
+                "Intermediate",
+                "Advanced",
+            ],
+        )
+
+        training_days = st.slider(
+            "Training Days Per Week",
+            1,
+            7,
+            4,
+        )
+
+    with right:
+
+        preparing_for_fight = st.toggle(
+            "Currently Preparing For A Fight",
+        )
+
+        user_weakness = st.selectbox(
+            "Your Biggest Weakness",
+            [
+                "Striking",
+                "Wrestling",
+                "Defence",
+                "Cardio",
+                "Fight IQ",
+            ],
+        )
+
+        training_environment = st.selectbox(
+            "Training Environment",
+            [
+                "Home Training",
+                "Local Gym",
+                "Professional MMA Gym",
+            ],
+        )
+
+    st.divider()
+
+    if st.button(
+        "🧠 Generate Personal Training Plan",
+        type="primary",
+        use_container_width=True,
+    ):
+        st.session_state["training_plan"] = True
+
+if st.session_state.get("training_plan", False):
+    blueprint = recommendation_engine.build_training_blueprint(
+        fighter_profile=assessment,
+        user_goal=user_goal,
+        experience=user_level,
+        training_days=training_days,
+        fight_camp=preparing_for_fight,
+        weakness=user_weakness,
+        training_environment=training_environment,
+    )
+
+    st.divider()
+
+    st.subheader("🎯 Personal Training Blueprint")
+
+    left, right = st.columns(2)
+
+    with left:
+
+        st.metric(
+            "Primary Focus",
+            blueprint["primary_focus"],
+        )
+
+        st.metric(
+            "Secondary Focus",
+            blueprint["secondary_focus"],
+        )
+
+        st.metric(
+            "Training Volume",
+            blueprint["training_volume"],
+        )
+
+        st.metric(
+            "Session Duration",
+            blueprint["session_duration"],
+        )
+
+    with right:
+
+        st.metric(
+            "Intensity",
+            blueprint["intensity"],
+        )
+
+        st.write("### Fighter Principles")
+
+        for principle in blueprint["fighter_principles"]:
+
+            st.success(principle)
+
+    st.divider()
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+
+        st.subheader("🥋 Technical Focus")
+
+        for drill in blueprint["technical_focus"]:
+
+            st.info(drill)
+
+    with col2:
+
+        st.subheader("🏃 Conditioning Focus")
+
+        for item in blueprint["conditioning_focus"]:
+
+            st.warning(item)
+
+    st.divider()
+
+    st.subheader("🎥 Film Study")
+
+    for video in blueprint["film_study"]:
+
+        st.success(video)
+
+    st.divider()
+
+    st.write("### Training Priority")
+
+    for index, priority in enumerate(
+        blueprint["priority_order"],
+        start=1,
+    ):
+
+        st.info(
+            f"{index}. {priority}"
+        )

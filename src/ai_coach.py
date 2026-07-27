@@ -56,6 +56,10 @@ class AICoach:
         report["style"] = style
         report["style_description"] = description
 
+        report["training_priorities"] = self.build_training_priorities(
+        report,
+        )
+
         return report
     
     def detect_strengths(
@@ -126,6 +130,53 @@ class AICoach:
             weaknesses.append("No Major Weaknesses Identified")
 
         return weaknesses
+    
+    def build_training_priorities(
+        self,
+        assessment,
+    ):
+
+        priorities = []
+
+        recommendation_map = {
+
+            "Striking": [
+                "Increase striking accuracy through combination drills.",
+                "Improve shot selection and finishing efficiency.",
+            ],
+
+            "Wrestling": [
+                "Develop chain wrestling and cage control.",
+                "Improve takedown entries from striking exchanges.",
+            ],
+
+            "Defence": [
+                "Focus on defensive footwork and head movement.",
+                "Reduce damage taken through reaction training.",
+            ],
+
+            "Decision Making": [
+                "Increase situational sparring against varied styles.",
+                "Study fight footage to improve tactical decision making.",
+            ],
+
+        }
+
+        for weakness in assessment["weaknesses"]:
+
+            if weakness in recommendation_map:
+
+                priorities.extend(
+                    recommendation_map[weakness]
+                )
+
+        if len(priorities) == 0:
+
+            priorities.append(
+                "Maintain current training balance while refining existing strengths."
+            )
+
+        return priorities[:3]
     
     def identify_style(
         self,
