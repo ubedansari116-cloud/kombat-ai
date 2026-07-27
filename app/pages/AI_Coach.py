@@ -13,6 +13,8 @@ from src.rag_advisor import KombatAdvisor
 from src.fighter_repository import FighterRepository
 from src.ai_coach import AICoach
 from src.recommendation_engine import RecommendationEngine
+from src.memory_engine import MemoryEngine
+
 st.set_page_config(
     page_title="AI Coach",
     page_icon="🧠",
@@ -24,14 +26,13 @@ def load_advisor():
     return KombatAdvisor()
 
 repository = FighterRepository()
-
 fighter_names = repository.get_all_fighters()
-
 advisor = load_advisor()
-
 ai_coach = AICoach()
-
 recommendation_engine = RecommendationEngine()
+memory = MemoryEngine()
+saved_profile = memory.recall_user("general")
+st.write(saved_profile)
 
 st.title("🧠 AI Coach")
 
@@ -265,6 +266,29 @@ if st.session_state.get("training_plan", False):
         fight_camp=preparing_for_fight,
         weakness=user_weakness,
         training_environment=training_environment,
+    )
+
+
+    # --------------------------
+    # Save User Memory
+    # --------------------------
+
+    memory.remember_user(
+
+        "general",
+
+        {
+
+            "fighter": fighter_name,
+            "goal": user_goal,
+            "experience": user_level,
+            "training_days": training_days,
+            "fight_camp": preparing_for_fight,
+            "weakness": user_weakness,
+            "training_environment": training_environment,
+
+        }
+
     )
 
     st.divider()

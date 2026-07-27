@@ -1,0 +1,11 @@
+{
+    "general": {
+        "fighter": "Charles Oliveira",
+        "goal": "Prepare for Amateur MMA",
+        "experience": "Beginner",
+        "training_days": 6,
+        "fight_camp": true,
+        "weakness": "Cardio",
+        "training_environment": "Local Gym"
+    }
+}
