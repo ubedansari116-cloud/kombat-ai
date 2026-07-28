@@ -14,6 +14,7 @@ from src.fighter_repository import FighterRepository
 from src.ai_coach import AICoach
 from src.recommendation_engine import RecommendationEngine
 from src.memory_engine import MemoryEngine
+from src.llm_coach import LLMCoach
 
 st.set_page_config(
     page_title="AI Coach",
@@ -30,6 +31,7 @@ fighter_names = repository.get_all_fighters()
 advisor = load_advisor()
 ai_coach = AICoach()
 recommendation_engine = RecommendationEngine()
+coach = LLMCoach()
 memory = MemoryEngine()
 saved_profile = memory.recall_user("general")
 
@@ -267,6 +269,17 @@ if st.session_state.get("training_plan", False):
         training_environment=training_environment,
     )
 
+    training_report = coach.generate_training_plan(
+        athlete_profile=saved_profile,
+        blueprint=blueprint,
+        memory=saved_profile,
+    )
+
+    st.divider()
+
+    st.subheader("🤖 AI Coach")
+
+    st.markdown(training_report)
 
     # --------------------------
     # Save User Memory

@@ -3,6 +3,7 @@ from pathlib import Path
 import streamlit as st
 from src.confidence_engine import ConfidenceEngine
 from src.explainability_engine import ExplainabilityEngine
+from src.llm_coach import LLMCoach
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 SRC_PATH = PROJECT_ROOT / "src"
@@ -13,8 +14,8 @@ if str(SRC_PATH) not in sys.path:
 from src.rag_advisor import KombatAdvisor
 
 st.set_page_config(
-    page_title="What If Lab",
-    page_icon="🔬",
+    page_title="Fight Fantasy",
+    page_icon="😝",
     layout="wide",
 )
 
@@ -25,13 +26,13 @@ def load_advisor():
 from src.fighter_repository import FighterRepository
 
 repository = FighterRepository()
-
 fighter_names = repository.get_all_fighters()
 
 st.title("🔬 What If Lab")
 
 st.caption(
-    "Modify a fighter's attributes and instantly see how the predicted outcome changes."
+    "Satisfy your curiosity by creating impossible matchups"
+    " and modifying their attributes."
 )
 
 st.divider()
@@ -59,6 +60,7 @@ history = FightHistory()
 advisor = load_advisor()
 confidence_engine = ConfidenceEngine()
 explainability_engine = ExplainabilityEngine()
+coach = LLMCoach()
 left, right = st.columns(2)
 
 def reset_fighter_one():
@@ -376,6 +378,33 @@ if st.session_state.simulation_started:
 
     st.divider()
 
-    st.subheader("Prediction Summary")
+    st.subheader("🤖 AI Fight Analyst")
 
-    st.write(explanation)
+    with st.spinner("Analyzing every angle of the matchup..."):
+
+        fight_report = coach.generate_fight_breakdown(
+            fighter_a={
+                "name": fighter_one,
+                "stats": stats_one,
+            },
+            fighter_b={
+                "name": fighter_two,
+                "stats": stats_two,
+            },
+            simulation={
+                "prediction": result,
+                "confidence": confidence,
+                "explanation": explanation,
+            },
+        )
+
+    if fight_report:
+
+        st.markdown(fight_report)
+
+    else:
+
+        st.warning(
+    "AI analysis is temporarily unavailable.\n\n"
+    "The prediction engine completed successfully."
+        )

@@ -1,11 +1,11 @@
 {
     "general": {
-        "fighter": "Charles Oliveira",
-        "goal": "Prepare for Amateur MMA",
+        "fighter": "AJ Cunningham",
+        "goal": "Become a Better Striker",
         "experience": "Beginner",
-        "training_days": 6,
-        "fight_camp": true,
-        "weakness": "Cardio",
-        "training_environment": "Local Gym"
+        "training_days": 4,
+        "fight_camp": false,
+        "weakness": "Striking",
+        "training_environment": "Home Training"
     }
 }

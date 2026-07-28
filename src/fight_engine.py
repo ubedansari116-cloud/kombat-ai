@@ -33,10 +33,6 @@ class FightEngine:
     # ---------------------------------------------------
 
     def calculate_attributes(self, stats):
-        """
-        Converts raw UFC statistics into normalized
-        0-100 combat attributes.
-        """
 
         striking = (
             stats["striking_accuracy"] * 0.55
@@ -45,26 +41,35 @@ class FightEngine:
         )
 
         defense = (
-            stats["strike_defense"] * 0.55 + stats["takedown_defense"] * 0.45
+            stats["strike_defense"] * 0.55
+            + stats["takedown_defense"] * 0.45
         )
 
         wrestling = (
-            stats["takedown_avg"] * 18 + stats["takedown_accuracy"] * 0.60
+            stats["takedown_avg"] * 18
+            + stats["takedown_accuracy"] * 0.60
         )
 
-        grappling = stats["submission_avg"] * 35 + stats["takedown_avg"] * 8
+        grappling = (
+            stats["submission_avg"] * 35
+            + stats["takedown_avg"] * 8
+        )
 
-        physical = (stats["reach"] / 200) * 60 + (stats["height"] / 200) * 40
+        physical = (
+            (stats["reach"] / 200) * 60
+            + (stats["height"] / 200) * 40
+        )
 
         total_fights = stats["wins"] + stats["losses"]
 
         if total_fights == 0:
             experience = 50
-
         else:
             win_rate = stats["wins"] / total_fights
-
-            experience = win_rate * 70 + min(total_fights, 40) / 40 * 30
+            experience = (
+                win_rate * 70
+                + min(total_fights, 40) / 40 * 30
+            )
 
         return {
             "striking": self.clamp(striking),
@@ -74,7 +79,8 @@ class FightEngine:
             "physical": self.clamp(physical),
             "experience": self.clamp(experience),
         }
-
+    
+    
     # ---------------------------------------------------
     # Fight IQ Score
     # ---------------------------------------------------
@@ -157,6 +163,36 @@ class FightEngine:
             gameplan.append(
                 "Maintain a balanced approach and adjust throughout the fight."
             )
+        
+        # ---------- Momentum Curves ----------
+
+        standup_base = (
+            attributes["striking"] * 0.65
+            + attributes["defense"] * 0.35
+        )
+
+        ground_base = (
+            attributes["wrestling"] * 0.55
+            + attributes["grappling"] * 0.45
+        )
+
+        cardio = attributes["experience"]
+
+        standup_curve = [
+            self.clamp(standup_base + 4),
+            self.clamp(standup_base + 2),
+            self.clamp(standup_base),
+            self.clamp(standup_base - (100 - cardio) * 0.06),
+            self.clamp(standup_base - (100 - cardio) * 0.12),
+        ]
+
+        ground_curve = [
+            self.clamp(ground_base - 4),
+            self.clamp(ground_base - 1),
+            self.clamp(ground_base + 2),
+            self.clamp(ground_base + 4),
+            self.clamp(ground_base + 6),
+        ]
 
         return {
             "fight_iq": score,
@@ -165,6 +201,8 @@ class FightEngine:
             "strengths": strengths,
             "weaknesses": weaknesses,
             "gameplan": gameplan,
+            "standup_curve": standup_curve,
+            "ground_curve": ground_curve,
         }
 
     

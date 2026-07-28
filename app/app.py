@@ -11,8 +11,8 @@ SRC_PATH = PROJECT_ROOT / "src"
 if str(SRC_PATH) not in sys.path:
     sys.path.insert(0, str(SRC_PATH))
 
-from rag_advisor import KombatAdvisor
-from radar import RadarChart
+from src.rag_advisor import KombatAdvisor
+from src.radar import FightVisualizer
 
 st.set_page_config(
     page_title="Kombat AI",
@@ -27,7 +27,7 @@ def load_advisor():
 
 
 advisor = load_advisor()
-radar = RadarChart()
+visualizer = FightVisualizer()
 
 st.title("🥰 Kombat AI")
 st.divider()
@@ -84,6 +84,8 @@ if compare_button:
         prediction = result["prediction"]
         comparison = result["comparison"]
         summary = result["summary"]
+        f1 = result["fight_iq"]["fighter_one"]
+        f2 = result["fight_iq"]["fighter_two"]
 
         fighter_one_probability = prediction["fighter_one_probability"]
         fighter_two_probability = prediction["fighter_two_probability"]
@@ -143,7 +145,7 @@ if compare_button:
 
         st.subheader("Fighter Attribute Radar")
 
-        figure = radar.create_chart(
+        figure = visualizer.create_radar_chart(
             fighter_one_name=fighter_one,
             fighter_one_stats=result["fighters"][0]["stats"],
             fighter_two_name=fighter_two,
@@ -156,210 +158,146 @@ if compare_button:
             )
         st.divider()
 
-        # ===========================
-        # FIGHT IQ ANALYSIS
-        # ===========================
+    st.subheader("📊 Fight IQ Comparison")
 
-    st.subheader("🧠 Fight IQ Analysis")
+    comparison_chart = visualizer.create_attribute_comparison(
+        fighter_one_name=fighter_one,
+        fighter_two_name=fighter_two,
+        fighter_one_stats=result["fighters"][0]["stats"],
+        fighter_two_stats=result["fighters"][1]["stats"],
+    )
+    
 
-    f1 = result["fight_iq"]["fighter_one"]
-    f2 = result["fight_iq"]["fighter_two"]
+    st.pyplot(comparison_chart, clear_figure=True)
 
-    left, right = st.columns(2)
+    st.divider()
 
-    with left:
+    st.markdown("## 🎯 Tactical Breakdown")
 
-        st.markdown(f"## {fighter_one}")
-        st.markdown(
-            f"""
-            <div style="
-                background:#1e1e1e;
-                padding:18px;
-                border-radius:12px;
-                text-align:center;
-                border:1px solid #444;
-            ">
-                <div style="font-size:48px;font-weight:bold;">
-                    {f1["fight_iq"]}
-                </div>
-                <div style="font-size:22px;">
-                    {f1["grade"]}
-                </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
+    left_tactical, right_tactical = st.columns(2)
 
-        st.markdown("### 📊 Core Attributes")
+    with left_tactical:
 
-        ATTRIBUTE_DESCRIPTIONS = {
-            "striking": "Offensive striking ability",
-            "defense": "Ability to avoid damage",
-            "wrestling": "Offensive takedown ability",
-            "grappling": "Submission and ground threat",
-            "physical": "Reach, size and athletic tools",
-            "experience": "Career experience and consistency",
-        }
-
-        for label, value in f1["attributes"].items():
-
-            st.write(f"**{label.title()}**")
-
-            st.progress(value / 100)
-
-            st.caption(
-                f"{value:.1f}/100 • {ATTRIBUTE_DESCRIPTIONS[label]}"
-            )
-
-        st.markdown("---")
+        st.markdown(f"### {fighter_one}")
 
         st.markdown("### ⭐ Primary Weapons")
 
-        if f1["strengths"]:
-            for strength in f1["strengths"]:
-                st.success(strength)
-        else:
-            st.info("No standout strengths detected.")
+        for strength in f1["strengths"]:
+            st.markdown(
+                f"""
+                <div style="
+                    background:#173322;
+                    border-left:5px solid #22c55e;
+                    padding:14px;
+                    border-radius:10px;
+                    margin-bottom:10px;
+                ">
+                    {strength}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
         st.markdown("### 🚨 Vulnerabilities")
 
-        if f1["weaknesses"]:
-            for weakness in f1["weaknesses"]:
-                st.warning(weakness)
-        else:
-            st.success("No major weaknesses detected.")
-
+        for weakness in f1["weaknesses"]:
+            st.markdown(
+                f"""
+                <div style="
+                    background:#3a2b12;
+                    border-left:5px solid #f59e0b;
+                    padding:14px;
+                    border-radius:10px;
+                    margin-bottom:10px;
+                ">
+                    {weakness}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
         st.markdown("### 🎯 Recommended Gameplan")
 
         for tip in f1["gameplan"]:
-            st.info(tip)
-
-    with right:
-
-        st.markdown(f"## {fighter_two}")
-        st.markdown(
-            f"""
-            <div style="
-                background:#1e1e1e;
-                padding:18px;
-                border-radius:12px;
-                text-align:center;
-                border:1px solid #444;
-            ">
-                <div style="font-size:48px;font-weight:bold;">
-                    {f2["fight_iq"]}
+            st.markdown(
+                f"""
+                <div style="
+                    background:#13283d;
+                    border-left:5px solid #3b82f6;
+                    padding:14px;
+                    border-radius:10px;
+                    margin-bottom:10px;
+                ">
+                    {tip}
                 </div>
-                <div style="font-size:22px;">
-                    {f2["grade"]}
-                </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
-        st.markdown("### 📊 Core Attributes")
-
-        ATTRIBUTE_DESCRIPTIONS = {
-            "striking": "Offensive striking ability",
-            "defense": "Ability to avoid damage",
-            "wrestling": "Offensive takedown ability",
-            "grappling": "Submission and ground threat",
-            "physical": "Reach, size and athletic tools",
-            "experience": "Career experience and consistency",
-        }
-
-        for label, value in f2["attributes"].items():
-
-            st.write(f"**{label.title()}**")
-
-            st.progress(value / 100)
-
-            st.caption(
-                f"{value:.1f}/100 • {ATTRIBUTE_DESCRIPTIONS[label]}"
+                """,
+                unsafe_allow_html=True,
             )
-        st.markdown("---")
+
+    with right_tactical:
+
+        st.markdown(f"### {fighter_two}")
 
         st.markdown("### ⭐ Primary Weapons")
 
-        if f2["strengths"]:
-            for strength in f2["strengths"]:
-                st.success(strength)
-        else:
-            st.info("No standout strengths detected.")
-
+        for strength in f2["strengths"]:
+            st.markdown(
+                f"""
+                <div style="
+                    background:#173322;
+                    border-left:5px solid #22c55e;
+                    padding:14px;
+                    border-radius:10px;
+                    margin-bottom:10px;
+                ">
+                    {strength}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+        
         st.markdown("### 🚨 Vulnerabilities")
 
-        if f2["weaknesses"]:
-            for weakness in f2["weaknesses"]:
-                st.warning(weakness)
-        else:
-            st.success("No major weaknesses detected.")
+        for weakness in f2["weaknesses"]:
+            st.markdown(
+                f"""
+                <div style="
+                    background:#3a2b12;
+                    border-left:5px solid #f59e0b;
+                    padding:14px;
+                    border-radius:10px;
+                    margin-bottom:10px;
+                ">
+                    {weakness}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
         st.markdown("### 🎯 Recommended Gameplan")
 
         for tip in f2["gameplan"]:
-            st.info(tip)
+            st.markdown(
+                f"""
+                <div style="
+                    background:#13283d;
+                    border-left:5px solid #3b82f6;
+                    padding:14px;
+                    border-radius:10px;
+                    margin-bottom:10px;
+                ">
+                    {tip}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
+    st.divider()
 
-        # ===========================
-        # SUMMARY
-        # ===========================
+    # ===========================
+    # SUMMARY
+    # ===========================
 
     st.subheader("Analyst Summary")
     st.info(summary)
 
     st.divider()
-
-        # ===========================
-        # COMPARISON TABLE
-        # ===========================
-
-    st.subheader("📊 Statistical Comparison")
-
-    for item in comparison["advantages"]:
-
-        winner = item["winner"]
-
-        if winner == fighter_one:
-            icon = "🟥"
-        elif winner == fighter_two:
-            icon = "🟦"
-        else:
-            icon = "⚪"
-
-        left, middle, right = st.columns([4, 1, 4], vertical_alignment="center")
-
-        with left:
-            st.markdown(
-            f"<div style='text-align:left;font-weight:bold'>{fighter_one}</div>",
-            unsafe_allow_html=True,
-        )
-            st.markdown(
-            f"<h2 style='text-align:left'>{item['fighter_one_value']}</h2>",
-            unsafe_allow_html=True,
-        )
-
-        with middle:
-            st.markdown(
-            f"""
-            <div style="text-align:center;">
-                <div style="font-size:34px;">{icon}</div>
-                <div style="font-size:14px;margin-top:8px;">
-                    {item["metric"]}
-                </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
-        with right:
-            st.markdown(
-            f"<div style='text-align:right;font-weight:bold'>{fighter_two}</div>",
-            unsafe_allow_html=True,
-        )
-            st.markdown(
-            f"<h2 style='text-align:right'>{item['fighter_two_value']}</h2>",
-            unsafe_allow_html=True,
-        )
-
-        st.divider()
