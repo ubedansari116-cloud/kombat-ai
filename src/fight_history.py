@@ -3,7 +3,7 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 FIGHTS_PATH = PROJECT_ROOT / "data" / "fight_details.csv"
-from fighter_repository import FighterRepository
+from src.fighter_repository import FighterRepository
 
 class FightHistory:
 

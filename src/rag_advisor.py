@@ -1,9 +1,9 @@
 import re
 
-from predictor import KombatPredictor
-from rag_retriever import FighterRetriever
-from fight_engine import FightEngine
-from ai_coach import AICoach
+from src.predictor import KombatPredictor
+from src.rag_retriever import FighterRetriever
+from src.fight_engine import FightEngine
+from src.ai_coach import AICoach
 
 class KombatAdvisor:
     def __init__(self):

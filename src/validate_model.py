@@ -1,8 +1,7 @@
 import csv
 from pathlib import Path
 
-from rag_advisor import KombatAdvisor
-
+from src.rag_advisor import KombatAdvisor
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_FILE = PROJECT_ROOT / "outputs" / "model_validation.csv"
