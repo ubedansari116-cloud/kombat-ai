@@ -80,7 +80,121 @@ class FightEngine:
             "experience": self.clamp(experience),
         }
     
-    
+    def calculate_standup_score(self, attacker, defender):
+
+        power = attacker["splm"] * 8
+
+        accuracy = attacker["striking_accuracy"] * 0.45
+
+        defence = attacker["strike_defense"] * 0.25
+
+        pressure = max(0, attacker["splm"] - attacker["sapm"]) * 6
+
+        opponent_defence = defender["strike_defense"] * 0.30
+
+        score = (
+            power
+            + accuracy
+            + defence
+            + pressure
+            - opponent_defence
+        )
+
+        return self.clamp(score)
+
+    def calculate_ground_score(self, attacker, defender):
+
+        wrestling = (
+            attacker["takedown_avg"] * 8
+            + attacker["takedown_accuracy"] * 0.30
+        )
+
+        grappling = attacker["submission_avg"] * 12
+
+        control = attacker["takedown_avg"] * 4
+
+        opponent_defence = defender["takedown_defense"] * 0.25
+
+        score = (
+            wrestling
+            + grappling
+            + control
+            - opponent_defence
+        )
+
+        return self.clamp(score)
+
+    def generate_momentum_curve(
+        self,
+        base_score,
+        cardio,
+        style,
+    ):
+        score = base_score
+        curve = []
+
+        # Cardio effect
+        fatigue = (100 - cardio) / 100
+
+        # Style tendencies
+        if style in [
+            "Pressure Wrestler",
+            "Sambo Wrestler",
+            "Aggressive Wrestler",
+        ]:
+            round_shift = [2.0, 1.0, 0.0, -0.5, -1.0]
+
+        elif style in [
+            "Kickboxer",
+            "Counter Striker",
+            "Precision Striker",
+            "Pressure Striker",
+            "Boxer Grappler",
+        ]:
+            round_shift = [1.5, 0.5, -0.5, -1.5, -3.0]
+
+        else:
+            round_shift = [1.0, 0.0, -1.0, -2.0, -3.0]
+
+        for i in range(5):
+
+            score += round_shift[i]
+
+            score -= fatigue * (i * 2.5)
+
+            score = self.clamp(score)
+
+            curve.append(round(score, 1))
+
+        return curve
+
+    def determine_style(
+        self,
+        stats,
+    ):
+        """
+        Classifies a fighter into a broad fighting style.
+        """
+
+        striking = self.calculate_standup_score(stats, stats)
+        ground = self.calculate_ground_score(stats, stats)
+
+        if striking >= 80 and ground < 45:
+            return "explosive"
+
+        if striking >= 70 and stats["splm"] >= 5:
+            return "volume"
+
+        if ground >= 75:
+            return "pressure"
+
+        if (
+            stats["strike_defense"] >= 60
+            and stats["sapm"] <= 3
+        ):
+            return "counter"
+
+        return "balanced"
     # ---------------------------------------------------
     # Fight IQ Score
     # ---------------------------------------------------
@@ -166,33 +280,33 @@ class FightEngine:
         
         # ---------- Momentum Curves ----------
 
-        standup_base = (
-            attributes["striking"] * 0.65
-            + attributes["defense"] * 0.35
-        )
+        standup_curve = []
+        ground_curve = []
 
-        ground_base = (
-            attributes["wrestling"] * 0.55
-            + attributes["grappling"] * 0.45
-        )
+        standup_score = self.calculate_standup_score(stats, stats)
+        ground_score = self.calculate_ground_score(stats, stats)
 
-        cardio = attributes["experience"]
+        for round_num in range(5):
 
-        standup_curve = [
-            self.clamp(standup_base + 4),
-            self.clamp(standup_base + 2),
-            self.clamp(standup_base),
-            self.clamp(standup_base - (100 - cardio) * 0.06),
-            self.clamp(standup_base - (100 - cardio) * 0.12),
-        ]
+            fatigue = round_num * 2.5
 
-        ground_curve = [
-            self.clamp(ground_base - 4),
-            self.clamp(ground_base - 1),
-            self.clamp(ground_base + 2),
-            self.clamp(ground_base + 4),
-            self.clamp(ground_base + 6),
-        ]
+            standup_curve.append(
+                round(
+                    self.clamp(
+                        standup_score - fatigue
+                    ),
+                    1,
+                )
+            )
+
+            ground_curve.append(
+                round(
+                    self.clamp(
+                        ground_score - fatigue * 0.8
+                    ),
+                    1,
+                )
+            )   
 
         return {
             "fight_iq": score,

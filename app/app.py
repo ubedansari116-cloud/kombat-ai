@@ -158,6 +158,38 @@ if compare_button:
             )
         st.divider()
 
+    left_graph, right_graph = st.columns(2)
+
+    with left_graph:
+
+        st.markdown("### 🥊 Stand-Up Momentum")
+
+        standup_fig = visualizer.create_momentum_chart(
+            fighter_one_name=fighter_one,
+            fighter_two_name=fighter_two,
+            fighter_one_values=f1["standup_curve"],
+            fighter_two_values=f2["standup_curve"],
+            title="Stand-Up Control Over 5 Rounds",
+        )
+
+        st.pyplot(standup_fig, clear_figure=True)
+
+    with right_graph:
+
+        st.markdown("### 🤼 Ground Control Momentum")
+
+        ground_fig = visualizer.create_momentum_chart(
+            fighter_one_name=fighter_one,
+            fighter_two_name=fighter_two,
+            fighter_one_values=f1["ground_curve"],
+            fighter_two_values=f2["ground_curve"],
+            title="Ground Control Over 5 Rounds",
+        )
+
+        st.pyplot(ground_fig, clear_figure=True)
+
+    st.divider()
+
     st.subheader("📊 Fight IQ Comparison")
 
     comparison_chart = visualizer.create_attribute_comparison(
@@ -169,9 +201,7 @@ if compare_button:
     
 
     st.pyplot(comparison_chart, clear_figure=True)
-
-    st.divider()
-
+ 
     st.markdown("## 🎯 Tactical Breakdown")
 
     left_tactical, right_tactical = st.columns(2)

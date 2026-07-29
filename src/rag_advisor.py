@@ -197,6 +197,65 @@ class KombatAdvisor:
                     ),
             }
 
+            fighter_one_standup = self.fight_engine.calculate_standup_score(
+                analysis[0]["stats"],
+                analysis[1]["stats"],
+            )
+
+            fighter_two_standup = self.fight_engine.calculate_standup_score(
+                analysis[1]["stats"],
+                analysis[0]["stats"],
+            )
+
+            fighter_one_ground = self.fight_engine.calculate_ground_score(
+                analysis[0]["stats"],
+                analysis[1]["stats"],
+            )
+
+            fighter_two_ground = self.fight_engine.calculate_ground_score(
+                analysis[1]["stats"],
+                analysis[0]["stats"],
+            )
+
+            fighter_one_style = self.fight_engine.determine_style(
+                analysis[0]["stats"]
+            )
+
+            fighter_two_style = self.fight_engine.determine_style(
+                analysis[1]["stats"]
+            )
+
+            fighter_one_curve = self.fight_engine.generate_momentum_curve(
+                base_score=fighter_one_standup,
+                cardio=fight_iq["fighter_one"]["attributes"]["experience"],
+                style=fighter_one_style,
+            )
+
+            fighter_two_curve = self.fight_engine.generate_momentum_curve(
+                base_score=fighter_two_standup,
+                cardio=fight_iq["fighter_two"]["attributes"]["experience"],
+                style=fighter_two_style,
+            )
+
+            fighter_one_ground_curve = self.fight_engine.generate_momentum_curve(
+                base_score=fighter_one_ground,
+                cardio=fight_iq["fighter_one"]["attributes"]["experience"],
+                style=fighter_one_style,
+            )
+
+            fighter_two_ground_curve = self.fight_engine.generate_momentum_curve(
+                base_score=fighter_two_ground,
+                cardio=fight_iq["fighter_two"]["attributes"]["experience"],
+                style=fighter_two_style,
+            )
+            
+
+            fight_iq["fighter_one"]["standup_curve"] = fighter_one_curve
+            fight_iq["fighter_two"]["standup_curve"] = fighter_two_curve
+
+            fight_iq["fighter_one"]["ground_curve"] = fighter_one_ground_curve
+            fight_iq["fighter_two"]["ground_curve"] = fighter_two_ground_curve
+            
             summary = self.generate_summary(
                 analysis[0],
                 analysis[1],

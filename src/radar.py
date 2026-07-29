@@ -368,6 +368,40 @@ class FightVisualizer:
             pad=15,
         )
 
+        ax.barh(
+            y,
+            -left_values,
+            height=0.10,
+            color="#00B4FF",
+            label=fighter_one_name,
+        )
+
+        ax.barh(
+            y,
+            right_values,
+            height=0.10,
+            color="#FF4040",
+            label=fighter_two_name,
+        )
+
+        ax.text(
+            -105,
+            len(labels) + 0.3,
+            fighter_one_name,
+            color="#00B4FF",
+            fontsize=12,
+            fontweight="bold",
+        )
+
+        ax.text(
+            55,
+            len(labels) + 0.3,
+            fighter_two_name,
+            color="#FF4040",
+            fontsize=12,
+            fontweight="bold",
+        )
+
         plt.tight_layout()
 
         return fig
