@@ -216,6 +216,7 @@ if compare_button:
                 f"""
                 <div style="
                     background:#173322;
+                    color:white;
                     border-left:5px solid #22c55e;
                     padding:14px;
                     border-radius:10px;
@@ -234,6 +235,7 @@ if compare_button:
                 f"""
                 <div style="
                     background:#3a2b12;
+                    color:white; 
                     border-left:5px solid #f59e0b;
                     padding:14px;
                     border-radius:10px;
@@ -251,6 +253,7 @@ if compare_button:
                 f"""
                 <div style="
                     background:#13283d;
+                    color:white; 
                     border-left:5px solid #3b82f6;
                     padding:14px;
                     border-radius:10px;
@@ -273,7 +276,9 @@ if compare_button:
                 f"""
                 <div style="
                     background:#173322;
+                    color:white; 
                     border-left:5px solid #22c55e;
+                    color:white;
                     padding:14px;
                     border-radius:10px;
                     margin-bottom:10px;
@@ -291,6 +296,7 @@ if compare_button:
                 f"""
                 <div style="
                     background:#3a2b12;
+                    color:white;
                     border-left:5px solid #f59e0b;
                     padding:14px;
                     border-radius:10px;
@@ -309,6 +315,7 @@ if compare_button:
                 f"""
                 <div style="
                     background:#13283d;
+                    color:white;
                     border-left:5px solid #3b82f6;
                     padding:14px;
                     border-radius:10px;
