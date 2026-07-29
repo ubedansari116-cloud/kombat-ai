@@ -110,71 +110,44 @@ The prediction model determines the likely winner, while additional engines expl
 ## System Architecture
 
 
-User
+                                               User
+                                                │
+                                                ▼
+                                        Streamlit Interface
+                                                │
+                                                ▼
+                                    KombatAdvisor (Central Orchestrator)
+                                                │
+                                ─────────────────────────────────────────────
+                               │                                             │
+                               ▼                                             ▼
+                            Prediction Engine                     Fighter Repository
 
-│
-
-▼
-
-Streamlit Interface
-
-│
-
-▼
-
-KombatAdvisor (Central Orchestrator)
-
-│
-
-├─────────────────────────────────────────────┐
-
-│                                             │
-
-▼                                             ▼
-
-Prediction Engine                     Fighter Repository
-
-(Random Forest)                        (CSV Dataset)
-
-│                                             │
-
-▼                                             ▼
-
-Fight Engine                      Fight History Engine
-
-│
-
-▼
-
-Confidence Engine
-
-│
-
-▼
-
-Recommendation Engine
-
-│
-
-▼
-
-Explainability Engine
-
-│
-
-├───────────────────────┐
-
-│                       │
-
-▼                       ▼
-
-Radar Engine      Momentum Engine
-
-│
-
-▼
-
-Visual Interface
+                            (Random Forest)                             (CSV Dataset)
+                                │                                             │
+                                ▼                                             ▼
+                            Fight Engine                      Fight History Engine
+                               │                                             │
+                                ─────────────────────────────────────────────
+                                                    │
+                                                    ▼
+                                            Confidence Engine
+                                                    │
+                                                    ▼
+                                            Recommendation Engine
+                                                    │
+                                                    ▼
+                                            Explainability Engine
+                                                    │
+                                            ───────────────────────
+                                           │                       │
+                                           ▼                       ▼
+                                        Radar Engine      Momentum Engine
+                                           │                       │
+                                            ───────────────────────
+                                                    │
+                                                    ▼
+                                             Visual Interface
 
 
 ---
