@@ -574,40 +574,39 @@ kombat-ai/
 
 # Technologies Used
 
-## Languages
+## Programming Language
 
 - Python
-- SQL
-- HTML
-- CSS
-- JavaScript
+
+## Framework
+
+- Streamlit
 
 ## Machine Learning
 
-- Scikit-Learn
-- Random Forest
+- Scikit-learn
+- Random Forest Classifier
 
-## AI
+## Artificial Intelligence
 
-- Google Gemini
+- Google Gemini API
 - Sentence Transformers
-- Retrieval Augmented Generation
+- Retrieval-Augmented Generation (RAG)
 
-## Data
+## Data Processing
 
 - Pandas
 - NumPy
 
+## Data Storage
+
+- CSV Datasets
+
 ## Visualisation
 
 - Matplotlib
-- Streamlit
 
-## Backend
-
-- Supabase
-
-## Version Control
+## Development Tools
 
 - Git
 - GitHub
@@ -639,6 +638,74 @@ Run the application
 ```bash
 streamlit run app/app.py
 ```
+
+---
+
+# Lessons Learned
+
+Building Kombat AI was far more than training a machine learning model. The project evolved into a complete AI system that required integrating multiple analytical components, managing data pipelines, debugging deployment environments, and designing software that produces explainable results.
+
+Throughout development, several key lessons shaped the final platform:
+
+### Building AI Systems Is More Than Building Models
+
+A prediction model alone provides limited value. The real challenge was designing an ecosystem around the model that could explain predictions, simulate fight dynamics, retrieve contextual information, and generate actionable insights.
+
+---
+
+### Explainability Creates Trust
+
+Early versions only predicted the winner of a fight. While the model performed well, the predictions lacked transparency.
+
+Introducing confidence estimation, tactical analysis, fighter attribute comparisons, and momentum visualisations transformed the application into an explainable AI platform where users understand *why* a prediction was made instead of simply accepting the output.
+
+---
+
+### Feature Engineering Has a Bigger Impact Than Model Complexity
+
+Significant improvements came from engineering meaningful combat attributes—such as Power, Durability, Fight IQ, Wrestling, Grappling, and Cardio—rather than replacing the underlying machine learning algorithm.
+
+The quality of the features proved more valuable than increasing model complexity.
+
+---
+
+### Modular Architecture Makes Development Easier
+
+Separating the project into independent components—Prediction Engine, Confidence Engine, Recommendation Engine, Explainability Engine, Momentum Engine, AI Coach, and RAG modules—made debugging, testing, and extending the application significantly easier.
+
+This modular design also allows future features to be added with minimal changes to existing components.
+
+---
+
+### Retrieval-Augmented Generation Improves AI Responses
+
+Large Language Models are powerful, but generic responses are not always reliable.
+
+Using Retrieval-Augmented Generation (RAG) grounded the AI Coach in fighter-specific knowledge, resulting in more accurate, context-aware, and relevant responses.
+
+---
+
+### Deployment Is Part of Software Engineering
+
+Deploying the application introduced challenges that did not exist during local development, including dependency management, file handling, environment variables, ignored assets, import paths, and production configuration.
+
+Resolving these issues reinforced the importance of designing software with deployment in mind from the beginning.
+
+---
+
+### Data Quality Determines AI Quality
+
+Cleaning fighter statistics, engineering meaningful attributes, organising knowledge documents, and maintaining consistent datasets were all essential to producing reliable predictions and tactical insights.
+
+The effectiveness of the platform depended as much on data quality as on the machine learning model itself.
+
+---
+
+### AI Should Assist Human Analysis, Not Replace It
+
+Kombat AI was designed to support analytical reasoning rather than replace it. Predictions, explanations, and recommendations are intended to help users evaluate matchups while leaving the final interpretation to the analyst.
+
+This philosophy guided the development of every component within the platform.
 
 ---
 
